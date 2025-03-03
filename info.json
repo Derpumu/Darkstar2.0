@@ -1,0 +1,11 @@
+{
+  "name": "Darkstar2.0",
+  "version": "0.0.1",
+  "factorio_version": "2.0",
+  "title": "Darkstar 2.0",
+  "author": "DerPumu",
+  "contact": "https://github.com/Derpumu/Pacifist",
+  "homepage": "https://mods.factorio.com/mod/Pacifist",
+  "description": "Fork of Darkstar Utilities by Nekomancer for Factorio 2.0. Propel yourself all the way from mining stone with your hands to ripping holes in reality. Darkstar Aims to extend the playtime of the game to well over twice the standard. With extra features like Quarries and Ore Probes for mining in lands with no ores, or launching rockets to mine deep space materials. With 604 currently added features!",
+  "dependencies": ["base"]
+}
