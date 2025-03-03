@@ -1,6 +1,6 @@
 # Darkstar2.0 Factorio mod
 
-- [Mod portal](https://mods.factorio.com/mod/Pacifist)
+- [Mod portal](https://mods.factorio.com/mod/Darkstar2.0)
 
 # Darkstar 2.0
 
