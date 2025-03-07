@@ -16,7 +16,7 @@ data:extend(
             {
                 result = "stone-path-red",
                 condition_size = 4,
-                condition = { "water-tile" }
+                condition = { layers = { water_tile = true } }
             }
         },
         {
@@ -32,7 +32,7 @@ data:extend(
             {
                 result = "stone-path-yellow",
                 condition_size = 4,
-                condition = { "water-tile" }
+                condition = { layers = { water_tile = true } }
             }
         },
         {
@@ -48,7 +48,8 @@ data:extend(
             {
                 result = "stone-path-blue",
                 condition_size = 4,
-                condition = { "water-tile" }
+                condition = { layers = { water_tile = true } }
+
             }
         },
         {
@@ -64,7 +65,8 @@ data:extend(
             {
                 result = "stone-path-green",
                 condition_size = 4,
-                condition = { "water-tile" }
+                condition = { layers = { water_tile = true } }
+
             }
         },
         {
@@ -80,7 +82,8 @@ data:extend(
             {
                 result = "stone-path-purple",
                 condition_size = 4,
-                condition = { "water-tile" }
+                condition = { layers = { water_tile = true } }
+
             }
         },
         {
@@ -96,7 +99,8 @@ data:extend(
             {
                 result = "stone-path-black",
                 condition_size = 4,
-                condition = { "water-tile" }
+                condition = { layers = { water_tile = true } }
+
             }
         },
         {
@@ -112,7 +116,8 @@ data:extend(
             {
                 result = "glass-tile",
                 condition_size = 4,
-                condition = { "water-tile" }
+                condition = { layers = { water_tile = true } }
+
             },
         },
 
@@ -129,7 +134,8 @@ data:extend(
             {
                 result = "express-tile",
                 condition_size = 4,
-                condition = { "water-tile" }
+                condition = { layers = { water_tile = true } }
+
             },
         },
     }
