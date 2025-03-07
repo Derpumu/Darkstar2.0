@@ -1361,6 +1361,66 @@ data:extend(
       priority = "high"
     },
     smoke = capsule_smoke,
-  }
+  },
+  {
+    type = "projectile",
+    name = "cluster-nuke-grenade",
+
+    acceleration = 0.005,
+    action =
+    {
+      {
+        type = "direct",
+        action_delivery =
+        {
+          type = "instant",
+          target_effects =
+          {
+            {
+              type = "create-entity",
+              entity_name = "explosion"
+            },
+            {
+              type = "create-entity",
+              entity_name = "small-scorchmark",
+              check_buildability = true
+            }
+          }
+        }
+      },
+      {
+        type = "cluster",
+        cluster_count = 30,
+        distance = 60,
+        distance_deviation = 12,
+        action_delivery =
+        {
+          type = "projectile",
+          projectile = "atomic-rocket2",
+          direction_deviation = 0.6,
+          starting_speed = 0.10,
+          starting_speed_deviation = 0.3
+        }
+      }
+    },
+    light = {intensity = 0.5, size = 4},
+    animation =
+    {
+      filename = "__base__/graphics/entity/cluster-grenade/cluster-grenade.png",
+      frame_count = 1,
+      width = 24,
+      height = 24,
+      priority = "high"
+    },
+    shadow =
+    {
+      filename = "__base__/graphics/entity/grenade/grenade-shadow.png",
+      frame_count = 1,
+      width = 24,
+      height = 24,
+      priority = "high"
+    }
+  },
+
 }
 )
