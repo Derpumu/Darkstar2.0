@@ -17,15 +17,16 @@ data:extend(
             selection_box = { { -1.5, -1.5 }, { 1.5, 1.5 } },
             fluid_box =
             {
-                base_area = 1250,
+                volume = 125000,
                 pipe_covers = pipecoverspictures(),
                 pipe_connections =
                 {
-                    { position = { -1, -2 } },
-                    { position = { 2, 1 } },
-                    { position = { 1, 2 } },
-                    { position = { -2, -1 } },
+                  { direction = defines.direction.north, position = {-1, -1} },
+                  { direction = defines.direction.east, position = {1, 1} },
+                  { direction = defines.direction.south, position = {1, 1} },
+                  { direction = defines.direction.west, position = {-1, -1} }
                 },
+                hide_connection_info = true
             },
             two_direction_only = true,
             window_bounding_box = { { -0.125, 0.6875 }, { 0.1875, 1.1875 } },
