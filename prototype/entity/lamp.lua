@@ -21,7 +21,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            energy_usage_per_tick = "30KW",
+            energy_usage_per_tick = "30kW",
             light = { intensity = 5, size = 260, color = { r = 1, g = 1, b = 1 } },
             light_when_colored = { intensity = 5, size = 260, color = { r = 1, g = 1, b = 1 } },
             glow_size = 120,
@@ -132,7 +132,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            energy_usage_per_tick = "3KW",
+            energy_usage_per_tick = "3kW",
             light = { intensity = 6, size = 15, color = { r = 1, g = 0, b = 0 } },
             light_when_colored = { intensity = 1, size = 30, color = { r = 1, g = 0, b = 0 } },
             glow_size = 9,
@@ -186,7 +186,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            energy_usage_per_tick = "3KW",
+            energy_usage_per_tick = "3kW",
             light = { intensity = 9, size = 15, color = { r = 0, g = 0.3, b = 1 } },
             light_when_colored = { intensity = 1, size = 30, color = { r = 1, g = 0, b = 0 } },
             glow_size = 9,
@@ -241,7 +241,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            energy_usage_per_tick = "3KW",
+            energy_usage_per_tick = "3kW",
             light = { intensity = 6, size = 15, color = { r = 1, g = 1, b = 0 } },
             light_when_colored = { intensity = 1, size = 30, color = { r = 1, g = 1, b = 0 } },
             glow_size = 9,
@@ -295,7 +295,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            energy_usage_per_tick = "3KW",
+            energy_usage_per_tick = "3kW",
             light = { intensity = 6, size = 15, color = { r = 0, g = 1, b = 0 } },
             light_when_colored = { intensity = 1, size = 30, color = { r = 1, g = 0, b = 0 } },
             glow_size = 9,
@@ -349,7 +349,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            energy_usage_per_tick = "3KW",
+            energy_usage_per_tick = "3kW",
             light = { intensity = 6, size = 15, color = { r = 0.6, g = 0, b = 1 } },
             light_when_colored = { intensity = 1, size = 30, color = { r = 0.6, g = 0, b = 1 } },
             glow_size = 9,
@@ -403,7 +403,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            energy_usage_per_tick = "3KW",
+            energy_usage_per_tick = "3kW",
             light = { intensity = 6, size = 15, color = { r = 0, g = 1, b = 1 } },
             light_when_colored = { intensity = 1, size = 30, color = { r = 0, g = 1, b = 1 } },
             glow_size = 9,
@@ -457,7 +457,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            energy_usage_per_tick = "3KW",
+            energy_usage_per_tick = "3kW",
             light = { intensity = 6, size = 15, color = { r = 1, g = 1, b = 1 } },
             light_when_colored = { intensity = 1, size = 30, color = { r = 1, g = 1, b = 1 } },
             glow_size = 9,
