@@ -303,39 +303,11 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 20,
+                emissions_per_minute = { pollution = 20 },
             },
             energy_usage = "210kW",
             crafting_categories = { "chemistry", "chemistry2" },
-            fluid_boxes =
-            {
-                {
-                    production_type = "input",
-                    pipe_covers = pipecoverspictures(),
-                    base_area = 10,
-                    base_level = -1,
-                    pipe_connections = { { type = "input", position = { -1, -2 } } }
-                },
-                {
-                    production_type = "input",
-                    pipe_covers = pipecoverspictures(),
-                    base_area = 10,
-                    base_level = -1,
-                    pipe_connections = { { type = "input", position = { 1, -2 } } }
-                },
-                {
-                    production_type = "output",
-                    pipe_covers = pipecoverspictures(),
-                    base_level = 1,
-                    pipe_connections = { { position = { -1, 2 } } }
-                },
-                {
-                    production_type = "output",
-                    pipe_covers = pipecoverspictures(),
-                    base_level = 1,
-                    pipe_connections = { { position = { 1, 2 } } }
-                }
-            }
+            fluid_boxes = table.deepcopy(data.raw["assembling-machine"]["chemical-plant"].fluid_boxes)
         },
         {
             type = "assembling-machine",
@@ -355,28 +327,8 @@ data:extend(
                     percent = 70
                 }
             },
-            fluid_boxes =
-            {
-                {
-                    production_type = "input",
-                    pipe_picture = assembler3pipepictures(),
-                    pipe_covers = pipecoverspictures(),
-                    base_area = 10,
-                    base_level = -1,
-                    pipe_connections = { { type = "input", position = { 0, -2 } } },
-                    secondary_draw_orders = { north = -1 }
-                },
-                {
-                    production_type = "output",
-                    pipe_picture = assembler3pipepictures(),
-                    pipe_covers = pipecoverspictures(),
-                    base_area = 10,
-                    base_level = 1,
-                    pipe_connections = { { type = "output", position = { 0, 2 } } },
-                    secondary_draw_orders = { north = -1 }
-                },
-                off_when_no_fluid_recipe = true
-            },
+            fluid_boxes = table.deepcopy(data.raw["assembling-machine"]["assembling-machine-3"].fluid_boxes),
+            fluid_boxes_off_when_no_fluid_recipe = true,
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
@@ -455,7 +407,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 4,
+                emissions_per_minute = { pollution = 4 },
             },
             energy_usage = "500kW",
             ingredient_count = 9,
@@ -562,7 +514,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 1,
+                emissions_per_minute = { pollution = 1 },
             },
             energy_usage = "500kW",
             ingredient_count = 9,
@@ -669,7 +621,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 1,
+                emissions_per_minute = { pollution = 1 },
             },
             energy_usage = "500kW",
             ingredient_count = 9,
@@ -773,7 +725,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = -24,
+                emissions_per_minute = { pollution = -24 },
             },
             energy_usage = "150MW",
             ingredient_count = 9,
@@ -880,7 +832,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = -6,
+                emissions_per_minute = { pollution = -6 },
             },
             energy_usage = "0.5kW",
             ingredient_count = 2,
@@ -961,7 +913,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1042,7 +994,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1123,7 +1075,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1204,7 +1156,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1285,7 +1237,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1366,7 +1318,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1447,7 +1399,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1528,7 +1480,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1609,7 +1561,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1690,7 +1642,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1793,7 +1745,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -1902,7 +1854,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -2011,7 +1963,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -2120,7 +2072,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -2228,7 +2180,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -2336,7 +2288,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 75,
+                emissions_per_minute = { pollution = 75 },
             },
             energy_usage = "250kW",
             ingredient_count = 2,
@@ -2445,7 +2397,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 300,
+                emissions_per_minute = { pollution = 300 },
             },
             energy_usage = "1MW",
             ingredient_count = 2,
@@ -2554,7 +2506,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 300,
+                emissions_per_minute = { pollution = 300 },
             },
             energy_usage = "1MW",
             ingredient_count = 2,
@@ -2663,7 +2615,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 300,
+                emissions_per_minute = { pollution = 300 },
             },
             energy_usage = "1MW",
             ingredient_count = 2,
@@ -2772,7 +2724,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 300,
+                emissions_per_minute = { pollution = 300 },
             },
             energy_usage = "1MW",
             ingredient_count = 2,
@@ -2880,7 +2832,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 300,
+                emissions_per_minute = { pollution = 300 },
             },
             energy_usage = "1MW",
             ingredient_count = 2,
@@ -2988,7 +2940,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 300,
+                emissions_per_minute = { pollution = 300 },
             },
             energy_usage = "1MW",
             ingredient_count = 2,
@@ -3097,7 +3049,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 300,
+                emissions_per_minute = { pollution = 300 },
             },
             energy_usage = "1MW",
             ingredient_count = 2,
@@ -3206,7 +3158,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 50,
+                emissions_per_minute = { pollution = 50 },
             },
             energy_usage = "1000kW",
             ingredient_count = 2,
@@ -3314,7 +3266,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = -15000,
+                emissions_per_minute = { pollution = -15000 },
             },
             energy_usage = "50kW",
             ingredient_count = 2,
@@ -3346,7 +3298,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 9,
+                emissions_per_minute = { pollution = 9 },
             },
             energy_usage = "1264kW",
             ingredient_count = 4,
@@ -3416,41 +3368,7 @@ data:extend(
                 idle_sound = { filename = "__base__/sound/idle1.ogg", volume = 0.6 },
                 apparent_volume = 2.5,
             },
-            fluid_boxes =
-            {
-                {
-                    production_type = "input",
-                    pipe_covers = pipecoverspictures(),
-                    base_area = 10,
-                    base_level = -1,
-                    pipe_connections = { { type = "input", position = { -1, 3 } } }
-                },
-                {
-                    production_type = "input",
-                    pipe_covers = pipecoverspictures(),
-                    base_area = 10,
-                    base_level = -1,
-                    pipe_connections = { { type = "input", position = { 1, 3 } } }
-                },
-                {
-                    production_type = "output",
-                    pipe_covers = pipecoverspictures(),
-                    base_level = 1,
-                    pipe_connections = { { position = { -2, -3 } } }
-                },
-                {
-                    production_type = "output",
-                    pipe_covers = pipecoverspictures(),
-                    base_level = 1,
-                    pipe_connections = { { position = { 0, -3 } } }
-                },
-                {
-                    production_type = "output",
-                    pipe_covers = pipecoverspictures(),
-                    base_level = 1,
-                    pipe_connections = { { position = { 2, -3 } } }
-                }
-            },
+            fluid_boxes = table.deepcopy(data.raw["assembling-machine"]["oil-refinery"].fluid_boxes),
             pipe_covers = pipecoverspictures()
         },
 
