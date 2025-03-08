@@ -29,22 +29,21 @@ data:extend(
             },
             fluid_box =
             {
-                base_area = 1,
-                height = 2,
+                volume = 200,
                 pipe_covers = pipecoverspictures(),
                 pipe_connections =
                 {
-                    { position = { 0, -1.5 }, type = "output" },
-                    { position = { 0, 1.5 }, type = "input" }
+                  { direction = defines.direction.north, position = {0, -0.5}, flow_direction = "output" },
+                  { direction = defines.direction.south, position = {0, 0.5}, flow_direction = "input" }
                 }
-            },
+                      },
             energy_source =
             {
                 type = "electric",
                 usage_priority = "secondary-input"
             },
             energy_usage = "190kW",
-            pumping_speed = 240,
+            pumping_speed = 24,
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
 
             animations =
