@@ -37,7 +37,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 3,
+                emissions_per_minute = { pollution = 3 },
             },
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             working_sound =
@@ -139,7 +139,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = 20,
+                emissions_per_minute = { pollution = 20 },
             },
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             working_sound =
@@ -286,7 +286,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = -12,
+                emissions_per_minute = { pollution = -12 },
             },
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             working_sound =
@@ -363,7 +363,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = -60,
+                emissions_per_minute = { pollution = -60 },
             },
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             working_sound =
@@ -440,7 +440,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = -300,
+                emissions_per_minute = { pollution = -300 },
             },
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             working_sound =
@@ -517,7 +517,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = -1500,
+                emissions_per_minute = { pollution = -1500 },
             },
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             working_sound =
@@ -594,7 +594,7 @@ data:extend(
             {
                 type = "electric",
                 usage_priority = "secondary-input",
-                emissions_per_minute = -7500,
+                emissions_per_minute = { pollution = -7500 },
             },
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             working_sound =
@@ -677,7 +677,7 @@ data:extend(
                 type = "burner",
                 effectivity = 2,
                 fuel_inventory_size = 1,
-                emissions_per_minute = 3,
+                emissions_per_minute = { pollution = 3 },
                 smoke =
                 {
                     {
