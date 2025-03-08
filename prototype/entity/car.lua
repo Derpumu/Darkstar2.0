@@ -45,12 +45,13 @@ data:extend(
                 }
             },
             collision_box = { { -0.9, -2.6 }, { 0.9, 2.6 } },
-            collision_mask = {},
+            collision_mask = { layers = {} },
             selection_box = { { -0.9, -2.6 }, { 0.9, 2.6 } },
             effectivity = 0.7,
             braking_power = "450kW",
-            burner =
+            energy_source =
             {
+                type = "burner",
                 effectivity = 0.1,
                 fuel_inventory_size = 2,
                 smoke =
@@ -186,12 +187,13 @@ data:extend(
                 }
             },
             collision_box = { { -6, -14 }, { 6, 14 } },
-            collision_mask = {},
+            collision_mask = { layers = {} },
             selection_box = { { -6, -14 }, { 6, 14 } },
             effectivity = 0.04,
             braking_power = "250kW",
-            burner =
+            energy_source =
             {
+                type = "burner",
                 effectivity = 0.05,
                 fuel_inventory_size = 2,
                 smoke =
@@ -327,13 +329,14 @@ data:extend(
                 }
             },
             collision_box = { { -0.9, -2.6 }, { 0.9, 2.6 } },
-            collision_mask = {},
+            collision_mask = { layers = {} },
             selection_box = { { -2.4, -4.6 }, { 2, 4.6 } },
             shift = { -0.1, -55 },
             effectivity = 1,
             braking_power = "450kW",
-            burner =
+            energy_source =
             {
+                type = "burner",
                 effectivity = 0.00001,
                 fuel_inventory_size = 10,
                 smoke =
@@ -469,13 +472,14 @@ data:extend(
                 }
             },
             collision_box = { { -0.9, -2.6 }, { 0.9, 2.6 } },
-            collision_mask = {},
+            collision_mask = { layers = {} },
             selection_box = { { -4.5, -6 }, { 3.6, 0 } },
             shift = { -0.1, -55 },
             effectivity = 0.01,
             braking_power = "4050kW",
-            burner =
+            energy_source =
             {
+                type = "burner",
                 effectivity = 0.0001,
                 fuel_inventory_size = 10,
                 smoke =
