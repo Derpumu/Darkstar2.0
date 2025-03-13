@@ -59,13 +59,7 @@ data:extend(
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             energy_usage = "50MW",
             distribution_effectivity = 0.5,
-            module_specification =
-            {
-                module_slots = 3,
-                module_info_icon_shift = { 0, 0.5 },
-                module_info_multi_row_initial_height_modifier = -0.3
-
-            },
+            module_slots = 3,
         },
 
         {
@@ -123,13 +117,7 @@ data:extend(
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             energy_usage = "5MW",
             distribution_effectivity = 3,
-            module_specification =
-            {
-                module_slots = 12,
-                module_info_icon_shift = { 0, 0.5 },
-                module_info_multi_row_initial_height_modifier = -0.3
-
-            },
+            module_slots = 12,
         },
 
         {
@@ -187,13 +175,7 @@ data:extend(
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             energy_usage = "5GW",
             distribution_effectivity = 2.5,
-            module_specification =
-            {
-                module_slots = 1,
-                module_info_icon_shift = { 0, 0.5 },
-                module_info_multi_row_initial_height_modifier = -0.3
-
-            },
+            module_slots = 1,
         },
 
         {
@@ -251,13 +233,7 @@ data:extend(
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             energy_usage = "5MW",
             distribution_effectivity = 0.5,
-            module_specification =
-            {
-                module_slots = 1,
-                module_info_icon_shift = { 0, 0.5 },
-                module_info_multi_row_initial_height_modifier = -0.3
-
-            },
+            module_slots = 1,
         },
 
         {
@@ -315,12 +291,7 @@ data:extend(
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             energy_usage = "50GW",
             distribution_effectivity = 0.5,
-            module_specification =
-            {
-                module_slots = 10,
-                module_info_icon_shift = { 0, 0.5 },
-                module_info_multi_row_initial_height_modifier = -0.3
-            },
+            module_slots = 10,
         },
     }
 )
