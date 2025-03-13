@@ -46,7 +46,7 @@ data:extend(
             energy_source =
             {
                 type = "electric",
-                emissions_per_minute = 20,
+                emissions_per_minute = { pollution = 20 },
                 usage_priority = "secondary-input"
             },
             energy_usage = "20MW",
@@ -106,7 +106,7 @@ data:extend(
             energy_source =
             {
                 type = "electric",
-                emissions_per_minute = 40,
+                emissions_per_minute = { pollution = 40 },
                 usage_priority = "secondary-input"
             },
             energy_usage = "50MW",
@@ -169,7 +169,7 @@ data:extend(
             energy_source =
             {
                 type = "electric",
-                emissions_per_minute = 40,
+                emissions_per_minute = { pollution = 40 },
                 usage_priority = "secondary-input"
             },
             energy_usage = "40MW",
@@ -229,7 +229,7 @@ data:extend(
             energy_source =
             {
                 type = "electric",
-                emissions_per_minute = 80,
+                emissions_per_minute = { pollution = 80 },
                 usage_priority = "secondary-input"
             },
             energy_usage = "100MW",
@@ -292,7 +292,7 @@ data:extend(
             energy_source =
             {
                 type = "electric",
-                emissions_per_minute = 60,
+                emissions_per_minute = { pollution = 60 },
                 usage_priority = "secondary-input"
             },
             energy_usage = "60MW",
@@ -352,7 +352,7 @@ data:extend(
             energy_source =
             {
                 type = "electric",
-                emissions_per_minute = 120,
+                emissions_per_minute = { pollution = 120 },
                 usage_priority = "secondary-input"
             },
             energy_usage = "200MW",
@@ -415,7 +415,7 @@ data:extend(
             energy_source =
             {
                 type = "electric",
-                emissions_per_minute = 80,
+                emissions_per_minute = { pollution = 80 },
                 usage_priority = "secondary-input"
             },
             energy_usage = "80MW",
@@ -475,7 +475,7 @@ data:extend(
             energy_source =
             {
                 type = "electric",
-                emissions_per_minute = 300,
+                emissions_per_minute = { pollution = 300 },
                 usage_priority = "secondary-input"
             },
             energy_usage = "400MW",
@@ -514,18 +514,19 @@ data:extend(
             {
                 type = "electric",
                 -- will produce this much * energy pollution units per tick
-                emissions_per_minute = 6,
+                emissions_per_minute = { pollution = 6 },
                 usage_priority = "secondary-input"
             },
             output_fluid_box =
             {
-                base_area = 1,
-                base_level = 1,
+                volume = 100,
                 pipe_covers = pipecoverspictures(),
                 pipe_connections =
                 {
                     {
-                        positions = { { 1, -2 }, { 2, -1 }, { -1, 2 }, { -2, 1 } }
+                        direction = defines.direction.north,
+                        positions = {{1, -1}, {1, -1}, {-1, 1}, {-1, 1}},
+                        flow_direction = "output"
                     }
                 },
             },
