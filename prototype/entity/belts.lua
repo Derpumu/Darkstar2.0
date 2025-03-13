@@ -9,7 +9,7 @@ data:extend(
             icon = "__base__/graphics/icons/loader.png",
             icon_size = 64,
             icon_mipmaps = 4,
-            flags = { "placeable-neutral", "player-creation", "fast-replaceable-no-build-while-moving" },
+            flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "terra-loader" },
             max_health = 250,
             filter_count = 5,
