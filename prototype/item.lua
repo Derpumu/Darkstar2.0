@@ -1,4 +1,4 @@
--- require("item.advanced-materials")
+require("item.advanced-materials")
 -- require("item.ammo")
 -- require("item.base-packs")
 -- require("item.belts")

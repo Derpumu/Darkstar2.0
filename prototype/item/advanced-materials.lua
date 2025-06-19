@@ -1,6 +1,3 @@
--- TODO: check what has been copy-pasted from 1.1
--- TODO: check attributes in 2.0
-
 data:extend(
     {
         {
