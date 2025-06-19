@@ -2,7 +2,7 @@
 
 local logistic_robot_mk2 = table.deepcopy(data.raw["logistic-robot"]["logistic-robot"])
 logistic_robot_mk2.name = "logistic-robot-mk2"
-logistic_robot_mk2.minable = { hardness = 0.1, mining_time = 0.1, result = "logistic-robot-mk2" }
+logistic_robot_mk2.minable = { mining_time = 0.1, result = "logistic-robot-mk2" }
 logistic_robot_mk2.max_health = 250
 logistic_robot_mk2.max_payload_size = 15
 logistic_robot_mk2.speed = 25
@@ -20,7 +20,7 @@ logistic_robot_mk2.in_motion_with_cargo.shift = util.by_pixel(0.5, -3)
 
 local construction_robot_mk2 = table.deepcopy(data.raw["construction-robot"]["construction-robot"])
 construction_robot_mk2.name = "construction-robot-mk2"
-construction_robot_mk2.minable = { hardness = 0.1, mining_time = 0.1, result = "construction-robot-mk2" }
+construction_robot_mk2.minable = { mining_time = 0.1, result = "construction-robot-mk2" }
 construction_robot_mk2.max_health = 250
 construction_robot_mk2.speed = 0.25
 construction_robot_mk2.max_energy = "3000kJ"

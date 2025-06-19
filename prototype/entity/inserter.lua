@@ -16,7 +16,6 @@ data:extend(
             allowed_effects = { "consumption", "speed", "productivity", "pollution" },
             minable =
             {
-                hardness = 0.2,
                 mining_time = 0.5,
                 result = "rapid-inserter"
             },
@@ -139,7 +138,6 @@ data:extend(
             allowed_effects = { "consumption", "speed", "productivity", "pollution" },
             minable =
             {
-                hardness = 0.2,
                 mining_time = 0.5,
                 result = "terra-inserter"
             },
@@ -257,7 +255,6 @@ data:extend(
             stack = False,
             minable =
             {
-                hardness = 0.2,
                 mining_time = 0.5,
                 result = "smart-terra-inserter"
             },

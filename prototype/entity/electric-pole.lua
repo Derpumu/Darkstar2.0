@@ -9,7 +9,7 @@ data:extend(
             icon = "__base__/graphics/icons/substation.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "substation-mk2" },
+            minable = { mining_time = 0.5, result = "substation-mk2" },
             max_health = 200,
             corpse = "medium-remnants",
             resistances =
@@ -115,7 +115,7 @@ data:extend(
             icon = "__base__/graphics/icons/substation.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "tesla-coil" },
+            minable = { mining_time = 0.5, result = "tesla-coil" },
             max_health = 200,
             corpse = "medium-remnants",
             resistances =
@@ -179,7 +179,7 @@ data:extend(
             icon = "__base__/graphics/icons/substation.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "terra-coil" },
+            minable = { mining_time = 0.5, result = "terra-coil" },
             max_health = 200,
             corpse = "medium-remnants",
             resistances =

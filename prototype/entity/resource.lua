@@ -12,7 +12,6 @@ data:extend(
             order = "a-b-b",
             minable =
             {
-                hardness = 0.9,
                 mining_particle = "iron-ore-particle",
                 mining_time = 2,
                 result = "gold-ore"
@@ -105,7 +104,6 @@ data:extend(
             order = "a-b-b",
             minable =
             {
-                hardness = 0.9,
                 mining_particle = "iron-ore-particle",
                 mining_time = 2,
                 result = "lithium-ore"
@@ -198,7 +196,6 @@ data:extend(
             order = "a-b-b",
             minable =
             {
-                hardness = 0.9,
                 mining_particle = "iron-ore-particle",
                 mining_time = 4,
                 result = "lead-ore"
