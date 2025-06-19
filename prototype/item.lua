@@ -1,5 +1,5 @@
 require("item.advanced-materials")
--- require("item.ammo") -- TODO: projectile entities
+require("item.ammo")
 -- require("item.base-packs")
 -- require("item.belts")
 -- require("item.capsule")

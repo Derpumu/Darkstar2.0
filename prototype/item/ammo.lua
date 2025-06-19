@@ -8,7 +8,6 @@ data:extend(
             name = "explosive-rocket-mk2",
             icon = "__Darkstar2.0__/graphics/ammo/railgun-ammo1.png",
             icon_size = 32,
-            icon_mipmaps = 1,
 
             ammo_category = "rocket-mk2",
             ammo_type =
@@ -64,17 +63,19 @@ data:extend(
                         starting_speed = 550.1,
                         source_effects =
                         {
-                            type = "create-entity",
-                            entity_name = "explosion-hit"
-                        },
-                        {
-                            type = "create-entity",
-                            entity_name = "railgun-explosion",
-                            check_buildability = true
-                        },
-                        {
-                            type = "damage",
-                            damage = { amount = 300 + 1050, type = "physical" }
+                            {
+                                type = "create-entity",
+                                entity_name = "explosion-hit"
+                            },
+                            {
+                                type = "create-entity",
+                                entity_name = "railgun-explosion",
+                                check_buildability = true
+                            },
+                            {
+                                type = "damage",
+                                damage = { amount = 300 + 1050, type = "physical" }
+                            }
                         }
                     }
                 }
@@ -103,17 +104,19 @@ data:extend(
                         starting_speed = 550.1,
                         source_effects =
                         {
-                            type = "create-entity",
-                            entity_name = "explosion-hit"
-                        },
-                        {
-                            type = "create-entity",
-                            entity_name = "railgun-explosion",
-                            check_buildability = true
-                        },
-                        {
-                            type = "damage",
-                            damage = { amount = 300 + 1050, type = "physical" }
+                            {
+                                type = "create-entity",
+                                entity_name = "explosion-hit"
+                            },
+                            {
+                                type = "create-entity",
+                                entity_name = "railgun-explosion",
+                                check_buildability = true
+                            },
+                            {
+                                type = "damage",
+                                damage = { amount = 300 + 1050, type = "physical" }
+                            }
                         }
                     }
                 }
@@ -125,7 +128,7 @@ data:extend(
 
         {
             type = "ammo",
-            name = "railgun-mk2-round2",
+            name = "railgun-mk2-round3",
             icon = "__Darkstar2.0__/graphics/ammo/railgun-ammo3.png",
             icon_size = 32,
 
@@ -140,11 +143,6 @@ data:extend(
                     range = 200,
                     width = 8,
 
-                    source_effects =
-                    {
-                        type = "create-explosion",
-                        entity_name = "railgun-beam"
-                    },
                     action_delivery =
                     {
                         type = "instant",
@@ -181,26 +179,14 @@ data:extend(
                         starting_speed = 0.1,
                         source_effects =
                         {
-                            type = "create-entity",
-                            entity_name = "explosion-hit"
-                        },
-                        {
-                            type = "cluster",
-                            cluster_count = 30,
-                            distance = 60,
-                            distance_deviation = 12,
-                            action_delivery =
                             {
-                                type = "projectile",
-                                projectile = "atomic-rocket2",
-                                direction_deviation = 0.6,
-                                starting_speed = 0.10,
-                                starting_speed_deviation = 0.3
+                                type = "create-entity",
+                                entity_name = "explosion-hit"
+                            },
+                            {
+                                type = "damage",
+                                damage = { amount = 300 + 1050, type = "physical" }
                             }
-                        },
-                        {
-                            type = "damage",
-                            damage = { amount = 300 + 1050, type = "physical" }
                         }
                     }
                 }
@@ -216,7 +202,6 @@ data:extend(
             name = "healing-wave-rocket",
             icon = "__base__/graphics/icons/explosive-rocket.png",
             icon_size = 64,
-            icon_mipmaps = 4,
 
             ammo_category = "healing",
             ammo_type =
@@ -231,17 +216,19 @@ data:extend(
                         starting_speed = 8.75,
                         source_effects =
                         {
-                            type = "create-entity",
-                            entity_name = "explosion-hit"
-                        },
-                        {
-                            type = "create-entity",
-                            entity_name = "big-explosion",
-                            check_buildability = true
-                        },
-                        {
-                            type = "damage",
-                            damage = { amount = -300 + -1050, type = "physical" }
+                            {
+                                type = "create-entity",
+                                entity_name = "explosion-hit"
+                            },
+                            {
+                                type = "create-entity",
+                                entity_name = "big-explosion",
+                                check_buildability = true
+                            },
+                            {
+                                type = "damage",
+                                damage = { amount = -300 + -1050, type = "physical" }
+                            }
                         }
                     }
                 }
@@ -690,8 +677,6 @@ data:extend(
                         {
                             type = "stream",
                             stream = "handheld-flamethrower-fire-stream",
-                            max_length = 60,
-                            duration = 820,
                         }
                     }
                 }
@@ -711,11 +696,6 @@ data:extend(
             ammo_type =
             {
                 target_type = "direction",
-                source_effects =
-                {
-                    type = "create-explosion",
-                    entity_name = "explosion-gunshot"
-                },
                 action =
                 {
                     type = "direct",
@@ -728,6 +708,11 @@ data:extend(
                         direction_deviation = 0.3,
                         range_deviation = 0.6,
                         max_range = 55,
+                        source_effects =
+                        {
+                            type = "create-explosion",
+                            entity_name = "explosion-gunshot"
+                        },
                     }
                 }
             },
