@@ -3,7 +3,7 @@
 -- require("prototype.entity")
 -- require("prototype.recipe")
 -- require("prototype.technology")
--- require("prototype.modules")
+require("prototype.modules")
 -- require("prototype.armor")
 -- require("prototype.equipment")
 require("prototype.ammo-category")
