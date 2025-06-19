@@ -7,7 +7,6 @@ capsule_smoke =
     position = { 0, 0 },
     starting_frame = 3,
     starting_frame_deviation = 5,
-    starting_frame_speed_deviation = 5
   }
 }
 
@@ -48,7 +47,6 @@ data:extend(
         priority = "high",
         blend_mode = "additive"
       },
-      speed = 0.15
     },
     {
       type = "projectile",
@@ -139,7 +137,6 @@ data:extend(
         priority = "high",
         blend_mode = "additive"
       },
-      speed = 0.15
     },
     {
       type = "projectile",
@@ -173,7 +170,7 @@ data:extend(
       light = { intensity = 0.5, size = 4 },
       animation =
       {
-        filename = "__base__/graphics/entity/rocket/rocket.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket.png",
         frame_count = 8,
         line_length = 8,
         width = 9,
@@ -183,7 +180,7 @@ data:extend(
       },
       shadow =
       {
-        filename = "__base__/graphics/entity/rocket/rocket-shadow.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket-shadow.png",
         frame_count = 1,
         width = 7,
         height = 24,
@@ -197,11 +194,8 @@ data:extend(
           deviation = { 0.15, 0.15 },
           frequency = 1,
           position = { 0, -1 },
-          slow_down_factor = 1,
           starting_frame = 3,
           starting_frame_deviation = 5,
-          starting_frame_speed = 0,
-          starting_frame_speed_deviation = 5
         }
       }
     },
@@ -255,7 +249,7 @@ data:extend(
       light = { intensity = 5.5, size = 16 },
       animation =
       {
-        filename = "__base__/graphics/entity/rocket/rocket.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket.png",
         frame_count = 8,
         line_length = 8,
         width = 9,
@@ -265,7 +259,7 @@ data:extend(
       },
       shadow =
       {
-        filename = "__base__/graphics/entity/rocket/rocket-shadow.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket-shadow.png",
         frame_count = 1,
         width = 7,
         height = 24,
@@ -279,11 +273,8 @@ data:extend(
           deviation = { 0.15, 0.15 },
           frequency = 1,
           position = { 0, -1 },
-          slow_down_factor = 1,
           starting_frame = 3,
           starting_frame_deviation = 5,
-          starting_frame_speed = 0,
-          starting_frame_speed_deviation = 5
         }
       }
     },
@@ -333,7 +324,7 @@ data:extend(
       light = { intensity = 5.5, size = 202 },
       animation =
       {
-        filename = "__base__/graphics/entity/rocket/rocket.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket.png",
         frame_count = 8,
         line_length = 8,
         width = 9,
@@ -343,7 +334,7 @@ data:extend(
       },
       shadow =
       {
-        filename = "__base__/graphics/entity/rocket/rocket-shadow.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket-shadow.png",
         frame_count = 1,
         width = 7,
         height = 24,
@@ -357,11 +348,8 @@ data:extend(
           deviation = { 0.15, 0.15 },
           frequency = 1,
           position = { 0, -1 },
-          slow_down_factor = 1,
           starting_frame = 3,
           starting_frame_deviation = 5,
-          starting_frame_speed = 0,
-          starting_frame_speed_deviation = 5
         }
       }
     },
@@ -412,7 +400,7 @@ data:extend(
       light = { intensity = 5.5, size = 202 },
       animation =
       {
-        filename = "__base__/graphics/entity/rocket/rocket.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket.png",
         frame_count = 8,
         line_length = 8,
         width = 9,
@@ -422,7 +410,7 @@ data:extend(
       },
       shadow =
       {
-        filename = "__base__/graphics/entity/rocket/rocket-shadow.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket-shadow.png",
         frame_count = 1,
         width = 7,
         height = 24,
@@ -436,11 +424,8 @@ data:extend(
           deviation = { 0.15, 0.15 },
           frequency = 1,
           position = { 0, -1 },
-          slow_down_factor = 1,
           starting_frame = 3,
           starting_frame_deviation = 5,
-          starting_frame_speed = 0,
-          starting_frame_speed_deviation = 5
         }
       }
     },
@@ -495,7 +480,7 @@ data:extend(
       light = { intensity = 5.5, size = 202 },
       animation =
       {
-        filename = "__base__/graphics/entity/rocket/rocket.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket.png",
         frame_count = 8,
         line_length = 8,
         width = 9,
@@ -505,7 +490,7 @@ data:extend(
       },
       shadow =
       {
-        filename = "__base__/graphics/entity/rocket/rocket-shadow.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket-shadow.png",
         frame_count = 1,
         width = 7,
         height = 24,
@@ -519,11 +504,8 @@ data:extend(
           deviation = { 0.15, 0.15 },
           frequency = 1,
           position = { 0, -1 },
-          slow_down_factor = 1,
           starting_frame = 3,
           starting_frame_deviation = 5,
-          starting_frame_speed = 0,
-          starting_frame_speed_deviation = 5
         }
       }
     },
@@ -575,13 +557,9 @@ data:extend(
               type = "create-trivial-smoke",
               smoke_name = "nuclear-smoke",
               offset_deviation = { { -1, -1 }, { 1, 1 } },
-              slow_down_factor = 1,
               starting_frame = 3,
               starting_frame_deviation = 5,
-              starting_frame_speed = 0,
-              starting_frame_speed_deviation = 5,
               speed_from_center = 0.5,
-              speed_deviation = 0.2
             },
             {
               type = "create-entity",
@@ -618,7 +596,7 @@ data:extend(
       light = { intensity = 0.8, size = 35 },
       animation =
       {
-        filename = "__base__/graphics/entity/rocket/rocket.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket.png",
         frame_count = 8,
         line_length = 8,
         width = 9,
@@ -628,7 +606,7 @@ data:extend(
       },
       shadow =
       {
-        filename = "__base__/graphics/entity/rocket/rocket-shadow.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket-shadow.png",
         frame_count = 1,
         width = 7,
         height = 24,
@@ -642,11 +620,8 @@ data:extend(
           deviation = { 0.15, 0.15 },
           frequency = 1,
           position = { 0, -1 },
-          slow_down_factor = 1,
           starting_frame = 3,
           starting_frame_deviation = 5,
-          starting_frame_speed = 0,
-          starting_frame_speed_deviation = 5
         }
       }
     },
@@ -722,8 +697,7 @@ data:extend(
               offset_deviation = { { -1, -1 }, { 1, 1 } },
               starting_frame = 3,
               starting_frame_deviation = 5,
-              starting_frame_speed = 0,
-              starting_frame_speed_deviation = 5,
+
               speed_from_center = 7.5
             },
             {
@@ -762,7 +736,7 @@ data:extend(
       light = { intensity = 0.8, size = 15 },
       animation =
       {
-        filename = "__base__/graphics/entity/rocket/rocket.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket.png",
         frame_count = 8,
         line_length = 8,
         width = 9,
@@ -772,7 +746,7 @@ data:extend(
       },
       shadow =
       {
-        filename = "__base__/graphics/entity/rocket/rocket-shadow.png",
+        filename = "__Darkstar2.0__/graphics/entity/rocket/rocket-shadow.png",
         frame_count = 1,
         width = 7,
         height = 24,
@@ -786,11 +760,8 @@ data:extend(
           deviation = { 0.15, 0.15 },
           frequency = 1,
           position = { 0, 1 },
-          slow_down_factor = 1,
           starting_frame = 3,
           starting_frame_deviation = 5,
-          starting_frame_speed = 0,
-          starting_frame_speed_deviation = 5
         }
       }
     },
