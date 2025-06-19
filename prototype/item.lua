@@ -25,7 +25,7 @@ require("item.generators")
 -- require("item.planck")
 -- require("item.probes")
 -- require("item.radar")
-require("item.random")  -- TODO
+require("item.random")
 -- require("item.research-packs")
 -- require("item.resources")
 -- require("item.science-pack")

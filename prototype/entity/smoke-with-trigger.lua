@@ -1,6 +1,3 @@
--- TODO: check what has been copy-pasted from 1.1
--- TODO: check attributes in 2.0
-
 data:extend(
     {
         {
@@ -10,7 +7,7 @@ data:extend(
             show_when_smoke_off = true,
             animation =
             {
-                filename = "__base__/graphics/entity/cloud/cloud-45-frames.png",
+                filename = "__Darkstar2.0__/graphics/entity/cloud/cloud-45-frames.png",
                 priority = "low",
                 width = 256,
                 height = 256,
@@ -19,7 +16,7 @@ data:extend(
                 line_length = 7,
                 scale = 3,
             },
-            slow_down_factor = 0.8,
+            movement_slow_down_factor = 0.8,
             affected_by_wind = false,
             cyclic = true,
             duration = 20 * 20,
@@ -53,7 +50,7 @@ data:extend(
                     }
                 }
             },
-            action_frequency = 30
+            action_cooldown = 30
         },
         {
             type = "smoke-with-trigger",
@@ -62,7 +59,7 @@ data:extend(
             show_when_smoke_off = true,
             animation =
             {
-                filename = "__base__/graphics/entity/cloud/cloud-45-frames.png",
+                filename = "__Darkstar2.0__/graphics/entity/cloud/cloud-45-frames.png",
                 priority = "low",
                 width = 256,
                 height = 256,
@@ -71,7 +68,7 @@ data:extend(
                 line_length = 7,
                 scale = 9,
             },
-            slow_down_factor = 1,
+            movement_slow_down_factor = 1,
             affected_by_wind = false,
             cyclic = true,
             duration = 1 * 20,
@@ -105,7 +102,7 @@ data:extend(
                     }
                 }
             },
-            action_frequency = 30
+            action_cooldown = 30
         },
     }
 )
