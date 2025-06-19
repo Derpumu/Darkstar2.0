@@ -1,6 +1,7 @@
-require("util")
-require("config")
+-- require("util")
+-- require("config")
 
+--[[
 function check_interfaces()
 	local entity = array[count]
 	if entity then
@@ -238,3 +239,4 @@ function insertRandomOre(inventory)
 	end
 end
 
+--]]
