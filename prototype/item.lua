@@ -1,9 +1,9 @@
 require("item.advanced-materials")
 require("item.ammo")
--- require("item.base-packs")  -- TODO: missing item card-1
+-- require("item.base-packs")  -- TODO: item.cards
 -- require("item.belts")
 -- require("item.capsule")
--- require("item.cards")
+require("item.cards")
 -- require("item.computer")
 -- require("item.Darkstar-6")
 -- require("item.Darkstar-7")
