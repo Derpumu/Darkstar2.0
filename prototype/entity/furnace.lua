@@ -39,7 +39,7 @@ data:extend(
                 usage_priority = "secondary-input",
                 emissions_per_minute = { pollution = 3 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -141,7 +141,7 @@ data:extend(
                 usage_priority = "secondary-input",
                 emissions_per_minute = { pollution = 20 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -215,7 +215,7 @@ data:extend(
                 usage_priority = "secondary-input",
                 emissions = 5.805,
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -288,7 +288,7 @@ data:extend(
                 usage_priority = "secondary-input",
                 emissions_per_minute = { pollution = -12 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -365,7 +365,7 @@ data:extend(
                 usage_priority = "secondary-input",
                 emissions_per_minute = { pollution = -60 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -442,7 +442,7 @@ data:extend(
                 usage_priority = "secondary-input",
                 emissions_per_minute = { pollution = -300 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -519,7 +519,7 @@ data:extend(
                 usage_priority = "secondary-input",
                 emissions_per_minute = { pollution = -1500 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -596,7 +596,7 @@ data:extend(
                 usage_priority = "secondary-input",
                 emissions_per_minute = { pollution = -7500 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -649,7 +649,7 @@ data:extend(
             mined_sound = { filename = "__base__/sound/deconstruct-bricks.ogg" },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-stone-impact.ogg", volume = 1.0 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = { filename = "__base__/sound/furnace.ogg", }

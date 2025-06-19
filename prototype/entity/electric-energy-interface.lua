@@ -1,6 +1,3 @@
--- TODO: check attributes in 2.0
--- TODO: locale for prototype-anct
-
 data:extend(
     {
         {
@@ -9,12 +6,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/geothermal-generator2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "geothermal-generator" },
+            minable = {  mining_time = 0.5, result = "geothermal-generator" },
             max_health = 250,
             corpse = "medium-remnants",
             collision_box = { { -0.6, -0.6 }, { 0.6, 0.6 } },
             selection_box = { { -0.8, -0.8 }, { 0.8, 0.8 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -34,7 +31,7 @@ data:extend(
                 height = 144,
                 shift = { 0.9, -1 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "stone",
             working_sound =
             {
                 sound =
@@ -47,7 +44,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -57,12 +54,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/geothermal-generator-mk2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "geothermal-generator-mk2" },
+            minable = { mining_time = 0.5, result = "geothermal-generator-mk2" },
             max_health = 250,
             corpse = "medium-remnants",
             collision_box = { { -0.6, -0.6 }, { 0.6, 0.6 } },
             selection_box = { { -0.8, -0.8 }, { 0.8, 0.8 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -82,7 +79,7 @@ data:extend(
                 height = 144,
                 shift = { 0.9, -1 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -95,7 +92,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -105,12 +102,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/geothermal-generator-mk3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "geothermal-generator-mk3" },
+            minable = { mining_time = 0.5, result = "geothermal-generator-mk3" },
             max_health = 250,
             corpse = "medium-remnants",
             collision_box = { { -0.6, -0.6 }, { 0.6, 0.6 } },
             selection_box = { { -0.8, -0.8 }, { 0.8, 0.8 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -130,7 +127,7 @@ data:extend(
                 height = 144,
                 shift = { 0.9, -1 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -143,7 +140,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -153,12 +150,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/rtg-icon.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "rtg" },
+            minable = { mining_time = 0.5, result = "rtg" },
             max_health = 500,
             corpse = "medium-remnants",
             collision_box = { { -1.5, -1 }, { 1.5, 1.5 } },
             selection_box = { { -2, -1.5 }, { 2, 2 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -179,7 +176,7 @@ data:extend(
                 shift = { 0.2, 0.2 },
                 scale = 0.5
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -192,7 +189,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -202,12 +199,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/rtg-mk2-icon.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "rtg-mk2" },
+            minable = { mining_time = 0.5, result = "rtg-mk2" },
             max_health = 500,
             corpse = "medium-remnants",
             collision_box = { { -1.5, -1 }, { 1.5, 1.5 } },
             selection_box = { { -2, -1.5 }, { 2, 2 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -228,7 +225,7 @@ data:extend(
                 shift = { 0.2, 0.2 },
                 scale = 0.5
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -241,7 +238,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -251,12 +248,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/rtg-mk3-icon.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "rtg-mk3" },
+            minable = { mining_time = 0.5, result = "rtg-mk3" },
             max_health = 500,
             corpse = "medium-remnants",
             collision_box = { { -1.5, -1 }, { 1.5, 1.5 } },
             selection_box = { { -2, -1.5 }, { 2, 2 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -277,7 +274,7 @@ data:extend(
                 shift = { 0.2, 0.2 },
                 scale = 0.5
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -290,7 +287,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -300,12 +297,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/s-reg-icon-3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "s-reg" },
+            minable = { mining_time = 0.5, result = "s-reg" },
             max_health = 25,
             corpse = "medium-remnants",
             collision_box = { { -3.0, -0.7 }, { 1.5, 0.8 } },
             selection_box = { { -3.1, -0.8 }, { 1.6, 1 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -326,7 +323,7 @@ data:extend(
                 scale = 0.25,
                 shift = { 0.9, -1 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -339,7 +336,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -349,12 +346,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/s-reg-icon-2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "s-reg-2" },
+            minable = { mining_time = 0.5, result = "s-reg-2" },
             max_health = 25,
             corpse = "medium-remnants",
             collision_box = { { -3.0, -0.7 }, { 1.5, 0.8 } },
             selection_box = { { -3.1, -0.8 }, { 1.6, 1 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -375,7 +372,7 @@ data:extend(
                 scale = 0.25,
                 shift = { 0.9, -1 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -388,7 +385,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -398,12 +395,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/s-reg-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "s-reg-3" },
+            minable = { mining_time = 0.5, result = "s-reg-3" },
             max_health = 25,
             corpse = "medium-remnants",
             collision_box = { { -3.0, -0.7 }, { 1.5, 0.8 } },
             selection_box = { { -3.1, -0.8 }, { 1.6, 1 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -424,7 +421,7 @@ data:extend(
                 scale = 0.25,
                 shift = { 0.9, -1 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -437,7 +434,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -447,12 +444,12 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/cage-icon.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "prototype-anct" },
+            minable = { mining_time = 0.5, result = "prototype-anct" },
             max_health = 750,
             corpse = "medium-remnants",
             collision_box = { { -1.5, -1 }, { 1.5, 1.5 } },
             selection_box = { { -2, -1.5 }, { 2, 2 } },
-            drawing_box = { { -0.5, -3 }, { 3.2, 0.5 } },
+            drawing_box_vertical_extension = 3,
             energy_source =
             {
                 type = "electric",
@@ -473,7 +470,7 @@ data:extend(
                 shift = { 0.2, 0.2 },
                 scale = 0.4
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -486,7 +483,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -496,7 +493,7 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/think-tank.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "think-tank" },
+            minable = { mining_time = 0.5, result = "think-tank" },
             max_health = 1000,
             corpse = "medium-remnants",
             collision_box = { { -2, -1.5 }, { 0.25, 0.55 } },
@@ -521,7 +518,7 @@ data:extend(
                 scale = 0.25,
                 shift = { 0, -0 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -534,9 +531,9 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                     volume = 0.0
                 },
-                light = { intensity = 0.4, size = 6, shift = { 0.0, 1.0 } },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
+            light = { intensity = 0.4, size = 6, shift = { 0.0, 1.0 } },
         },
 
         {
@@ -545,7 +542,7 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/think-tank2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "think-tank-mk2" },
+            minable = { mining_time = 0.5, result = "think-tank-mk2" },
             max_health = 1000,
             corpse = "medium-remnants",
             collision_box = { { -2, -1.5 }, { 0.25, 0.55 } },
@@ -570,7 +567,7 @@ data:extend(
                 scale = 0.25,
                 shift = { 0, -0 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -583,9 +580,9 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                     volume = 0.1
                 },
-                light = { intensity = 0.4, size = 24, shift = { 0.0, 1.0 } },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
+            light = { intensity = 0.4, size = 24, shift = { 0.0, 1.0 } },
         },
 
         {
@@ -594,7 +591,7 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/think-tank3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "think-tank-mk3" },
+            minable = { mining_time = 0.5, result = "think-tank-mk3" },
             max_health = 1000,
             corpse = "medium-remnants",
             collision_box = { { -2, -1.5 }, { 0.25, 0.55 } },
@@ -619,7 +616,7 @@ data:extend(
                 scale = 0.25,
                 shift = { 0, -0 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -632,9 +629,9 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                     volume = 0.1
                 },
-                light = { intensity = 0.4, size = 24, shift = { 0.0, 1.0 } },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
+            light = { intensity = 0.4, size = 24, shift = { 0.0, 1.0 } },
         },
 
         {
@@ -643,7 +640,7 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/dyson-sphere-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "dyson" },
+            minable = { mining_time = 0.5, result = "dyson" },
             max_health = 50000,
             corpse = "medium-remnants",
             collision_box = { { -1.7, -1.7 }, { 1.7, 1.7 } },
@@ -667,7 +664,7 @@ data:extend(
                 height = 304,
                 shift = { 3.44, -2.5 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -680,7 +677,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -690,7 +687,7 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/multiverse-tear-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "multiverse-tear" },
+            minable = { mining_time = 0.5, result = "multiverse-tear" },
             max_health = 50000,
             corpse = "medium-remnants",
             collision_box = { { -1.7, -1.7 }, { 1.7, 1.7 } },
@@ -714,7 +711,7 @@ data:extend(
                 height = 304,
                 shift = { 3.44, -2.5 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -727,7 +724,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
 
@@ -737,7 +734,7 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/interstellar-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
-            minable = { hardness = 0.2, mining_time = 0.5, result = "interstellar-dominion" },
+            minable = { mining_time = 0.5, result = "interstellar-dominion" },
             max_health = 50000,
             corpse = "medium-remnants",
             collision_box = { { -1.7, -1.7 }, { 1.7, 1.7 } },
@@ -761,7 +758,7 @@ data:extend(
                 height = 304,
                 shift = { 3.44, -2.5 },
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -774,7 +771,7 @@ data:extend(
                     filename = "__base__/sound/train-wheels.ogg",
                     volume = 0.0
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
         },
    }

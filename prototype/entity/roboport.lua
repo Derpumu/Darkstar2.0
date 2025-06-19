@@ -160,11 +160,11 @@ data:extend(
                 scale = 1.5,
                 animation_speed = 0.5
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = { filename = "__base__/sound/roboport-working.ogg", volume = 0.6 },
-                max_sounds_per_type = 3,
+                max_sounds_per_prototype = 3,
                 audible_distance_modifier = 0.5,
                 probability = 1 / (5 * 60) -- average pause between the sound is 5 seconds
             },
@@ -357,11 +357,11 @@ data:extend(
                 scale = 1.5,
                 animation_speed = 0.5
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = { filename = "__base__/sound/roboport-working.ogg", volume = 0.6 },
-                max_sounds_per_type = 3,
+                max_sounds_per_prototype = 3,
                 audible_distance_modifier = 0.5,
                 probability = 1 / (5 * 60) -- average pause between the sound is 5 seconds
             },
@@ -556,11 +556,11 @@ data:extend(
                 scale = 1.5,
                 animation_speed = 0.5
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = { filename = "__base__/sound/roboport-working.ogg", volume = 0.6 },
-                max_sounds_per_type = 3,
+                max_sounds_per_prototype = 3,
                 audible_distance_modifier = 0.5,
                 probability = 1 / (5 * 60) -- average pause between the sound is 5 seconds
             },
@@ -758,11 +758,11 @@ data:extend(
                 scale = 1.5,
                 animation_speed = 0.5
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = { filename = "__base__/sound/roboport-working.ogg", volume = 0.6 },
-                max_sounds_per_type = 3,
+                max_sounds_per_prototype = 3,
                 audible_distance_modifier = 0.5,
                 probability = 1 / (5 * 60) -- average pause between the sound is 5 seconds
             },

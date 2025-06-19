@@ -34,7 +34,7 @@ data:extend(
                 direction_count = 4,
                 shift = { 0.9, -1 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = { filename = "__base__/sound/substation.ogg" },
@@ -141,7 +141,7 @@ data:extend(
                 direction_count = 1,
                 shift = { 0.3, -1.5 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = { filename = "__base__/sound/substation.ogg" },
@@ -216,7 +216,7 @@ data:extend(
                 line_length = 8,
                 shift = { 0.84, -0.09 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = { filename = "__base__/sound/substation.ogg" },

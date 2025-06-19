@@ -56,7 +56,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1.2, size = 14 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -68,7 +68,7 @@ data:extend(
                     filename = "__base__/sound/accumulator-idle.ogg",
                     volume = 0.4
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             }
         },
 
@@ -127,7 +127,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1.2, size = 14 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -139,7 +139,7 @@ data:extend(
                     filename = "__base__/sound/accumulator-idle.ogg",
                     volume = 0.4
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             }
         },
 
@@ -199,7 +199,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1, size = 32, color = { r = 0, g = 0.5, b = 1 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -211,7 +211,7 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/water_power_idle.ogg",
                     volume = 1
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
             circuit_wire_connection_point = circuit_connector_definitions["accumulator"].points,
             circuit_connector_sprites = circuit_connector_definitions["accumulator"].sprites,
@@ -275,7 +275,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1, size = 64, color = { r = 0, g = 0.5, b = 1 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -287,7 +287,7 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/reactor.ogg",
                     volume = 2
                 },
-                max_sounds_per_type = 1
+                max_sounds_per_prototype = 1
             },
             circuit_wire_connection_point = circuit_connector_definitions["accumulator"].points,
             circuit_connector_sprites = circuit_connector_definitions["accumulator"].sprites,
@@ -354,7 +354,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1, size = 128, color = { r = 0, g = 0.5, b = 1 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -366,7 +366,7 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/silo3.ogg",
                     volume = 1
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
             circuit_wire_connection_point = circuit_connector_definitions["accumulator"].points,
             circuit_connector_sprites = circuit_connector_definitions["accumulator"].sprites,
@@ -430,7 +430,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1, size = 32, color = { r = 0, g = 0.5, b = 1 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -442,7 +442,7 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/water_power_idle.ogg",
                     volume = 1
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
             circuit_wire_connection_point = circuit_connector_definitions["accumulator"].points,
             circuit_connector_sprites = circuit_connector_definitions["accumulator"].sprites,
@@ -506,7 +506,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1, size = 64, color = { r = 0, g = 0.5, b = 1 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -518,7 +518,7 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/reactor.ogg",
                     volume = 2
                 },
-                max_sounds_per_type = 1
+                max_sounds_per_prototype = 1
             },
             circuit_wire_connection_point = circuit_connector_definitions["accumulator"].points,
             circuit_connector_sprites = circuit_connector_definitions["accumulator"].sprites,
@@ -585,7 +585,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1, size = 128, color = { r = 0, g = 0.5, b = 1 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -597,7 +597,7 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/silo3.ogg",
                     volume = 1
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
             circuit_wire_connection_point = circuit_connector_definitions["accumulator"].points,
             circuit_connector_sprites = circuit_connector_definitions["accumulator"].sprites,
@@ -661,7 +661,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1, size = 32, color = { r = 0, g = 0.5, b = 1 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -673,7 +673,7 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/water_power_idle.ogg",
                     volume = 1
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
             circuit_wire_connection_point = circuit_connector_definitions["accumulator"].points,
             circuit_connector_sprites = circuit_connector_definitions["accumulator"].sprites,
@@ -737,7 +737,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1, size = 64, color = { r = 0, g = 0.5, b = 1 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -749,7 +749,7 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/reactor.ogg",
                     volume = 2
                 },
-                max_sounds_per_type = 1
+                max_sounds_per_prototype = 1
             },
             circuit_wire_connection_point = circuit_connector_definitions["accumulator"].points,
             circuit_connector_sprites = circuit_connector_definitions["accumulator"].sprites,
@@ -813,7 +813,7 @@ data:extend(
             },
             discharge_cooldown = 60,
             discharge_light = { intensity = 1, size = 128, color = { r = 0, g = 0.5, b = 1 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -825,7 +825,7 @@ data:extend(
                     filename = "__Darkstar2.0__/sounds/silo3.ogg",
                     volume = 1
                 },
-                max_sounds_per_type = 5
+                max_sounds_per_prototype = 5
             },
             circuit_wire_connection_point = circuit_connector_definitions["accumulator"].points,
             circuit_connector_sprites = circuit_connector_definitions["accumulator"].sprites,

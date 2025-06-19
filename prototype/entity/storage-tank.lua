@@ -128,7 +128,7 @@ data:extend(
                 }
             },
             flow_length_in_ticks = 360,
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = {
@@ -136,7 +136,7 @@ data:extend(
                     volume = 0.8
                 },
                 apparent_volume = 1.5,
-                max_sounds_per_type = 3
+                max_sounds_per_prototype = 3
             },
             circuit_wire_connection_points = circuit_connector_definitions["storage-tank"].points,
             circuit_connector_sprites = circuit_connector_definitions["storage-tank"].sprites,

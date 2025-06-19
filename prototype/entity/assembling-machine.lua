@@ -285,7 +285,7 @@ data:extend(
                     }
                 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -331,7 +331,7 @@ data:extend(
             fluid_boxes_off_when_no_fluid_recipe = true,
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -438,7 +438,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -545,7 +545,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -651,7 +651,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -756,7 +756,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -859,7 +859,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -940,7 +940,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1021,7 +1021,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1102,7 +1102,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1183,7 +1183,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1264,7 +1264,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1345,7 +1345,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1426,7 +1426,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1507,7 +1507,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1588,7 +1588,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1669,7 +1669,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1778,7 +1778,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1887,7 +1887,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -1996,7 +1996,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -2104,7 +2104,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -2212,7 +2212,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -2321,7 +2321,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -2430,7 +2430,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -2539,7 +2539,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -2648,7 +2648,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -2756,7 +2756,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -2864,7 +2864,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -2973,7 +2973,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -3082,7 +3082,7 @@ data:extend(
             },
             open_sound = { filename = "__base__/sound/machine-open.ogg", volume = 0.85 },
             close_sound = { filename = "__base__/sound/machine-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -3190,7 +3190,7 @@ data:extend(
             },
             open_sound = { filename = "__Darkstar2.0__/sounds/biodome-open.ogg", volume = 0.85 },
             close_sound = { filename = "__Darkstar2.0__/sounds/biodome-close.ogg", volume = 0.75 },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound =
@@ -3361,7 +3361,7 @@ data:extend(
                     light = { intensity = 0.4, size = 6 }
                 }
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 sound = { filename = "__base__/sound/oil-refinery.ogg" },

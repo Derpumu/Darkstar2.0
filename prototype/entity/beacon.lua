@@ -56,7 +56,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_usage = "50MW",
             distribution_effectivity = 0.5,
             module_slots = 3,
@@ -114,7 +114,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_usage = "5MW",
             distribution_effectivity = 3,
             module_slots = 12,
@@ -172,7 +172,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_usage = "5GW",
             distribution_effectivity = 2.5,
             module_slots = 1,
@@ -230,7 +230,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_usage = "5MW",
             distribution_effectivity = 0.5,
             module_slots = 1,
@@ -288,7 +288,7 @@ data:extend(
                 type = "electric",
                 usage_priority = "secondary-input"
             },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_usage = "50GW",
             distribution_effectivity = 0.5,
             module_slots = 10,

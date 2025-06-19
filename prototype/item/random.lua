@@ -1,4 +1,3 @@
--- TODO: place_results
 data:extend(
     {
         {
@@ -194,7 +193,7 @@ data:extend(
 
             subgroup = "random",
             order = "z[advanced-photovoltaic-cells]",
-            -- TODO:  place_result = "dyson",  
+            place_result = "dyson",
             stack_size = 500
         },
 
@@ -206,7 +205,7 @@ data:extend(
 
             subgroup = "random",
             order = "z[advanced-photovoltaic-cells]",
-            -- TODO:  place_result = "multiverse-tear",
+            place_result = "multiverse-tear",
             stack_size = 500
         },
 
@@ -218,7 +217,7 @@ data:extend(
 
             subgroup = "random",
             order = "z[advanced-photovoltaic-cells]",
-            -- TODO:  place_result = "interstellar-dominion",
+            place_result = "interstellar-dominion",
             stack_size = 500
         },
 

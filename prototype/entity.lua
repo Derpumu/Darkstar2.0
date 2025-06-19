@@ -4,7 +4,7 @@
 -- require("entity.belts")
 -- require("entity.car")
 -- require("entity.container")
--- require("entity.electric-energy-interface")
+require("entity.electric-energy-interface")
 -- require("entity.electric-pole")
 require("entity.enemies")
 -- require("entity.explosion")

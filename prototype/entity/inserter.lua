@@ -44,7 +44,7 @@ data:extend(
             extension_speed = 1.70,
             rotation_speed = 1.70,
             fast_replaceable_group = "inserter",
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 match_progress_to_activity = true,
@@ -167,7 +167,7 @@ data:extend(
             extension_speed = 25.70,
             rotation_speed = 25.70,
             fast_replaceable_group = "inserter",
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 match_progress_to_activity = true,
@@ -286,7 +286,7 @@ data:extend(
             rotation_speed = 1.70,
             filter_count = 5,
             fast_replaceable_group = "inserter",
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             working_sound =
             {
                 match_progress_to_activity = true,

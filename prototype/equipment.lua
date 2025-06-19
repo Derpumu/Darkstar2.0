@@ -86,7 +86,7 @@ data:extend(
         {
           filename = "__Darkstar2.0__/sounds/laser-2.ogg",
           volume = 0.35,
-          max_sounds_per_type = 2
+          max_sounds_per_prototype = 2
         },
         ammo_type =
         {
@@ -213,7 +213,7 @@ data:extend(
         {
           filename = "__Darkstar2.0__/sounds/laser-3.ogg",
           volume = 0.35,
-          max_sounds_per_type = 2
+          max_sounds_per_prototype = 2
         },
         ammo_type =
         {
@@ -277,7 +277,7 @@ data:extend(
         {
           filename = "__Darkstar2.0__/sounds/nuclear-explosion.ogg",
           volume = 0.35,
-          max_sounds_per_type = 2
+          max_sounds_per_prototype = 2
         },
         ammo_type =
         {
@@ -341,7 +341,7 @@ data:extend(
         {
           filename = "__Darkstar2.0__/sounds/railgun-mk2.ogg",
           volume = 0.35,
-          max_sounds_per_type = 2
+          max_sounds_per_prototype = 2
         },
         ammo_type =
         {
@@ -405,7 +405,7 @@ data:extend(
         {
           filename = "__Darkstar2.0__/sounds/nuclear-explosion.ogg",
           volume = 0.35,
-          max_sounds_per_type = 2
+          max_sounds_per_prototype = 2
         },
         ammo_type =
         {

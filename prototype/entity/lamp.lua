@@ -15,7 +15,7 @@ data:extend(
             corpse = "big-remnants",
             collision_box = { { -0.15, -0.15 }, { 0.15, 0.15 } },
             selection_box = { { -0.5, -0.5 }, { 0.5, 0.5 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_source =
             {
                 type = "electric",
@@ -126,7 +126,7 @@ data:extend(
             corpse = "small-remnants",
             collision_box = { { -0, -0 }, { 0, 0 } },
             selection_box = { { -0.5, -0.5 }, { 0.5, 0.5 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_source =
             {
                 type = "electric",
@@ -180,7 +180,7 @@ data:extend(
             corpse = "small-remnants",
             collision_box = { { -0, -0 }, { 0, 0 } },
             selection_box = { { -0.5, -0.5 }, { 0.5, 0.5 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_source =
             {
                 type = "electric",
@@ -235,7 +235,7 @@ data:extend(
             corpse = "small-remnants",
             collision_box = { { -0, -0 }, { 0, 0 } },
             selection_box = { { -0.5, -0.5 }, { 0.5, 0.5 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_source =
             {
                 type = "electric",
@@ -289,7 +289,7 @@ data:extend(
             corpse = "small-remnants",
             collision_box = { { -0, -0 }, { 0, 0 } },
             selection_box = { { -0.5, -0.5 }, { 0.5, 0.5 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_source =
             {
                 type = "electric",
@@ -343,7 +343,7 @@ data:extend(
             corpse = "small-remnants",
             collision_box = { { -0, -0 }, { 0, 0 } },
             selection_box = { { -0.5, -0.5 }, { 0.5, 0.5 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_source =
             {
                 type = "electric",
@@ -397,7 +397,7 @@ data:extend(
             corpse = "small-remnants",
             collision_box = { { -0, -0 }, { 0, 0 } },
             selection_box = { { -0.5, -0.5 }, { 0.5, 0.5 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_source =
             {
                 type = "electric",
@@ -451,7 +451,7 @@ data:extend(
             corpse = "small-remnants",
             collision_box = { { -0, -0 }, { 0, 0 } },
             selection_box = { { -0.5, -0.5 }, { 0.5, 0.5 } },
-            vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
+            impact_category = "metal",
             energy_source =
             {
                 type = "electric",
