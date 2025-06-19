@@ -1,6 +1,6 @@
 require("item.advanced-materials")
 require("item.ammo")
--- require("item.base-packs")  -- TODO: item.cards
+require("item.base-packs")
 -- require("item.belts")
 -- require("item.capsule")
 require("item.cards")
