@@ -10,6 +10,7 @@ data:extend(
       max_temperature = 100,
       icon = "__Darkstar2.0__/graphics/icons/quadricyclane.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
     {
@@ -22,6 +23,7 @@ data:extend(
       max_temperature = 100,
       icon = "__Darkstar2.0__/graphics/icons/norbornadiene.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
     {
@@ -34,6 +36,7 @@ data:extend(
       max_temperature = 100,
       icon = "__Darkstar2.0__/graphics/icons/acetylene.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
     {
@@ -46,6 +49,7 @@ data:extend(
       max_temperature = 100,
       icon = "__Darkstar2.0__/graphics/icons/argon.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "z1"
     },
     {
@@ -58,6 +62,7 @@ data:extend(
       max_temperature = 100,
       icon = "__Darkstar2.0__/graphics/icons/xenon.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "z2"
     },
     {
@@ -70,6 +75,7 @@ data:extend(
       max_temperature = 100,
       icon = "__Darkstar2.0__/graphics/icons/lox.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "z3"
     },
     {
@@ -82,6 +88,7 @@ data:extend(
       max_temperature = 100,
       icon = "__Darkstar2.0__/graphics/icons/cyclopentadiene.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
     {
@@ -94,6 +101,7 @@ data:extend(
       max_temperature = 30,
       icon = "__Darkstar2.0__/graphics/icons/cyclopentadiene.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
     {
@@ -106,6 +114,7 @@ data:extend(
       max_temperature = 0,
       icon = "__Darkstar2.0__/graphics/icons/aizhan-matter.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
     {
@@ -118,6 +127,7 @@ data:extend(
       max_temperature = 5000,
       icon = "__Darkstar2.0__/graphics/icons/antithetical-matter.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
     {
@@ -130,6 +140,7 @@ data:extend(
       max_temperature = 31415,
       icon = "__Darkstar2.0__/graphics/icons/quantum-waste.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
     {
@@ -142,6 +153,7 @@ data:extend(
       max_temperature = 100,
       icon = "__Darkstar2.0__/graphics/icons/quadricyclane.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
     {
@@ -154,6 +166,7 @@ data:extend(
       max_temperature = 100,
       icon = "__Darkstar2.0__/graphics/icons/copper-sulfate.png",
       icon_size = 32,
+      subgroup = "fluid",
       order = "a[fluid]-b[crude-oil]"
     },
   }
