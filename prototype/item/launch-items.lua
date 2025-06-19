@@ -12,7 +12,7 @@ data:extend(
             subgroup = "launch-items",
             order = "zz[drone-swarm]",
             stack_size = 1,
-            rocket_launch_product = { "swarm-reciever", 1 },
+            rocket_launch_products = { { type = "item", name = "swarm-reciever", amount = 1 } },
         },
 
         {
@@ -24,7 +24,7 @@ data:extend(
             subgroup = "launch-items",
             order = "zz[drone-swarm]",
             stack_size = 1,
-            rocket_launch_product = { "multiverse-swarm-reciever", 1 },
+            rocket_launch_products = { { type = "item", name = "multiverse-swarm-reciever", amount = 1 } },
         },
 
         {
@@ -36,7 +36,7 @@ data:extend(
             subgroup = "launch-items",
             order = "zz[drone-swarm]",
             stack_size = 1,
-            rocket_launch_product = { "interstellar-swarm-reciever", 1 },
+            rocket_launch_products = { { type = "item", name = "interstellar-swarm-reciever", amount = 1 } },
         },
 
         {
@@ -48,7 +48,7 @@ data:extend(
             subgroup = "launch-items",
             order = "z[advanced-photovoltaic-cells]",
             stack_size = 500,
-            rocket_launch_product = { "dark-matter-capsule", 500 },
+            rocket_launch_products = { { type = "item", name = "dark-matter-capsule", amount = 500 } },
         },
 
         {
@@ -60,7 +60,7 @@ data:extend(
             subgroup = "launch-items",
             order = "z[advanced-photovoltaic-cells]",
             stack_size = 500,
-            rocket_launch_product = { "antithetical-capsule", 500 },
+            rocket_launch_products = { { type = "item", name = "antithetical-capsule", amount = 500 } },
         },
 
         {
@@ -72,7 +72,7 @@ data:extend(
             subgroup = "launch-items",
             order = "z[advanced-photovoltaic-cells]",
             stack_size = 500,
-            rocket_launch_product = { "norbornadiene-capsule", 500 },
+            rocket_launch_products = { { type = "item", name = "norbornadiene-capsule", amount = 500 } },
         },
 
         {
@@ -84,7 +84,7 @@ data:extend(
             subgroup = "launch-items",
             order = "z[advanced-photovoltaic-cells]",
             stack_size = 500,
-            rocket_launch_product = { "star-matter", 500 },
+            rocket_launch_products = { { type = "item", name = "star-matter", amount = 500 } },
         },
 
         {
@@ -96,7 +96,7 @@ data:extend(
             subgroup = "launch-items",
             order = "z[advanced-photovoltaic-cells]",
             stack_size = 500,
-            rocket_launch_product = { "dark-matter-capsule2", 500 },
+            rocket_launch_products = { { type = "item", name = "dark-matter-capsule2", amount = 500 } },
         },
 
         {
@@ -108,7 +108,7 @@ data:extend(
             subgroup = "launch-items",
             order = "z[advanced-photovoltaic-cells]",
             stack_size = 500,
-            rocket_launch_product = { "antithetical-capsule2", 500 },
+            rocket_launch_products = { { type = "item", name = "antithetical-capsule2", amount = 500 } },
         },
 
         {
@@ -120,7 +120,7 @@ data:extend(
             subgroup = "launch-items",
             order = "z[advanced-photovoltaic-cells]",
             stack_size = 500,
-            rocket_launch_product = { "norbornadiene-capsule2", 500 },
+            rocket_launch_products = { { type = "item", name = "norbornadiene-capsule2", amount = 500 } },
         },
 
         {
@@ -132,7 +132,7 @@ data:extend(
             subgroup = "launch-items",
             order = "z[advanced-photovoltaic-cells]",
             stack_size = 500,
-            rocket_launch_product = { "star-matter2", 500 },
+            rocket_launch_products = { { type = "item", name = "star-matter2", amount = 500 } },
         },
     }
 )

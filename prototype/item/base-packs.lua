@@ -10,7 +10,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "1[base][base]",
-            rocket_launch_product = { "card-1", 10 },
+            rocket_launch_products = { { type = "item", name = "card-1", amount = 10 } },
             stack_size = 500
         },
 
@@ -21,7 +21,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "2[base][base]",
-            rocket_launch_product = { "card-2", 10 },
+            rocket_launch_products = { { type = "item", name = "card-2", amount = 10 } },
             stack_size = 500
         },
 
@@ -32,7 +32,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "3[base][base]",
-            rocket_launch_product = { "card-3", 10 },
+            rocket_launch_products = { { type = "item", name = "card-3", amount = 10 } },
             stack_size = 500
         },
 
@@ -43,7 +43,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "4[base][base]",
-            rocket_launch_product = { "card-4", 10 },
+            rocket_launch_products = { { type = "item", name = "card-4", amount = 10 } },
             stack_size = 500
         },
 
@@ -54,7 +54,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "5[base][base]",
-            rocket_launch_product = { "card-5", 10 },
+            rocket_launch_products = { { type = "item", name = "card-5", amount = 10 } },
             stack_size = 500
         },
 
@@ -65,7 +65,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "6[base][base]",
-            rocket_launch_product = { "card-6", 10 },
+            rocket_launch_products = { { type = "item", name = "card-6", amount = 10 } },
             stack_size = 500
         },
 
@@ -76,7 +76,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "7[base][base]",
-            rocket_launch_product = { "card-7", 10 },
+            rocket_launch_products = { { type = "item", name = "card-7", amount = 10 } },
             stack_size = 500
         },
 
@@ -87,7 +87,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "8[base][base]",
-            rocket_launch_product = { "card-8", 10 },
+            rocket_launch_products = { { type = "item", name = "card-8", amount = 10 } },
             stack_size = 500
         },
 
@@ -98,7 +98,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "9[base][base]",
-            rocket_launch_product = { "card-9", 10 },
+            rocket_launch_products = { { type = "item", name = "card-9", amount = 10 } },
             stack_size = 500
         },
 
@@ -109,7 +109,7 @@ data:extend(
             icon_size = 32,
             subgroup = "base-packs",
             order = "z[base][base]",
-            rocket_launch_product = { "card-m", 10 },
+            rocket_launch_products = { { type = "item", name = "card-m", amount = 10 } },
             stack_size = 500
         },
     }

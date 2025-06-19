@@ -13,7 +13,7 @@ data:extend(
             subgroup = "misc",
             order = "d[stone-furnace]",
             stack_size = 500,
-            rocket_launch_product = { "laser-quarry3", 1 }
+            rocket_launch_products = { { type = "item", name = "laser-quarry3", amount = 1 } }
         },
 
         {
@@ -25,7 +25,7 @@ data:extend(
             subgroup = "misc",
             order = "e[stone-furnace]",
             stack_size = 500,
-            rocket_launch_product = { "laser-quarry4", 1 }
+            rocket_launch_products = { { type = "item", name = "laser-quarry4", amount = 1 } }
         },
         {
             type = "item",
@@ -90,7 +90,7 @@ data:extend(
             name = "hacked-biter",
             icon = "__Darkstar2.0__/graphics/icons/biter2.png",
             icon_size = 32,
-        
+
             subgroup = "bio",
             order = "a[solar-panel]-a[solar-panel]",
             stack_size = 500
