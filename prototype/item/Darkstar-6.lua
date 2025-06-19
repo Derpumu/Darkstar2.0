@@ -20,8 +20,7 @@ data:extend(
             name = "storage-tank-mk2",
             icon = "__base__/graphics/icons/storage-tank.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "Darkstar-6",
             order = "b[fluid]-a[storage-tank]",
             place_result = "storage-tank-mk2",
@@ -55,8 +54,7 @@ data:extend(
             name = "oil-refinery-mk2",
             icon = "__base__/graphics/icons/oil-refinery.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "Darkstar-6",
             order = "d[refinery]",
             place_result = "oil-refinery-mk2",
@@ -67,8 +65,7 @@ data:extend(
             name = "pumpjack-mk2",
             icon = "__base__/graphics/icons/pumpjack.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "Darkstar-6",
             order = "b[fluids]-b[pumpjack]",
             place_result = "pumpjack-mk2",

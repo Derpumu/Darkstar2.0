@@ -8,7 +8,6 @@ data:extend(
             name = "pump-mk2",
             icon = "__base__/graphics/icons/pump.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             flags = { "placeable-neutral", "player-creation" },
             minable = { mining_time = 1, result = "pump-mk2" },
             max_health = 300,
@@ -33,10 +32,10 @@ data:extend(
                 pipe_covers = pipecoverspictures(),
                 pipe_connections =
                 {
-                  { direction = defines.direction.north, position = {0, -0.5}, flow_direction = "output" },
-                  { direction = defines.direction.south, position = {0, 0.5}, flow_direction = "input" }
+                    { direction = defines.direction.north, position = { 0, -0.5 }, flow_direction = "output" },
+                    { direction = defines.direction.south, position = { 0, 0.5 },  flow_direction = "input" }
                 }
-                      },
+            },
             energy_source =
             {
                 type = "electric",

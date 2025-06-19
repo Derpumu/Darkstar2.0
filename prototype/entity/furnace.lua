@@ -640,7 +640,6 @@ data:extend(
             name = "stone-furnace-mk2",
             icon = "__base__/graphics/icons/stone-furnace.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "stone-furnace-mk2" },
             max_health = 250,

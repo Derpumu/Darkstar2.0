@@ -8,7 +8,6 @@ data:extend(
             name = "storage-tank-mk2",
             icon = "__base__/graphics/icons/storage-tank.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             flags = { "placeable-player", "player-creation" },
             minable = { mining_time = 1.5, result = "storage-tank-mk2" },
             max_health = 500,
@@ -21,10 +20,10 @@ data:extend(
                 pipe_covers = pipecoverspictures(),
                 pipe_connections =
                 {
-                  { direction = defines.direction.north, position = {-1, -1} },
-                  { direction = defines.direction.east, position = {1, 1} },
-                  { direction = defines.direction.south, position = {1, 1} },
-                  { direction = defines.direction.west, position = {-1, -1} }
+                    { direction = defines.direction.north, position = { -1, -1 } },
+                    { direction = defines.direction.east,  position = { 1, 1 } },
+                    { direction = defines.direction.south, position = { 1, 1 } },
+                    { direction = defines.direction.west,  position = { -1, -1 } }
                 },
                 hide_connection_info = true
             },

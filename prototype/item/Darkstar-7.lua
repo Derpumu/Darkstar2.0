@@ -103,8 +103,7 @@ data:extend(
             name = "pump-mk2",
             icon = "__base__/graphics/icons/roboport.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "Darkstar-7",
             order = "c[signal]-c[roboport]",
             place_result = "pump-mk2",

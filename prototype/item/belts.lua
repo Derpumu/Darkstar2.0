@@ -8,7 +8,6 @@ data:extend(
             name = "terra-loader",
             icon = "__base__/graphics/icons/express-loader.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             subgroup = "logic",
             order = "g[transport-belt]",
             place_result = "terra-loader",

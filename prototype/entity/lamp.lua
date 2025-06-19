@@ -8,7 +8,6 @@ data:extend(
             name = "large-lamp",
             icon = "__base__/graphics/icons/small-lamp.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "large-lamp" },
             max_health = 250,
@@ -103,12 +102,12 @@ data:extend(
             },
             signal_to_color_mapping =
             {
-                { type = "virtual", name = "signal-red", color = { r = 1, g = 0, b = 0 } },
-                { type = "virtual", name = "signal-green", color = { r = 0, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-blue", color = { r = 0, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-red",    color = { r = 1, g = 0, b = 0 } },
+                { type = "virtual", name = "signal-green",  color = { r = 0, g = 1, b = 0 } },
+                { type = "virtual", name = "signal-blue",   color = { r = 0, g = 0, b = 1 } },
                 { type = "virtual", name = "signal-yellow", color = { r = 1, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-pink", color = { r = 1, g = 0, b = 1 } },
-                { type = "virtual", name = "signal-cyan", color = { r = 0, g = 1, b = 1 } }
+                { type = "virtual", name = "signal-pink",   color = { r = 1, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-cyan",   color = { r = 0, g = 1, b = 1 } }
             },
 
             circuit_wire_connection_point = circuit_connector_definitions["lamp"].points,
@@ -161,12 +160,12 @@ data:extend(
             },
             signal_to_color_mapping =
             {
-                { type = "virtual", name = "signal-red", color = { r = 1, g = 0, b = 0 } },
-                { type = "virtual", name = "signal-green", color = { r = 0, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-blue", color = { r = 0, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-red",    color = { r = 1, g = 0, b = 0 } },
+                { type = "virtual", name = "signal-green",  color = { r = 0, g = 1, b = 0 } },
+                { type = "virtual", name = "signal-blue",   color = { r = 0, g = 0, b = 1 } },
                 { type = "virtual", name = "signal-yellow", color = { r = 1, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-pink", color = { r = 1, g = 0, b = 1 } },
-                { type = "virtual", name = "signal-cyan", color = { r = 0, g = 1, b = 1 } },
+                { type = "virtual", name = "signal-pink",   color = { r = 1, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-cyan",   color = { r = 0, g = 1, b = 1 } },
             },
         },
         {
@@ -215,12 +214,12 @@ data:extend(
             },
             signal_to_color_mapping =
             {
-                { type = "virtual", name = "signal-red", color = { r = 1, g = 0, b = 0 } },
-                { type = "virtual", name = "signal-green", color = { r = 0, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-blue", color = { r = 0, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-red",    color = { r = 1, g = 0, b = 0 } },
+                { type = "virtual", name = "signal-green",  color = { r = 0, g = 1, b = 0 } },
+                { type = "virtual", name = "signal-blue",   color = { r = 0, g = 0, b = 1 } },
                 { type = "virtual", name = "signal-yellow", color = { r = 1, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-pink", color = { r = 1, g = 0, b = 1 } },
-                { type = "virtual", name = "signal-cyan", color = { r = 0, g = 1, b = 1 } },
+                { type = "virtual", name = "signal-pink",   color = { r = 1, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-cyan",   color = { r = 0, g = 1, b = 1 } },
             },
 
         },
@@ -270,12 +269,12 @@ data:extend(
             },
             signal_to_color_mapping =
             {
-                { type = "virtual", name = "signal-red", color = { r = 1, g = 0, b = 0 } },
-                { type = "virtual", name = "signal-green", color = { r = 0, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-blue", color = { r = 0, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-red",    color = { r = 1, g = 0, b = 0 } },
+                { type = "virtual", name = "signal-green",  color = { r = 0, g = 1, b = 0 } },
+                { type = "virtual", name = "signal-blue",   color = { r = 0, g = 0, b = 1 } },
                 { type = "virtual", name = "signal-yellow", color = { r = 1, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-pink", color = { r = 1, g = 0, b = 1 } },
-                { type = "virtual", name = "signal-cyan", color = { r = 0, g = 1, b = 1 } },
+                { type = "virtual", name = "signal-pink",   color = { r = 1, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-cyan",   color = { r = 0, g = 1, b = 1 } },
             },
         },
         {
@@ -324,12 +323,12 @@ data:extend(
             },
             signal_to_color_mapping =
             {
-                { type = "virtual", name = "signal-red", color = { r = 1, g = 0, b = 0 } },
-                { type = "virtual", name = "signal-green", color = { r = 0, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-blue", color = { r = 0, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-red",    color = { r = 1, g = 0, b = 0 } },
+                { type = "virtual", name = "signal-green",  color = { r = 0, g = 1, b = 0 } },
+                { type = "virtual", name = "signal-blue",   color = { r = 0, g = 0, b = 1 } },
                 { type = "virtual", name = "signal-yellow", color = { r = 1, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-pink", color = { r = 1, g = 0, b = 1 } },
-                { type = "virtual", name = "signal-cyan", color = { r = 0, g = 1, b = 1 } },
+                { type = "virtual", name = "signal-pink",   color = { r = 1, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-cyan",   color = { r = 0, g = 1, b = 1 } },
             },
         },
         {
@@ -378,12 +377,12 @@ data:extend(
             },
             signal_to_color_mapping =
             {
-                { type = "virtual", name = "signal-red", color = { r = 1, g = 0, b = 0 } },
-                { type = "virtual", name = "signal-green", color = { r = 0, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-blue", color = { r = 0, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-red",    color = { r = 1, g = 0, b = 0 } },
+                { type = "virtual", name = "signal-green",  color = { r = 0, g = 1, b = 0 } },
+                { type = "virtual", name = "signal-blue",   color = { r = 0, g = 0, b = 1 } },
                 { type = "virtual", name = "signal-yellow", color = { r = 1, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-pink", color = { r = 1, g = 0, b = 1 } },
-                { type = "virtual", name = "signal-cyan", color = { r = 0, g = 1, b = 1 } },
+                { type = "virtual", name = "signal-pink",   color = { r = 1, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-cyan",   color = { r = 0, g = 1, b = 1 } },
             },
         },
         {
@@ -432,12 +431,12 @@ data:extend(
             },
             signal_to_color_mapping =
             {
-                { type = "virtual", name = "signal-red", color = { r = 1, g = 0, b = 0 } },
-                { type = "virtual", name = "signal-green", color = { r = 0, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-blue", color = { r = 0, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-red",    color = { r = 1, g = 0, b = 0 } },
+                { type = "virtual", name = "signal-green",  color = { r = 0, g = 1, b = 0 } },
+                { type = "virtual", name = "signal-blue",   color = { r = 0, g = 0, b = 1 } },
                 { type = "virtual", name = "signal-yellow", color = { r = 1, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-pink", color = { r = 1, g = 0, b = 1 } },
-                { type = "virtual", name = "signal-cyan", color = { r = 0, g = 1, b = 1 } },
+                { type = "virtual", name = "signal-pink",   color = { r = 1, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-cyan",   color = { r = 0, g = 1, b = 1 } },
             },
         },
         {
@@ -486,12 +485,12 @@ data:extend(
             },
             signal_to_color_mapping =
             {
-                { type = "virtual", name = "signal-red", color = { r = 1, g = 0, b = 0 } },
-                { type = "virtual", name = "signal-green", color = { r = 0, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-blue", color = { r = 0, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-red",    color = { r = 1, g = 0, b = 0 } },
+                { type = "virtual", name = "signal-green",  color = { r = 0, g = 1, b = 0 } },
+                { type = "virtual", name = "signal-blue",   color = { r = 0, g = 0, b = 1 } },
                 { type = "virtual", name = "signal-yellow", color = { r = 1, g = 1, b = 0 } },
-                { type = "virtual", name = "signal-pink", color = { r = 1, g = 0, b = 1 } },
-                { type = "virtual", name = "signal-cyan", color = { r = 0, g = 1, b = 1 } },
+                { type = "virtual", name = "signal-pink",   color = { r = 1, g = 0, b = 1 } },
+                { type = "virtual", name = "signal-cyan",   color = { r = 0, g = 1, b = 1 } },
             },
         },
     }

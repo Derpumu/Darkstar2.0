@@ -65,8 +65,7 @@ data:extend(
             name = "shotgun-pellet-mk2",
             icon = "__Darkstar2.0__/graphics/ammo/railgun1.png",
             icon_size = 32,
-            icon_mipmaps = 1,
-
+            
             subgroup = "gun",
             order = "d[rocket-launcher]",
             attack_parameters =
@@ -94,8 +93,7 @@ data:extend(
             name = "flamethrower2",
             icon = "__base__/graphics/icons/flamethrower.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "gun",
             order = "e[flamethrower]",
             attack_parameters =
@@ -141,8 +139,7 @@ data:extend(
             name = "rocket-launcher-mk3",
             icon = "__base__/graphics/icons/rocket-launcher.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "nuclear",
             order = "c[nuke]",
             attack_parameters =
@@ -245,8 +242,7 @@ data:extend(
             name = "health-rifle",
             icon = "__base__/graphics/icons/submachine-gun.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "assult-rifles",
             order = "b[assult-rifle]",
             attack_parameters =
@@ -283,8 +279,7 @@ data:extend(
             name = "end-game-rifle",
             icon = "__base__/graphics/icons/submachine-gun.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "assult-rifles",
             order = "b[assult-rifle]",
             attack_parameters =
@@ -321,8 +316,7 @@ data:extend(
             name = "end-game-rifle-2",
             icon = "__base__/graphics/icons/submachine-gun.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "assult-rifles",
             order = "b[assult-rifle]",
             attack_parameters =
@@ -434,8 +428,7 @@ data:extend(
             name = "combat-shotgun-mk2",
             icon = "__base__/graphics/icons/combat-shotgun.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "shotguns",
             order = "a[shotgun]",
             attack_parameters =

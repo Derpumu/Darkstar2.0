@@ -8,7 +8,6 @@ data:extend(
             name = "gold-ore",
             icon = "__base__/graphics/icons/iron-ore.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             flags = { "placeable-neutral" },
             order = "a-b-b",
             minable =
@@ -102,7 +101,6 @@ data:extend(
             name = "lithium-ore",
             icon = "__base__/graphics/icons/iron-ore.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             flags = { "placeable-neutral" },
             order = "a-b-b",
             minable =
@@ -196,7 +194,6 @@ data:extend(
             name = "lead-ore",
             icon = "__base__/graphics/icons/iron-ore.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             flags = { "placeable-neutral" },
             order = "a-b-b",
             minable =

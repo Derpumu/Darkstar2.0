@@ -8,8 +8,7 @@ data:extend(
             name = "locomotive-mk2",
             icon = "__base__/graphics/icons/locomotive.png",
             icon_size = 64,
-            icon_mipmaps = 4,
-
+            
             subgroup = "transport",
             order = "a[train-system]-f[diesel-locomotive]",
             place_result = "locomotive-mk2",

@@ -3278,7 +3278,6 @@ data:extend(
             name = "oil-refinery-mk2",
             icon = "__base__/graphics/icons/oil-refinery.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             flags = { "placeable-neutral", "player-creation" },
             minable = { mining_time = 1, result = "oil-refinery-mk2" },
             max_health = 600,

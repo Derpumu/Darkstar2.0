@@ -45,7 +45,6 @@ data:extend(
             name = "nuke-grenade",
             icon = "__base__/graphics/icons/grenade.png",
             icon_size = 64,
-            icon_mipmaps = 4,
 
             capsule_action =
             {

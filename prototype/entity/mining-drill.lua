@@ -500,7 +500,6 @@ data:extend(
             name = "pumpjack-mk2",
             icon = "__base__/graphics/icons/pumpjack.png",
             icon_size = 64,
-            icon_mipmaps = 4,
             flags = { "placeable-neutral", "player-creation" },
             minable = { mining_time = 1, result = "pumpjack-mk2" },
             resource_categories = { "basic-fluid" },
@@ -525,7 +524,7 @@ data:extend(
                 {
                     {
                         direction = defines.direction.north,
-                        positions = {{1, -1}, {1, -1}, {-1, 1}, {-1, 1}},
+                        positions = { { 1, -1 }, { 1, -1 }, { -1, 1 }, { -1, 1 } },
                         flow_direction = "output"
                     }
                 },
