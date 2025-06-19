@@ -1,5 +1,5 @@
 -- require("prototype.item")
--- require("prototype.item-group")
+require("prototype.item-group")
 -- require("prototype.entity")
 -- require("prototype.recipe")
 -- require("prototype.technology")
