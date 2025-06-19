@@ -10,9 +10,9 @@ data:extend(
             icon_size = 32,
             icon_mipmaps = 1,
 
+            ammo_category = "rocket-mk2",
             ammo_type =
             {
-                category = "rocket-mk2",
                 action =
                 {
                     type = "direct",
@@ -23,17 +23,19 @@ data:extend(
                         starting_speed = 550.1,
                         source_effects =
                         {
-                            type = "create-entity",
-                            entity_name = "explosion-hit"
-                        },
-                        {
-                            type = "create-entity",
-                            entity_name = "big-explosion",
-                            check_buildability = true
-                        },
-                        {
-                            type = "damage",
-                            damage = { amount = 300 + 1050, type = "physical" }
+                            {
+                                type = "create-entity",
+                                entity_name = "explosion-hit"
+                            },
+                            {
+                                type = "create-entity",
+                                entity_name = "big-explosion",
+                                check_buildability = true
+                            },
+                            {
+                                type = "damage",
+                                damage = { amount = 300 + 1050, type = "physical" }
+                            }
                         }
                     }
                 }
@@ -43,17 +45,15 @@ data:extend(
             order = "c[railgun]",
             stack_size = 5
         },
-
-
         {
             type = "ammo",
             name = "railgun-mk2-round",
             icon = "__Darkstar2.0__/graphics/ammo/railgun-ammo2.png",
             icon_size = 32,
 
+            ammo_category = "railgun-mk2-round",
             ammo_type =
             {
-                category = "railgun-mk2-round",
                 action =
                 {
                     type = "direct",
@@ -90,9 +90,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/railgun-ammo2.png",
             icon_size = 32,
 
+            ammo_category = "railgun-mk2-round",
             ammo_type =
             {
-                category = "railgun-mk2-round",
                 action =
                 {
                     type = "direct",
@@ -129,9 +129,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/railgun-ammo3.png",
             icon_size = 32,
 
+            ammo_category = "railgun-mk2-round",
             ammo_type =
             {
-                category = "railgun-mk2-round",
                 target_type = "direction",
                 clamp_position = true,
                 action =
@@ -168,9 +168,9 @@ data:extend(
             icon = "__base__/graphics/icons/explosive-rocket.png",
             icon_size = 32,
 
+            ammo_category = "rocket-mk3",
             ammo_type =
             {
-                category = "rocket-mk3",
                 action =
                 {
                     type = "direct",
@@ -218,9 +218,9 @@ data:extend(
             icon_size = 64,
             icon_mipmaps = 4,
 
+            ammo_category = "healing",
             ammo_type =
             {
-                category = "healing",
                 action =
                 {
                     type = "direct",
@@ -259,9 +259,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/explosive-bullet-magazine.png",
             icon_size = 32,
 
+            ammo_category = "bullet-mk2",
             ammo_type =
             {
-                category = "bullet-mk2",
                 action =
                 {
                     {
@@ -305,9 +305,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/explosive-bullet-magazine2.png",
             icon_size = 32,
 
+            ammo_category = "bullet-mk2",
             ammo_type =
             {
-                category = "bullet-mk2",
                 action =
                 {
                     {
@@ -351,9 +351,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/explosive-bullet-magazine3.png",
             icon_size = 32,
 
+            ammo_category = "bullet-mk2",
             ammo_type =
             {
-                category = "bullet-mk2",
                 action =
                 {
                     {
@@ -397,9 +397,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/explosive-bullet-magazine.png",
             icon_size = 32,
 
+            ammo_category = "healing",
             ammo_type =
             {
-                category = "healing",
                 action =
                 {
                     {
@@ -444,9 +444,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/quantum-shell.png",
             icon_size = 32,
 
+            ammo_category = "end-game",
             ammo_type =
             {
-                category = "end-game",
                 action =
                 {
                     {
@@ -491,9 +491,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/quantum-shell-2.png",
             icon_size = 32,
 
+            ammo_category = "end-game-2",
             ammo_type =
             {
-                category = "end-game-2",
                 action =
                 {
                     {
@@ -538,9 +538,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/sniper-bullet.png",
             icon_size = 32,
 
+            ammo_category = "sniper-round",
             ammo_type =
             {
-                category = "sniper-round",
                 action =
                 {
                     {
@@ -584,9 +584,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/sniper-bullet2.png",
             icon_size = 32,
 
+            ammo_category = "sniper-round",
             ammo_type =
             {
-                category = "sniper-round",
                 action =
                 {
                     {
@@ -630,9 +630,9 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/ammo/sniper-bullet2.png",
             icon_size = 32,
 
+            ammo_category = "sniper-round",
             ammo_type =
             {
-                category = "sniper-round",
                 action =
                 {
                     {
@@ -674,13 +674,12 @@ data:extend(
             name = "Napalm",
             icon = "__base__/graphics/icons/flamethrower-ammo.png",
             icon_size = 32,
-
+            ammo_category = "flamethrower",
             ammo_type =
             {
                 {
                     source_type = "vehicle",
                     consumption_modifier = 1.5,
-                    category = "flamethrower",
                     target_type = "position",
                     clamp_position = true,
 
@@ -708,9 +707,9 @@ data:extend(
             icon = "__base__/graphics/icons/piercing-shotgun-shell.png",
             icon_size = 32,
 
+            ammo_category = "shotgun-shells-mk2",
             ammo_type =
             {
-                category = "shotgun-shells-mk2",
                 target_type = "direction",
                 source_effects =
                 {
