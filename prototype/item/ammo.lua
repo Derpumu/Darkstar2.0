@@ -669,5 +669,74 @@ data:extend(
             order = "d[sniper-rifle]",
             stack_size = 100
         },
+        { -- Napalm
+            type = "ammo",
+            name = "Napalm",
+            icon = "__base__/graphics/icons/flamethrower-ammo.png",
+            icon_size = 32,
+
+            ammo_type =
+            {
+                {
+                    source_type = "vehicle",
+                    consumption_modifier = 1.5,
+                    category = "flamethrower",
+                    target_type = "position",
+                    clamp_position = true,
+
+                    action =
+                    {
+                        type = "direct",
+                        action_delivery =
+                        {
+                            type = "stream",
+                            stream = "handheld-flamethrower-fire-stream",
+                            max_length = 60,
+                            duration = 820,
+                        }
+                    }
+                }
+            },
+            magazine_size = 500,
+            subgroup = "ammo",
+            order = "e[napalm]",
+            stack_size = 100
+        },
+        {
+            type = "ammo",
+            name = "shotgun-shells-mk2",
+            icon = "__base__/graphics/icons/piercing-shotgun-shell.png",
+            icon_size = 32,
+
+            ammo_type =
+            {
+                category = "shotgun-shells-mk2",
+                target_type = "direction",
+                source_effects =
+                {
+                    type = "create-explosion",
+                    entity_name = "explosion-gunshot"
+                },
+                action =
+                {
+                    type = "direct",
+                    repeat_count = 44,
+                    action_delivery =
+                    {
+                        type = "projectile",
+                        projectile = "explosive-rocket-mk2",
+                        starting_speed = 3,
+                        direction_deviation = 0.3,
+                        range_deviation = 0.6,
+                        max_range = 55,
+                    }
+                }
+            },
+            magazine_size = 10,
+            subgroup = "ammo",
+            order = "b[shotgun]-b[piercing]",
+            stack_size = 100
+        },
+
     }
 )
