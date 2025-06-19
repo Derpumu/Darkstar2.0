@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "drone-swarm",
-            icon = "__Darkstar_utilities__/graphics/icons/swarm.png",
+            icon = "__Darkstar2.0__/graphics/icons/swarm.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -18,7 +18,7 @@ data:extend(
         {
             type = "item",
             name = "multiverse-swarm",
-            icon = "__Darkstar_utilities__/graphics/icons/multiverse-swarm.png",
+            icon = "__Darkstar2.0__/graphics/icons/multiverse-swarm.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item",
             name = "interstellar-swarm",
-            icon = "__Darkstar_utilities__/graphics/icons/interstellar-swarm.png",
+            icon = "__Darkstar2.0__/graphics/icons/interstellar-swarm.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -42,7 +42,7 @@ data:extend(
         {
             type = "item",
             name = "dark-matter-drones",
-            icon = "__Darkstar_utilities__/graphics/icons/dark-matter-swarm.png",
+            icon = "__Darkstar2.0__/graphics/icons/dark-matter-swarm.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -54,7 +54,7 @@ data:extend(
         {
             type = "item",
             name = "antithetic-drones",
-            icon = "__Darkstar_utilities__/graphics/icons/antithetic-swarm.png",
+            icon = "__Darkstar2.0__/graphics/icons/antithetic-swarm.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -66,7 +66,7 @@ data:extend(
         {
             type = "item",
             name = "norbornadiene-drones",
-            icon = "__Darkstar_utilities__/graphics/icons/norbornadiene-swarm.png",
+            icon = "__Darkstar2.0__/graphics/icons/norbornadiene-swarm.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -78,7 +78,7 @@ data:extend(
         {
             type = "item",
             name = "star-matter-drones",
-            icon = "__Darkstar_utilities__/graphics/icons/star-miner-swarm.png",
+            icon = "__Darkstar2.0__/graphics/icons/star-miner-swarm.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -90,7 +90,7 @@ data:extend(
         {
             type = "item",
             name = "dark-matter-drones2",
-            icon = "__Darkstar_utilities__/graphics/icons/dark-matter-swarm2.png",
+            icon = "__Darkstar2.0__/graphics/icons/dark-matter-swarm2.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -102,7 +102,7 @@ data:extend(
         {
             type = "item",
             name = "antithetic-drones2",
-            icon = "__Darkstar_utilities__/graphics/icons/antithetic-swarm2.png",
+            icon = "__Darkstar2.0__/graphics/icons/antithetic-swarm2.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -114,7 +114,7 @@ data:extend(
         {
             type = "item",
             name = "norbornadiene-drones2",
-            icon = "__Darkstar_utilities__/graphics/icons/norbornadiene-swarm2.png",
+            icon = "__Darkstar2.0__/graphics/icons/norbornadiene-swarm2.png",
             icon_size = 32,
 
             subgroup = "launch-items",
@@ -126,7 +126,7 @@ data:extend(
         {
             type = "item",
             name = "star-matter-drones2",
-            icon = "__Darkstar_utilities__/graphics/icons/star-miner-swarm2.png",
+            icon = "__Darkstar2.0__/graphics/icons/star-miner-swarm2.png",
             icon_size = 32,
 
             subgroup = "launch-items",

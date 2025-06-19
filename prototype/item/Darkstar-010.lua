@@ -71,7 +71,7 @@ data:extend(
         {
             type = "item",
             name = "logistic-house-passive-provider",
-            icon = "__Darkstar_utilities__/graphics/icons/warehouse-passive-provider.png",
+            icon = "__Darkstar2.0__/graphics/icons/warehouse-passive-provider.png",
             icon_size = 32,
 
             subgroup = "Darkstar-010",
@@ -83,7 +83,7 @@ data:extend(
         {
             type = "item",
             name = "logistic-house-active-provider",
-            icon = "__Darkstar_utilities__/graphics/icons/warehouse-active-provider.png",
+            icon = "__Darkstar2.0__/graphics/icons/warehouse-active-provider.png",
             icon_size = 32,
 
             subgroup = "Darkstar-010",
@@ -95,7 +95,7 @@ data:extend(
         {
             type = "item",
             name = "logistic-house-storage",
-            icon = "__Darkstar_utilities__/graphics/icons/warehouse-storage.png",
+            icon = "__Darkstar2.0__/graphics/icons/warehouse-storage.png",
             icon_size = 32,
 
             subgroup = "Darkstar-010",
@@ -107,7 +107,7 @@ data:extend(
         {
             type = "item",
             name = "logistic-house-requester",
-            icon = "__Darkstar_utilities__/graphics/icons/warehouse-requester.png",
+            icon = "__Darkstar2.0__/graphics/icons/warehouse-requester.png",
             icon_size = 32,
 
             subgroup = "Darkstar-010",
@@ -119,7 +119,7 @@ data:extend(
         {
             type = "item",
             name = "logistic-house-buffer",
-            icon = "__Darkstar_utilities__/graphics/icons/warehouse-buffer.png",
+            icon = "__Darkstar2.0__/graphics/icons/warehouse-buffer.png",
             icon_size = 32,
 
             subgroup = "Darkstar-010",

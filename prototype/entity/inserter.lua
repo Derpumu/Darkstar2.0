@@ -6,7 +6,7 @@ data:extend(
         {
             type = "inserter",
             name = "rapid-inserter",
-            icon = "__Darkstar_utilities__/graphics/icons/rapid-inserter.png",
+            icon = "__Darkstar2.0__/graphics/icons/rapid-inserter.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             module_specification =
@@ -74,21 +74,21 @@ data:extend(
             },
             hand_base_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/rapid-inserter/rapid-inserter-hand-base.png",
+                filename = "__Darkstar2.0__/graphics/entity/rapid-inserter/rapid-inserter-hand-base.png",
                 priority = "extra-high",
                 width = 8,
                 height = 34
             },
             hand_closed_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/rapid-inserter/rapid-inserter-hand-closed.png",
+                filename = "__Darkstar2.0__/graphics/entity/rapid-inserter/rapid-inserter-hand-closed.png",
                 priority = "extra-high",
                 width = 18,
                 height = 41
             },
             hand_open_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/rapid-inserter/rapid-inserter-hand-open.png",
+                filename = "__Darkstar2.0__/graphics/entity/rapid-inserter/rapid-inserter-hand-open.png",
                 priority = "extra-high",
                 width = 18,
                 height = 41
@@ -118,7 +118,7 @@ data:extend(
             {
                 sheet =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/terra-inserter/terra-inserter-platform.png",
+                    filename = "__Darkstar2.0__/graphics/entity/terra-inserter/terra-inserter-platform.png",
                     priority = "extra-high",
                     width = 46,
                     height = 46
@@ -128,7 +128,7 @@ data:extend(
         {
             type = "inserter",
             name = "terra-inserter",
-            icon = "__Darkstar_utilities__/graphics/icons/terra-inserter.png",
+            icon = "__Darkstar2.0__/graphics/icons/terra-inserter.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             stack = false,
@@ -197,21 +197,21 @@ data:extend(
             },
             hand_base_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/terra-inserter/terra-inserter-hand-base.png",
+                filename = "__Darkstar2.0__/graphics/entity/terra-inserter/terra-inserter-hand-base.png",
                 priority = "extra-high",
                 width = 8,
                 height = 34
             },
             hand_closed_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/terra-inserter/terra-inserter-hand-closed.png",
+                filename = "__Darkstar2.0__/graphics/entity/terra-inserter/terra-inserter-hand-closed.png",
                 priority = "extra-high",
                 width = 18,
                 height = 41
             },
             hand_open_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/terra-inserter/terra-inserter-hand-open.png",
+                filename = "__Darkstar2.0__/graphics/entity/terra-inserter/terra-inserter-hand-open.png",
                 priority = "extra-high",
                 width = 18,
                 height = 41
@@ -241,7 +241,7 @@ data:extend(
             {
                 sheet =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/terra-inserter/terra-inserter-platform.png",
+                    filename = "__Darkstar2.0__/graphics/entity/terra-inserter/terra-inserter-platform.png",
                     priority = "extra-high",
                     width = 46,
                     height = 46
@@ -251,7 +251,7 @@ data:extend(
         {
             type = "inserter",
             name = "smart-terra-inserter",
-            icon = "__Darkstar_utilities__/graphics/icons/smart-terra-inserter.png",
+            icon = "__Darkstar2.0__/graphics/icons/smart-terra-inserter.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             stack = False,
@@ -317,7 +317,7 @@ data:extend(
             hand_base_picture =
             {
                 filename =
-                "__Darkstar_utilities__/graphics/entity/smart-terra-inserter/smart-terra-inserter-hand-base.png",
+                "__Darkstar2.0__/graphics/entity/smart-terra-inserter/smart-terra-inserter-hand-base.png",
                 priority = "extra-high",
                 width = 8,
                 height = 34
@@ -325,7 +325,7 @@ data:extend(
             hand_closed_picture =
             {
                 filename =
-                "__Darkstar_utilities__/graphics/entity/smart-terra-inserter/smart-terra-inserter-hand-closed.png",
+                "__Darkstar2.0__/graphics/entity/smart-terra-inserter/smart-terra-inserter-hand-closed.png",
                 priority = "extra-high",
                 width = 18,
                 height = 41
@@ -333,7 +333,7 @@ data:extend(
             hand_open_picture =
             {
                 filename =
-                "__Darkstar_utilities__/graphics/entity/smart-terra-inserter/smart-terra-inserter-hand-open.png",
+                "__Darkstar2.0__/graphics/entity/smart-terra-inserter/smart-terra-inserter-hand-open.png",
                 priority = "extra-high",
                 width = 18,
                 height = 41
@@ -364,7 +364,7 @@ data:extend(
                 sheet =
                 {
                     filename =
-                    "__Darkstar_utilities__/graphics/entity/smart-terra-inserter/smart-terra-inserter-platform.png",
+                    "__Darkstar2.0__/graphics/entity/smart-terra-inserter/smart-terra-inserter-platform.png",
                     priority = "extra-high",
                     width = 46,
                     height = 46

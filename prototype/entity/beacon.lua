@@ -7,7 +7,7 @@ data:extend(
         {
             type = "beacon",
             name = "ultra-beacon",
-            icon = "__Darkstar_utilities__/graphics/icons/ultra-beacon-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/ultra-beacon-icon.png",
             icon_size = 32,
             flags = { "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "ultra-beacon" },
@@ -19,14 +19,14 @@ data:extend(
             allowed_effects = { "consumption", "speed", "pollution" },
             base_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/ultra-beacon/ultra-beacon-base.png",
+                filename = "__Darkstar2.0__/graphics/entity/ultra-beacon/ultra-beacon-base.png",
                 width = 116,
                 height = 93,
                 shift = { 0.34, 0.06 }
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/ultra-beacon/ultra-beacon-antenna.png",
+                filename = "__Darkstar2.0__/graphics/entity/ultra-beacon/ultra-beacon-antenna.png",
                 width = 54,
                 height = 50,
                 line_length = 8,
@@ -36,7 +36,7 @@ data:extend(
             },
             animation_shadow =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/misc/beacon-shadow.png",
+                filename = "__Darkstar2.0__/graphics/entity/misc/beacon-shadow.png",
                 width = 63,
                 height = 49,
                 line_length = 8,
@@ -65,7 +65,7 @@ data:extend(
         {
             type = "beacon",
             name = "efficiency-beacon",
-            icon = "__Darkstar_utilities__/graphics/icons/efficiency-beacon-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/efficiency-beacon-icon.png",
             icon_size = 32,
             flags = { "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "efficiency-beacon" },
@@ -77,14 +77,14 @@ data:extend(
             allowed_effects = { "consumption", "pollution" },
             base_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/ultra-beacon/efficiency-beacon-base.png",
+                filename = "__Darkstar2.0__/graphics/entity/ultra-beacon/efficiency-beacon-base.png",
                 width = 116,
                 height = 93,
                 shift = { 0.34, 0.06 }
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/ultra-beacon/efficiency-beacon-antenna.png",
+                filename = "__Darkstar2.0__/graphics/entity/ultra-beacon/efficiency-beacon-antenna.png",
                 width = 54,
                 height = 50,
                 line_length = 8,
@@ -94,7 +94,7 @@ data:extend(
             },
             animation_shadow =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/misc/beacon-shadow.png",
+                filename = "__Darkstar2.0__/graphics/entity/misc/beacon-shadow.png",
                 width = 63,
                 height = 49,
                 line_length = 8,
@@ -123,7 +123,7 @@ data:extend(
         {
             type = "beacon",
             name = "power-boost-beacon",
-            icon = "__Darkstar_utilities__/graphics/icons/power-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/power-icon.png",
             icon_size = 32,
             flags = { "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "power-boost-beacon" },
@@ -135,14 +135,14 @@ data:extend(
             allowed_effects = { "consumption", "speed", "pollution", },
             base_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/power-boost-beacon/power-base.png",
+                filename = "__Darkstar2.0__/graphics/entity/power-boost-beacon/power-base.png",
                 width = 116,
                 height = 93,
                 shift = { 0.34, 0.06 }
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/power-boost-beacon/power-antenna.png",
+                filename = "__Darkstar2.0__/graphics/entity/power-boost-beacon/power-antenna.png",
                 width = 54,
                 height = 50,
                 line_length = 8,
@@ -152,7 +152,7 @@ data:extend(
             },
             animation_shadow =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/misc/beacon-shadow.png",
+                filename = "__Darkstar2.0__/graphics/entity/misc/beacon-shadow.png",
                 width = 63,
                 height = 49,
                 line_length = 8,
@@ -181,7 +181,7 @@ data:extend(
         {
             type = "beacon",
             name = "basic-beacon-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/mk2-beacon-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/mk2-beacon-icon.png",
             icon_size = 32,
             flags = { "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "basic-beacon-mk2" },
@@ -193,14 +193,14 @@ data:extend(
             allowed_effects = { "consumption", "speed", "pollution", "productivity" },
             base_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/basic-beacon-mk2/basic-beacon-mk2-base.png",
+                filename = "__Darkstar2.0__/graphics/entity/basic-beacon-mk2/basic-beacon-mk2-base.png",
                 width = 116,
                 height = 93,
                 shift = { 0.34, 0.06 }
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/basic-beacon-mk2/basic-beacon-mk2-antenna.png",
+                filename = "__Darkstar2.0__/graphics/entity/basic-beacon-mk2/basic-beacon-mk2-antenna.png",
                 width = 54,
                 height = 50,
                 line_length = 8,
@@ -210,7 +210,7 @@ data:extend(
             },
             animation_shadow =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/misc/beacon-shadow.png",
+                filename = "__Darkstar2.0__/graphics/entity/misc/beacon-shadow.png",
                 width = 63,
                 height = 49,
                 line_length = 8,
@@ -239,7 +239,7 @@ data:extend(
         {
             type = "beacon",
             name = "world-array",
-            icon = "__Darkstar_utilities__/graphics/icons/world-array-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/world-array-icon.png",
             icon_size = 32,
             flags = { "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "world-array" },
@@ -251,14 +251,14 @@ data:extend(
             allowed_effects = { "consumption", "speed", "pollution" },
             base_picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/world-array/world-array-base.png",
+                filename = "__Darkstar2.0__/graphics/entity/world-array/world-array-base.png",
                 width = 116,
                 height = 93,
                 shift = { 0.34, 0.06 }
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/world-array/world-array-antenna.png",
+                filename = "__Darkstar2.0__/graphics/entity/world-array/world-array-antenna.png",
                 width = 54,
                 height = 50,
                 line_length = 8,
@@ -268,7 +268,7 @@ data:extend(
             },
             animation_shadow =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/misc/beacon-shadow.png",
+                filename = "__Darkstar2.0__/graphics/entity/misc/beacon-shadow.png",
                 width = 63,
                 height = 49,
                 line_length = 8,

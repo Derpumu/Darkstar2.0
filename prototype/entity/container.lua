@@ -171,7 +171,7 @@ data:extend(
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse-passive-provider.png",
+                filename = "__Darkstar2.0__/graphics/entity/storage/warehouse-passive-provider.png",
                 priority = "extra-high",
                 width = 550,
                 height = 550,
@@ -200,7 +200,7 @@ data:extend(
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse-buffer.png",
+                filename = "__Darkstar2.0__/graphics/entity/storage/warehouse-buffer.png",
                 priority = "extra-high",
                 width = 550,
                 height = 550,
@@ -228,7 +228,7 @@ data:extend(
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse-active-provider.png",
+                filename = "__Darkstar2.0__/graphics/entity/storage/warehouse-active-provider.png",
                 priority = "extra-high",
                 width = 550,
                 height = 550,
@@ -257,7 +257,7 @@ data:extend(
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse-storage.png",
+                filename = "__Darkstar2.0__/graphics/entity/storage/warehouse-storage.png",
                 priority = "extra-high",
                 width = 550,
                 height = 550,
@@ -285,7 +285,7 @@ data:extend(
             close_sound = { filename = "__base__/sound/metallic-chest-close.ogg", volume = 0.7 },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse-requester.png",
+                filename = "__Darkstar2.0__/graphics/entity/storage/warehouse-requester.png",
                 priority = "extra-high",
                 width = 550,
                 height = 550,
@@ -311,7 +311,7 @@ data:extend(
             close_sound = { filename = "__base__/sound/metallic-chest-close.ogg", volume = 0.7 },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse.png",
+                filename = "__Darkstar2.0__/graphics/entity/storage/warehouse.png",
                 priority = "extra-high",
                 width = 550,
                 height = 550,

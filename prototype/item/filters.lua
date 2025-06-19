@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC1-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC1-i.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -18,7 +18,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC2-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC2-i.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC3-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC3-i.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -42,7 +42,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter-mk4",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC4-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC4-i.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -54,7 +54,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter-mk5",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC5-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC5-i.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -65,7 +65,7 @@ data:extend(
         {
             type = "item",
             name = "filter-tray",
-            icon = "__Darkstar_utilities__/graphics/icons/filtration-tray.png",
+            icon = "__Darkstar2.0__/graphics/icons/filtration-tray.png",
             icon_size = 64,
 
             subgroup = "filters",
@@ -76,7 +76,7 @@ data:extend(
         {
             type = "item",
             name = "filter-tray-2",
-            icon = "__Darkstar_utilities__/graphics/icons/filtration-tray-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/filtration-tray-2.png",
             icon_size = 64,
 
             subgroup = "filters",
@@ -87,7 +87,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter-charge-x1",
-            icon = "__Darkstar_utilities__/graphics/icons/air-filter.png",
+            icon = "__Darkstar2.0__/graphics/icons/air-filter.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -98,7 +98,7 @@ data:extend(
         {
             type = "item",
             name = "sand-filter-charge-x1",
-            icon = "__Darkstar_utilities__/graphics/icons/sand-filter1.png",
+            icon = "__Darkstar2.0__/graphics/icons/sand-filter1.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -109,7 +109,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter-charge-x2",
-            icon = "__Darkstar_utilities__/graphics/icons/air-filter-mk2.png",
+            icon = "__Darkstar2.0__/graphics/icons/air-filter-mk2.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -120,7 +120,7 @@ data:extend(
         {
             type = "item",
             name = "sand-filter-charge-x2",
-            icon = "__Darkstar_utilities__/graphics/icons/sand-filter2.png",
+            icon = "__Darkstar2.0__/graphics/icons/sand-filter2.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -131,7 +131,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter-charge-x3",
-            icon = "__Darkstar_utilities__/graphics/icons/air-filter-mk3.png",
+            icon = "__Darkstar2.0__/graphics/icons/air-filter-mk3.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -142,7 +142,7 @@ data:extend(
         {
             type = "item",
             name = "sand-filter-charge-x3",
-            icon = "__Darkstar_utilities__/graphics/icons/sand-filter3.png",
+            icon = "__Darkstar2.0__/graphics/icons/sand-filter3.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -153,7 +153,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter-charge-x4",
-            icon = "__Darkstar_utilities__/graphics/icons/air-filter-mk4.png",
+            icon = "__Darkstar2.0__/graphics/icons/air-filter-mk4.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -164,7 +164,7 @@ data:extend(
         {
             type = "item",
             name = "sand-filter-charge-x4",
-            icon = "__Darkstar_utilities__/graphics/icons/sand-filter4.png",
+            icon = "__Darkstar2.0__/graphics/icons/sand-filter4.png",
             icon_size = 32,
 
             subgroup = "filters",
@@ -175,7 +175,7 @@ data:extend(
         {
             type = "item",
             name = "air-filter-charge-x5",
-            icon = "__Darkstar_utilities__/graphics/icons/air-filter-mk5.png",
+            icon = "__Darkstar2.0__/graphics/icons/air-filter-mk5.png",
             icon_size = 32,
 
             subgroup = "filters",

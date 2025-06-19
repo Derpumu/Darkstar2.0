@@ -5,20 +5,20 @@ local function tile_variant(set, variant)
     main =
     {
       {
-        picture = "__Darkstar_utilities__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-1.png",
+        picture = "__Darkstar2.0__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-1.png",
         count = 16,
         size = 1,
         scale = 0.5
       },
       {
-        picture = "__Darkstar_utilities__/graphics/tiles/" .. set .. "/" .. variant .. "//hr-" .. set .. "-2.png",
+        picture = "__Darkstar2.0__/graphics/tiles/" .. set .. "/" .. variant .. "//hr-" .. set .. "-2.png",
         count = 4,
         size = 2,
         probability = 0.39,
         scale = 0.5
       },
       {
-        picture = "__Darkstar_utilities__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-4.png",
+        picture = "__Darkstar2.0__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-4.png",
         count = 4,
         size = 4,
         probability = 1,
@@ -31,7 +31,7 @@ local function tile_variant(set, variant)
       {
         inner_corner =
         {
-          spritesheet = "__Darkstar_utilities__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set ..
+          spritesheet = "__Darkstar2.0__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set ..
               "-inner-corner.png",
           count = 16,
           tile_height = 2,
@@ -39,7 +39,7 @@ local function tile_variant(set, variant)
         },
         outer_corner =
         {
-          spritesheet = "__Darkstar_utilities__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set ..
+          spritesheet = "__Darkstar2.0__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set ..
               "-outer-corner.png",
           count = 8,
           tile_height = 2,
@@ -47,21 +47,21 @@ local function tile_variant(set, variant)
         },
         side =
         {
-          spritesheet = "__Darkstar_utilities__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-side.png",
+          spritesheet = "__Darkstar2.0__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-side.png",
           count = 16,
           tile_height = 2,
           scale = 0.5
         },
         u_transition =
         {
-          spritesheet = "__Darkstar_utilities__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-u.png",
+          spritesheet = "__Darkstar2.0__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-u.png",
           count = 8,
           tile_height = 2,
           scale = 0.5
         },
         o_transition =
         {
-          spritesheet = "__Darkstar_utilities__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-o.png",
+          spritesheet = "__Darkstar2.0__/graphics/tiles/" .. set .. "/" .. variant .. "/hr-" .. set .. "-o.png",
           count = 4,
           scale = 0.5
         }
@@ -101,18 +101,18 @@ express_tile.variants =
       main =
       {
         {
-          picture = "__Darkstar_utilities__/graphics/tiles/other-paths/express1.png",
+          picture = "__Darkstar2.0__/graphics/tiles/other-paths/express1.png",
           count = 16,
           size = 1
         },
         {
-          picture = "__Darkstar_utilities__/graphics/tiles/other-paths/express2.png",
+          picture = "__Darkstar2.0__/graphics/tiles/other-paths/express2.png",
           count = 4,
           size = 2,
           probability = 0.39,
         },
         {
-          picture = "__Darkstar_utilities__/graphics/tiles/other-paths/express4.png",
+          picture = "__Darkstar2.0__/graphics/tiles/other-paths/express4.png",
           count = 4,
           size = 4,
           probability = 1,
@@ -125,28 +125,28 @@ express_tile.variants =
 
           inner_corner =
           {
-            picture = "__Darkstar_utilities__/graphics/tiles/other-paths/glass-inner-corner.png",
+            picture = "__Darkstar2.0__/graphics/tiles/other-paths/glass-inner-corner.png",
             count = 8
           },
           outer_corner =
           {
-            picture = "__Darkstar_utilities__/graphics/tiles/other-paths/glass-outer-corner.png",
+            picture = "__Darkstar2.0__/graphics/tiles/other-paths/glass-outer-corner.png",
             count = 8
           },
           side =
           {
-            picture = "__Darkstar_utilities__/graphics/tiles/other-paths/glass-side.png",
+            picture = "__Darkstar2.0__/graphics/tiles/other-paths/glass-side.png",
             count = 8
           },
 
           u_transition =
           {
-            picture = "__Darkstar_utilities__/graphics/tiles/other-paths/glass-u.png",
+            picture = "__Darkstar2.0__/graphics/tiles/other-paths/glass-u.png",
             count = 8
           },
           o_transition =
           {
-            picture = "__Darkstar_utilities__/graphics/tiles/other-paths/glass-o.png",
+            picture = "__Darkstar2.0__/graphics/tiles/other-paths/glass-o.png",
             count = 1
           }
         }

@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "geothermal-generator",
-            icon = "__Darkstar_utilities__/graphics/icons/geothermal-generator2.png",
+            icon = "__Darkstar2.0__/graphics/icons/geothermal-generator2.png",
             icon_size = 32,
 
             subgroup = "generators",
@@ -18,7 +18,7 @@ data:extend(
         {
             type = "item",
             name = "geothermal-generator-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/geothermal-generator-mk2.png",
+            icon = "__Darkstar2.0__/graphics/icons/geothermal-generator-mk2.png",
             icon_size = 32,
 
             subgroup = "generators",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item",
             name = "geothermal-generator-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/geothermal-generator-mk3.png",
+            icon = "__Darkstar2.0__/graphics/icons/geothermal-generator-mk3.png",
             icon_size = 32,
 
             subgroup = "generators",
@@ -42,7 +42,7 @@ data:extend(
         {
             type = "item",
             name = "rtg",
-            icon = "__Darkstar_utilities__/graphics/icons/rtg-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/rtg-icon.png",
             icon_size = 64,
 
             subgroup = "generators",
@@ -54,7 +54,7 @@ data:extend(
         {
             type = "item",
             name = "rtg-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/rtg-mk2-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/rtg-mk2-icon.png",
             icon_size = 64,
 
             subgroup = "generators",
@@ -66,7 +66,7 @@ data:extend(
         {
             type = "item",
             name = "rtg-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/rtg-mk3-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/rtg-mk3-icon.png",
             icon_size = 64,
 
             subgroup = "generators",
@@ -78,7 +78,7 @@ data:extend(
         {
             type = "item",
             name = "s-reg",
-            icon = "__Darkstar_utilities__/graphics/icons/s-reg-icon-3.png",
+            icon = "__Darkstar2.0__/graphics/icons/s-reg-icon-3.png",
             icon_size = 32,
 
             subgroup = "generators",
@@ -90,7 +90,7 @@ data:extend(
         {
             type = "item",
             name = "s-reg-2",
-            icon = "__Darkstar_utilities__/graphics/icons/s-reg-icon-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/s-reg-icon-2.png",
             icon_size = 32,
 
             subgroup = "generators",
@@ -102,7 +102,7 @@ data:extend(
         {
             type = "item",
             name = "s-reg-3",
-            icon = "__Darkstar_utilities__/graphics/icons/s-reg-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/s-reg-icon.png",
             icon_size = 32,
 
             subgroup = "generators",
@@ -114,7 +114,7 @@ data:extend(
         {
             type = "item",
             name = "prototype-anct",
-            icon = "__Darkstar_utilities__/graphics/icons/cage-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/cage-icon.png",
             icon_size = 64,
 
             subgroup = "generators",
@@ -126,7 +126,7 @@ data:extend(
         {
             type = "item",
             name = "think-tank",
-            icon = "__Darkstar_utilities__/graphics/icons/think-tank.png",
+            icon = "__Darkstar2.0__/graphics/icons/think-tank.png",
             icon_size = 32,
 
             subgroup = "generators",
@@ -138,7 +138,7 @@ data:extend(
         {
             type = "item",
             name = "think-tank-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/think-tank2.png",
+            icon = "__Darkstar2.0__/graphics/icons/think-tank2.png",
             icon_size = 32,
 
             subgroup = "generators",
@@ -150,7 +150,7 @@ data:extend(
         {
             type = "item",
             name = "think-tank-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/think-tank3.png",
+            icon = "__Darkstar2.0__/graphics/icons/think-tank3.png",
             icon_size = 32,
 
             subgroup = "generators",

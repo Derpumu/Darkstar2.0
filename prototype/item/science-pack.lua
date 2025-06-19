@@ -6,7 +6,7 @@ data:extend(
         {
             type = "tool",
             name = "neural-science-pack",
-            icon = "__Darkstar_utilities__/graphics/icons/neural-science-pack.png",
+            icon = "__Darkstar2.0__/graphics/icons/neural-science-pack.png",
             icon_size = 32,
             subgroup = "science-pack",
             order = "h[neural-science-pack]",

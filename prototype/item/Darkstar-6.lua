@@ -7,7 +7,7 @@ data:extend(
         {
             type = "item",
             name = "terra-electric-furnace",
-            icon = "__Darkstar_utilities__/graphics/icons/electric-furnace2.png",
+            icon = "__Darkstar2.0__/graphics/icons/electric-furnace2.png",
             icon_size = 32,
 
             subgroup = "Darkstar-6",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item",
             name = "advanced-chemical-plant",
-            icon = "__Darkstar_utilities__/graphics/entity/advanced-chemical-plant/chemical-plant2-icon.png",
+            icon = "__Darkstar2.0__/graphics/entity/advanced-chemical-plant/chemical-plant2-icon.png",
             icon_size = 32,
 
             subgroup = "Darkstar-6",
@@ -42,7 +42,7 @@ data:extend(
         {
             type = "item",
             name = "assembling-machine-4",
-            icon = "__Darkstar_utilities__/graphics/icons/assembling-machine-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/assembling-machine-4.png",
             icon_size = 32,
 
             subgroup = "Darkstar-6",
@@ -78,7 +78,7 @@ data:extend(
         {
             type = "item",
             name = "furnace-house",
-            icon = "__Darkstar_utilities__/graphics/icons/smelting-warehouse-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/smelting-warehouse-icon.png",
             icon_size = 32,
 
             subgroup = "Darkstar-6",
@@ -90,7 +90,7 @@ data:extend(
         {
             type = "item",
             name = "furnace-house-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/smelting-warehouse-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/smelting-warehouse-icon.png",
             icon_size = 32,
 
             subgroup = "Darkstar-6",
@@ -102,7 +102,7 @@ data:extend(
         {
             type = "item",
             name = "stone-furnace-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/brick-furnace.png",
+            icon = "__Darkstar2.0__/graphics/icons/brick-furnace.png",
             icon_size = 32,
 
             subgroup = "smelting-machine",

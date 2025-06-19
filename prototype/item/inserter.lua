@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "rapid-inserter",
-            icon = "__Darkstar_utilities__/graphics/icons/rapid-inserter.png",
+            icon = "__Darkstar2.0__/graphics/icons/rapid-inserter.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -18,7 +18,7 @@ data:extend(
         {
             type = "item",
             name = "terra-inserter",
-            icon = "__Darkstar_utilities__/graphics/icons/terra-inserter.png",
+            icon = "__Darkstar2.0__/graphics/icons/terra-inserter.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item",
             name = "smart-terra-inserter",
-            icon = "__Darkstar_utilities__/graphics/icons/smart-terra-inserter.png",
+            icon = "__Darkstar2.0__/graphics/icons/smart-terra-inserter.png",
             icon_size = 32,
 
             subgroup = "logic",

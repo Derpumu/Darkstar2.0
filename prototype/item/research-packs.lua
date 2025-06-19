@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-1",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-1.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-1.png",
             icon_size = 32,
 
             subgroup = "research-packs",
@@ -19,7 +19,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-2",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-2.png",
             icon_size = 32,
 
             subgroup = "research-packs",
@@ -32,7 +32,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-3",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-3.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-3.png",
             icon_size = 32,
 
             subgroup = "research-packs",
@@ -45,7 +45,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-4",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-4.png",
             icon_size = 32,
 
             subgroup = "research-packs",
@@ -58,7 +58,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-5",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-5.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-5.png",
             icon_size = 32,
 
             subgroup = "research-packs",
@@ -71,7 +71,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-6",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-6.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-6.png",
             icon_size = 32,
 
             subgroup = "research-packs",
@@ -84,7 +84,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-7",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-7.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-7.png",
             icon_size = 32,
 
             subgroup = "research-packs",
@@ -97,7 +97,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-8",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-8.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-8.png",
             icon_size = 32,
 
             subgroup = "research-packs",
@@ -110,7 +110,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-9",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-9.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-9.png",
             icon_size = 32,
 
             subgroup = "research-packs",
@@ -123,7 +123,7 @@ data:extend(
         {
             type = "item",
             name = "research-module-m",
-            icon = "__Darkstar_utilities__/graphics/icons/research-module-m.png",
+            icon = "__Darkstar2.0__/graphics/icons/research-module-m.png",
             icon_size = 32,
 
             subgroup = "research-packs",

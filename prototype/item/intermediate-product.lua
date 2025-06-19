@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "empty-regulator",
-            icon = "__Darkstar_utilities__/graphics/icons/empty-regulator.png",
+            icon = "__Darkstar2.0__/graphics/icons/empty-regulator.png",
             icon_size = 32,
             subgroup = "intermediate-product",
             order = "-b[regulator]",
@@ -15,7 +15,7 @@ data:extend(
         {
             type = "item",
             name = "empty-filter",
-            icon = "__Darkstar_utilities__/graphics/icons/empty-filter.png",
+            icon = "__Darkstar2.0__/graphics/icons/empty-filter.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -26,7 +26,7 @@ data:extend(
         {
             type = "item",
             name = "empty-filter-2",
-            icon = "__Darkstar_utilities__/graphics/icons/empty-filter2.png",
+            icon = "__Darkstar2.0__/graphics/icons/empty-filter2.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -36,7 +36,7 @@ data:extend(
         {
             type = "item",
             name = "fuse-box",
-            icon = "__Darkstar_utilities__/graphics/icons/fuse.png",
+            icon = "__Darkstar2.0__/graphics/icons/fuse.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -47,7 +47,7 @@ data:extend(
         {
             type = "item",
             name = "sand2",
-            icon = "__Darkstar_utilities__/graphics/icons/sand2.png",
+            icon = "__Darkstar2.0__/graphics/icons/sand2.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -58,7 +58,7 @@ data:extend(
         {
             type = "item",
             name = "seed-crystal",
-            icon = "__Darkstar_utilities__/graphics/icons/crystal.png",
+            icon = "__Darkstar2.0__/graphics/icons/crystal.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -69,7 +69,7 @@ data:extend(
         {
             type = "item",
             name = "silicon",
-            icon = "__Darkstar_utilities__/graphics/icons/silicon.png",
+            icon = "__Darkstar2.0__/graphics/icons/silicon.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -79,7 +79,7 @@ data:extend(
         {
             type = "item",
             name = "link",
-            icon = "__Darkstar_utilities__/graphics/icons/link.png",
+            icon = "__Darkstar2.0__/graphics/icons/link.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -89,7 +89,7 @@ data:extend(
         {
             type = "item",
             name = "quantum-fuel",
-            icon = "__Darkstar_utilities__/graphics/icons/quantum-fuel.png",
+            icon = "__Darkstar2.0__/graphics/icons/quantum-fuel.png",
             icon_size = 32,
 
             fuel_category = "chemical",
@@ -104,7 +104,7 @@ data:extend(
         {
             type = "item",
             name = "quantum-blood",
-            icon = "__Darkstar_utilities__/graphics/icons/quantum-blood.png",
+            icon = "__Darkstar2.0__/graphics/icons/quantum-blood.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -114,7 +114,7 @@ data:extend(
         {
             type = "item",
             name = "lithium-plate",
-            icon = "__Darkstar_utilities__/graphics/icons/lithium-plate.png",
+            icon = "__Darkstar2.0__/graphics/icons/lithium-plate.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -124,7 +124,7 @@ data:extend(
         {
             type = "item",
             name = "lead-plate",
-            icon = "__Darkstar_utilities__/graphics/icons/lead-plate.png",
+            icon = "__Darkstar2.0__/graphics/icons/lead-plate.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -135,7 +135,7 @@ data:extend(
         {
             type = "item",
             name = "sand",
-            icon = "__Darkstar_utilities__/graphics/icons/sand.png",
+            icon = "__Darkstar2.0__/graphics/icons/sand.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -145,7 +145,7 @@ data:extend(
         {
             type = "item",
             name = "micro-processor",
-            icon = "__Darkstar_utilities__/graphics/icons/micro-processor.png",
+            icon = "__Darkstar2.0__/graphics/icons/micro-processor.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -155,7 +155,7 @@ data:extend(
         {
             type = "item",
             name = "glass",
-            icon = "__Darkstar_utilities__/graphics/icons/glass.png",
+            icon = "__Darkstar2.0__/graphics/icons/glass.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",
@@ -165,7 +165,7 @@ data:extend(
         {
             type = "item",
             name = "leaded-glass",
-            icon = "__Darkstar_utilities__/graphics/icons/leaded-glass.png",
+            icon = "__Darkstar2.0__/graphics/icons/leaded-glass.png",
             icon_size = 32,
 
             subgroup = "intermediate-product",

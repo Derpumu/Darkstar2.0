@@ -6,7 +6,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk2" },
@@ -21,7 +21,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -33,7 +33,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk2.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk3" },
@@ -48,7 +48,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk2.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -60,7 +60,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk4",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk3.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk4" },
@@ -75,7 +75,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk3.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -87,7 +87,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk5",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk4.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk4.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk5" },
@@ -102,7 +102,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk4.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk4.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -114,7 +114,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk6",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk5.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk5.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk6" },
@@ -129,7 +129,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk5.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk5.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -141,7 +141,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk7",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk6.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk6.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk7" },
@@ -156,7 +156,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk6.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk6.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -168,7 +168,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk2-G",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-g.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-g.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk2-G" },
@@ -183,7 +183,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-g.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-g.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -195,7 +195,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk3-G",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk3-g.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk3-g.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk3-G" },
@@ -210,7 +210,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk2-g.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk2-g.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -222,7 +222,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk4-G",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk3-g.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk3-g.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk4-G" },
@@ -237,7 +237,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk3-g.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk3-g.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -249,7 +249,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk5-G",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk4-g.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk4-g.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk5-G" },
@@ -264,7 +264,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk4-g.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk4-g.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -276,7 +276,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk6-G",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk5-g.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk5-g.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk6-G" },
@@ -291,7 +291,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk5-g.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk5-g.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -303,7 +303,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk7-G",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk6-g.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk6-g.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk7-G" },
@@ -318,7 +318,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk6-g.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk6-g.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -330,7 +330,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk2-G2",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-g2.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-g2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk2-G2" },
@@ -345,7 +345,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-g2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-g2.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -357,7 +357,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk3-G2",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk2-g2.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk2-g2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk3-G2" },
@@ -372,7 +372,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk2-g2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk2-g2.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -384,7 +384,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk4-G2",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk3-g2.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk3-g2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk4-G2" },
@@ -399,7 +399,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk3-g2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk3-g2.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -411,7 +411,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk5-G2",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk4-g2.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk4-g2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk5-G2" },
@@ -426,7 +426,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk4-g2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk4-g2.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -438,7 +438,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk6-G2",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk5-g2.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk5-g2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk6-G2" },
@@ -453,7 +453,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk5-g2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk5-g2.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -465,7 +465,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk7-G2",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk6-g2.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk6-g2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk7-G2" },
@@ -480,7 +480,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk6-g2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk6-g2.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -492,7 +492,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk2-G3",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-g3.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-g3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk2-G3" },
@@ -507,7 +507,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-g3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-g3.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -519,7 +519,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk3-G3",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk2-g3.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk2-g3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk3-G3" },
@@ -534,7 +534,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk2-g3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk2-g3.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -546,7 +546,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk4-G3",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk3-g3.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk3-g3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk4-G3" },
@@ -561,7 +561,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk3-g3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk3-g3.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -573,7 +573,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk5-G3",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk4-g3.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk4-g3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk5-G3" },
@@ -588,7 +588,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk4-g3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk4-g3.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -600,7 +600,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk6-G3",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk5-g3.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk5-g3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk6-G3" },
@@ -615,7 +615,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk5-g3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk5-g3.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -627,7 +627,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk7-G3",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk6-g3.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk6-g3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk7-G3" },
@@ -642,7 +642,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk6-g3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk6-g3.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -654,7 +654,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk2-GL",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-gl.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-gl.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk2-GL" },
@@ -669,7 +669,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-gl.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-gl.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -681,7 +681,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk3-GL",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk2-gl.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk2-gl.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk3-GL" },
@@ -696,7 +696,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk2-gl.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk2-gl.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -708,7 +708,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk4-GL",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk3-gl.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk3-gl.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk4-GL" },
@@ -723,7 +723,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk3-gl.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk3-gl.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -735,7 +735,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk5-GL",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk4-gl.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk4-gl.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk5-GL" },
@@ -750,7 +750,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk4-gl.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk4-gl.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -762,7 +762,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk6-GL",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk5.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk5.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk6-GL" },
@@ -777,7 +777,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk5-gl.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk5-gl.png",
                 priority = "high",
                 width = 768,
                 height = 768,
@@ -789,7 +789,7 @@ data:extend(
         {
             type = "solar-panel",
             name = "solar-panel-mk7-GL",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk6.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk6.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "solar-panel-mk7-GL" },
@@ -804,7 +804,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk6-gl.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk6-gl.png",
                 priority = "high",
                 width = 768,
                 height = 768,

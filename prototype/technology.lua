@@ -5,7 +5,7 @@ data:extend(
     {
 		type = "technology",
 		name = "storage-house",
-		icon = "__Darkstar_utilities__/graphics/research/warehouse-research.png",
+		icon = "__Darkstar2.0__/graphics/research/warehouse-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -31,7 +31,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "flywheel",
-		icon = "__Darkstar_utilities__/graphics/research/flywheel-research.png",
+		icon = "__Darkstar2.0__/graphics/research/flywheel-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -57,7 +57,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "vacuum-chamber",
-		icon = "__Darkstar_utilities__/graphics/entity/vacuum-chamber.png",
+		icon = "__Darkstar2.0__/graphics/entity/vacuum-chamber.png",
 		icon_size = 214,
 		effects =
 		{
@@ -95,7 +95,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "ore-extractor",
-		icon = "__Darkstar_utilities__/graphics/research/ore-extractor-research.png",
+		icon = "__Darkstar2.0__/graphics/research/ore-extractor-research.png",
 		icon_size = 220,
 		effects =
 		{
@@ -189,7 +189,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "soil-filtering",
-		icon = "__Darkstar_utilities__/graphics/research/soil-filtering.png",
+		icon = "__Darkstar2.0__/graphics/research/soil-filtering.png",
 		icon_size = 256,
 		effects =
 		{
@@ -239,7 +239,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "bio-sample",
-		icon = "__Darkstar_utilities__/graphics/research/neural-science-pack.png",
+		icon = "__Darkstar2.0__/graphics/research/neural-science-pack.png",
 		icon_size = 116,
 		effects =
 		{
@@ -303,7 +303,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "probes",
-		icon = "__Darkstar_utilities__/graphics/entity/probe/iron-probe.png",
+		icon = "__Darkstar2.0__/graphics/entity/probe/iron-probe.png",
 		icon_size = 500,
 		effects =
 		{
@@ -376,7 +376,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "air-cleaning",
-		icon = "__Darkstar_utilities__/graphics/research/filter-1-t.png",
+		icon = "__Darkstar2.0__/graphics/research/filter-1-t.png",
 		icon_size = 194,
 		effects =
 		{
@@ -401,7 +401,7 @@ data:extend(
 		{
 		type = "technology",
 		name = "air-cleaning-mk2",
-		icon = "__Darkstar_utilities__/graphics/research/filter-2-t.png",
+		icon = "__Darkstar2.0__/graphics/research/filter-2-t.png",
 		icon_size = 194,
 		effects =
 		{
@@ -427,7 +427,7 @@ data:extend(
 		{
 		type = "technology",
 		name = "air-cleaning-mk3",
-		icon = "__Darkstar_utilities__/graphics/research/filter-3-t.png",
+		icon = "__Darkstar2.0__/graphics/research/filter-3-t.png",
 		icon_size = 194,
 		effects =
 		{
@@ -458,7 +458,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "air-cleaning-mk4",
-		icon = "__Darkstar_utilities__/graphics/research/filter-4-t.png",
+		icon = "__Darkstar2.0__/graphics/research/filter-4-t.png",
 		icon_size = 194,
 		effects =
 		{
@@ -486,7 +486,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "air-cleaning-mk5",
-		icon = "__Darkstar_utilities__/graphics/research/filter-5-t.png",
+		icon = "__Darkstar2.0__/graphics/research/filter-5-t.png",
 		icon_size = 194,
 		effects =
 		{
@@ -515,7 +515,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "air-filters",
-		icon = "__Darkstar_utilities__/graphics/research/filters1.png",
+		icon = "__Darkstar2.0__/graphics/research/filters1.png",
 		icon_size = 128,
 		effects =
 		{
@@ -552,7 +552,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "sand-filters",
-		icon = "__Darkstar_utilities__/graphics/research/sand-filters1.png",
+		icon = "__Darkstar2.0__/graphics/research/sand-filters1.png",
 		icon_size = 128,
 		effects =
 		{
@@ -585,7 +585,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "air-filters-mk2",
-		icon = "__Darkstar_utilities__/graphics/research/filters2.png",
+		icon = "__Darkstar2.0__/graphics/research/filters2.png",
 		icon_size = 128,
 		effects =
 		{
@@ -614,7 +614,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "sand-filters-mk2",
-		icon = "__Darkstar_utilities__/graphics/research/sand-filters2.png",
+		icon = "__Darkstar2.0__/graphics/research/sand-filters2.png",
 		icon_size = 128,
 		effects =
 		{
@@ -643,7 +643,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "air-filters-mk3",
-		icon = "__Darkstar_utilities__/graphics/research/filters3.png",
+		icon = "__Darkstar2.0__/graphics/research/filters3.png",
 		icon_size = 128,
 		effects =
 		{
@@ -673,7 +673,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "sand-filters-mk3",
-		icon = "__Darkstar_utilities__/graphics/research/sand-filters3.png",
+		icon = "__Darkstar2.0__/graphics/research/sand-filters3.png",
 		icon_size = 128,
 		effects =
 		{
@@ -703,7 +703,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "air-filters-mk4",
-		icon = "__Darkstar_utilities__/graphics/research/filters4.png",
+		icon = "__Darkstar2.0__/graphics/research/filters4.png",
 		icon_size = 128,
 		effects =
 		{
@@ -734,7 +734,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "sand-filters-mk4",
-		icon = "__Darkstar_utilities__/graphics/research/sand-filters4.png",
+		icon = "__Darkstar2.0__/graphics/research/sand-filters4.png",
 		icon_size = 128,
 		effects =
 		{
@@ -765,7 +765,7 @@ data:extend(
     {
 		type = "technology",
 		name = "advanced-flight",
-		icon = "__Darkstar_utilities__/graphics/research/deep-hold.png",
+		icon = "__Darkstar2.0__/graphics/research/deep-hold.png",
 		icon_size = 256,
 		effects =
 		{
@@ -793,7 +793,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "aerial-combat",
-		icon = "__Darkstar_utilities__/graphics/research/dark-pulse.png",
+		icon = "__Darkstar2.0__/graphics/research/dark-pulse.png",
 		icon_size = 256,
 		effects =
 		{
@@ -826,7 +826,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "aerial-superiority",
-		icon = "__Darkstar_utilities__/graphics/research/end-game.png",
+		icon = "__Darkstar2.0__/graphics/research/end-game.png",
 		icon_size = 256,
 		effects =
 		{
@@ -863,7 +863,7 @@ data:extend(
 	 {
 		type = "technology",
 		name = "robotics-upgrades",
-		icon = "__Darkstar_utilities__/graphics/icons/thruster-upgrade.png",
+		icon = "__Darkstar2.0__/graphics/icons/thruster-upgrade.png",
 		icon_size = 672,
 		effects =
 		{
@@ -891,7 +891,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "robotics-upgrades-mk2",
-		icon = "__Darkstar_utilities__/graphics/research/vehicle-roboport.png",
+		icon = "__Darkstar2.0__/graphics/research/vehicle-roboport.png",
 		icon_size = 256,
 		effects =
 		{
@@ -924,7 +924,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "nautilus",
-		icon = "__Darkstar_utilities__/graphics/research/nautilus.png",
+		icon = "__Darkstar2.0__/graphics/research/nautilus.png",
 		icon_size = 256,
 		effects =
 		{
@@ -956,7 +956,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "robotics-upgrades-mk3",
-		icon = "__Darkstar_utilities__/graphics/research/ship-cannon-research.png",
+		icon = "__Darkstar2.0__/graphics/research/ship-cannon-research.png",
 		icon_size = 960,
 		effects =
 		{
@@ -985,7 +985,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "warehouse-smelting",
-		icon = "__Darkstar_utilities__/graphics/research/smelting warehouse-research.png",
+		icon = "__Darkstar2.0__/graphics/research/smelting warehouse-research.png",
 		icon_size = 538,
 		effects =
 		{
@@ -1012,7 +1012,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "alien-weapons",
-		icon = "__Darkstar_utilities__/graphics/research/biter-research.png",
+		icon = "__Darkstar2.0__/graphics/research/biter-research.png",
 		icon_size = 116,
 		effects =
 		{
@@ -1044,7 +1044,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "logistics-housing",
-		icon = "__Darkstar_utilities__/graphics/research/logistic-warehouse-research.png",
+		icon = "__Darkstar2.0__/graphics/research/logistic-warehouse-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -1087,7 +1087,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "long-belts-1",
-		icon = "__Darkstar_utilities__/graphics/icons/underground-belt-2.png",
+		icon = "__Darkstar2.0__/graphics/icons/underground-belt-2.png",
 		icon_size = 32,
 		effects =
 		{
@@ -1113,7 +1113,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "long-belts2",
-		icon = "__Darkstar_utilities__/graphics/icons/fast-underground-belt-2.png",
+		icon = "__Darkstar2.0__/graphics/icons/fast-underground-belt-2.png",
 		icon_size = 32,
 		effects =
 		{
@@ -1139,7 +1139,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "long-belts3",
-		icon = "__Darkstar_utilities__/graphics/icons/express-underground-belt-2.png",
+		icon = "__Darkstar2.0__/graphics/icons/express-underground-belt-2.png",
 		icon_size = 32,
 		effects =
 		{
@@ -1166,7 +1166,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "long-belts4",
-		icon = "__Darkstar_utilities__/graphics/icons/terra-underground-long.png",
+		icon = "__Darkstar2.0__/graphics/icons/terra-underground-long.png",
 		icon_size = 32,
 		effects =
 		{
@@ -1193,7 +1193,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "long-belts5",
-		icon = "__Darkstar_utilities__/graphics/icons/terra2-underground-long.png",
+		icon = "__Darkstar2.0__/graphics/icons/terra2-underground-long.png",
 		icon_size = 32,
 		effects =
 		{
@@ -1221,7 +1221,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "laser-cores",
-		icon = "__Darkstar_utilities__/graphics/research/core.png",
+		icon = "__Darkstar2.0__/graphics/research/core.png",
 		icon_size = 256,
 		effects =
 		{
@@ -1248,7 +1248,7 @@ data:extend(
     {
 		type = "technology",
 		name = "jack-hammers",
-		icon = "__Darkstar_utilities__/graphics/research/hammer.png",
+		icon = "__Darkstar2.0__/graphics/research/hammer.png",
 		icon_size = 128,
 		effects =
 		{
@@ -1274,7 +1274,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "jack-hammers2",
-		icon = "__Darkstar_utilities__/graphics/research/hammer.png",
+		icon = "__Darkstar2.0__/graphics/research/hammer.png",
 		icon_size = 128,
 		effects =
 		{
@@ -1301,7 +1301,7 @@ data:extend(
     {
 		type = "technology",
 		name = "computers",
-		icon = "__Darkstar_utilities__/graphics/research/computer.png",
+		icon = "__Darkstar2.0__/graphics/research/computer.png",
 		icon_size = 256,
 		effects =
 		{
@@ -1353,7 +1353,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "probes-2",
-		icon = "__Darkstar_utilities__/graphics/entity/probe/diamond-probe.png",
+		icon = "__Darkstar2.0__/graphics/entity/probe/diamond-probe.png",
 		icon_size = 500,
 		effects =
 		{
@@ -1425,7 +1425,7 @@ data:extend(
   {
 		type = "technology",
 		name = "laser-miners1",
-		icon = "__Darkstar_utilities__/graphics/research/laser-icon1.png",
+		icon = "__Darkstar2.0__/graphics/research/laser-icon1.png",
 		icon_size = 128,
 		effects =
 		{
@@ -1460,7 +1460,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "neuro-miners1",
-		icon = "__Darkstar_utilities__/graphics/research/neural-miner-research.png",
+		icon = "__Darkstar2.0__/graphics/research/neural-miner-research.png",
 		icon_size = 486,
 		effects =
 		{
@@ -1487,7 +1487,7 @@ data:extend(
     {
 		type = "technology",
 		name = "laser-miners2",
-		icon = "__Darkstar_utilities__/graphics/research/laser-icon2.png",
+		icon = "__Darkstar2.0__/graphics/research/laser-icon2.png",
 		icon_size = 128,
 		effects =
 		{
@@ -1515,7 +1515,7 @@ data:extend(
 	 {
 		type = "technology",
 		name = "neuro-miners2",
-		icon = "__Darkstar_utilities__/graphics/research/neural-miner-2-research.png",
+		icon = "__Darkstar2.0__/graphics/research/neural-miner-2-research.png",
 		icon_size = 486,
 		effects =
 		{
@@ -1543,7 +1543,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "laser-miners3",
-		icon = "__Darkstar_utilities__/graphics/research/laser-icon3.png",
+		icon = "__Darkstar2.0__/graphics/research/laser-icon3.png",
 		icon_size = 128,
 		effects =
 		{
@@ -1571,7 +1571,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "neuro-miners3",
-		icon = "__Darkstar_utilities__/graphics/research/neural-miner-3-research.png",
+		icon = "__Darkstar2.0__/graphics/research/neural-miner-3-research.png",
 		icon_size = 486,
 		effects =
 		{
@@ -1599,7 +1599,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "laser-miners4",
-		icon = "__Darkstar_utilities__/graphics/research/laser-icon4.png",
+		icon = "__Darkstar2.0__/graphics/research/laser-icon4.png",
 		icon_size = 128,
 		effects =
 		{
@@ -1628,7 +1628,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "neuro-miners4",
-		icon = "__Darkstar_utilities__/graphics/research/neural-miner-4-research.png",
+		icon = "__Darkstar2.0__/graphics/research/neural-miner-4-research.png",
 		icon_size = 486,
 		effects =
 		{
@@ -1661,7 +1661,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "think-tank",
-		icon = "__Darkstar_utilities__/graphics/research/think-tank2.png",
+		icon = "__Darkstar2.0__/graphics/research/think-tank2.png",
 		icon_size = 480,
 		effects =
 		{
@@ -1698,7 +1698,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "think-tank-mk2",
-		icon = "__Darkstar_utilities__/graphics/research/think-tank.png",
+		icon = "__Darkstar2.0__/graphics/research/think-tank.png",
 		icon_size = 480,
 		effects =
 		{
@@ -1727,7 +1727,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "think-tank-mk3",
-		icon = "__Darkstar_utilities__/graphics/research/think-tank3.png",
+		icon = "__Darkstar2.0__/graphics/research/think-tank3.png",
 		icon_size = 480,
 		effects =
 		{
@@ -1756,7 +1756,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "brain-grower",
-		icon = "__Darkstar_utilities__/graphics/research/brain-grower-research.png",
+		icon = "__Darkstar2.0__/graphics/research/brain-grower-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -1784,7 +1784,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "laser-quarry",
-		icon = "__Darkstar_utilities__/graphics/entity/quarry.png",
+		icon = "__Darkstar2.0__/graphics/entity/quarry.png",
 		icon_size = 709,
 		effects =
 		{
@@ -1812,7 +1812,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "laser-quarry-2",
-		icon = "__Darkstar_utilities__/graphics/entity/quarry2.png",
+		icon = "__Darkstar2.0__/graphics/entity/quarry2.png",
 		icon_size = 1414,
 		effects =
 		{
@@ -1840,7 +1840,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "laser-quarry-3",
-		icon = "__Darkstar_utilities__/graphics/research/space-quarry.png",
+		icon = "__Darkstar2.0__/graphics/research/space-quarry.png",
 		icon_size = 678,
 		effects =
 		{
@@ -1869,7 +1869,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "laser-quarry-4",
-		icon = "__Darkstar_utilities__/graphics/research/factorio-planet.png",
+		icon = "__Darkstar2.0__/graphics/research/factorio-planet.png",
 		icon_size = 256,
 		effects =
 		{
@@ -1898,7 +1898,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "rocket-payloads",
-		icon = "__Darkstar_utilities__/graphics/research/rocket-payloads.png",
+		icon = "__Darkstar2.0__/graphics/research/rocket-payloads.png",
 		icon_size = 128,
 		effects =
 		{
@@ -1987,7 +1987,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "rocket-payloads2",
-		icon = "__Darkstar_utilities__/graphics/research/rocket-payloads2.png",
+		icon = "__Darkstar2.0__/graphics/research/rocket-payloads2.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2076,7 +2076,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "fish-farm",
-		icon = "__Darkstar_utilities__/graphics/research/fish-tech.png",
+		icon = "__Darkstar2.0__/graphics/research/fish-tech.png",
 		icon_size = 256,
 		effects =
 		{
@@ -2100,7 +2100,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "biodome",
-		icon = "__Darkstar_utilities__/graphics/entity/biodome/biodome-on.png",
+		icon = "__Darkstar2.0__/graphics/entity/biodome/biodome-on.png",
 		icon_size = 1200,
 		effects =
 		{
@@ -2124,7 +2124,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "geothermality",
-		icon = "__Darkstar_utilities__/graphics/research/thermal.png",
+		icon = "__Darkstar2.0__/graphics/research/thermal.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2149,7 +2149,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "geothermality-2",
-		icon = "__Darkstar_utilities__/graphics/research/thermal2.png",
+		icon = "__Darkstar2.0__/graphics/research/thermal2.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2174,7 +2174,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "geothermality-3",
-		icon = "__Darkstar_utilities__/graphics/research/thermal3.png",
+		icon = "__Darkstar2.0__/graphics/research/thermal3.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2200,7 +2200,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "rtg",
-		icon = "__Darkstar_utilities__/graphics/entity/solar-panel/rtg.png",
+		icon = "__Darkstar2.0__/graphics/entity/solar-panel/rtg.png",
 		icon_size = 256,
 		effects =
 		{
@@ -2227,7 +2227,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "rtg-2",
-		icon = "__Darkstar_utilities__/graphics/entity/solar-panel/rtg-mk2.png",
+		icon = "__Darkstar2.0__/graphics/entity/solar-panel/rtg-mk2.png",
 		icon_size = 256,
 		effects =
 		{
@@ -2254,7 +2254,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "rtg-3",
-		icon = "__Darkstar_utilities__/graphics/entity/solar-panel/rtg-mk3.png",
+		icon = "__Darkstar2.0__/graphics/entity/solar-panel/rtg-mk3.png",
 		icon_size = 256,
 		effects =
 		{
@@ -2281,7 +2281,7 @@ data:extend(
     {
 		type = "technology",
 		name = "photovoltaics",
-		icon = "__Darkstar_utilities__/graphics/research/cells.png",
+		icon = "__Darkstar2.0__/graphics/research/cells.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2523,7 +2523,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "geothermal-technology",
-		icon = "__Darkstar_utilities__/graphics/research/cells-g1.png",
+		icon = "__Darkstar2.0__/graphics/research/cells-g1.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2550,7 +2550,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "advanced-geothermal-technology",
-		icon = "__Darkstar_utilities__/graphics/research/cells-g2.png",
+		icon = "__Darkstar2.0__/graphics/research/cells-g2.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2586,7 +2586,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "gold-plated-panels",
-		icon = "__Darkstar_utilities__/graphics/research/cells6.png",
+		icon = "__Darkstar2.0__/graphics/research/cells6.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2625,7 +2625,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "glass-plated-panels",
-		icon = "__Darkstar_utilities__/graphics/research/cells5.png",
+		icon = "__Darkstar2.0__/graphics/research/cells5.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2668,7 +2668,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "liquid-panels",
-		icon = "__Darkstar_utilities__/graphics/research/cells-L.png",
+		icon = "__Darkstar2.0__/graphics/research/cells-L.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2707,7 +2707,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "item-teleportation",
-		icon = "__Darkstar_utilities__/graphics/research/portal.png",
+		icon = "__Darkstar2.0__/graphics/research/portal.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2741,7 +2741,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "cheaper-photovoltaics",
-		icon = "__Darkstar_utilities__/graphics/research/cells4.png",
+		icon = "__Darkstar2.0__/graphics/research/cells4.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2773,7 +2773,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "4d-logistics",
-		icon = "__Darkstar_utilities__/graphics/research/4d.png",
+		icon = "__Darkstar2.0__/graphics/research/4d.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2818,7 +2818,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "advanced-exoskeleton-equipment",
-		icon = "__Darkstar_utilities__/graphics/research/advanced-exoskeleton-equipment-research.png",
+		icon = "__Darkstar2.0__/graphics/research/advanced-exoskeleton-equipment-research.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2845,7 +2845,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "ds-oil",
-		icon = "__Darkstar_utilities__/graphics/research/ds-oil.png",
+		icon = "__Darkstar2.0__/graphics/research/ds-oil.png",
 		icon_size = 128,
 		effects =
 		{
@@ -2916,7 +2916,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "planck-manipulation",
-		icon = "__Darkstar_utilities__/graphics/research/planck-manipulation.png",
+		icon = "__Darkstar2.0__/graphics/research/planck-manipulation.png",
 		icon_size = 128,
 		effects =
 		{
@@ -3037,7 +3037,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "effect-transmission-2",
-		icon = "__Darkstar_utilities__/graphics/research/array-2.png",
+		icon = "__Darkstar2.0__/graphics/research/array-2.png",
 		icon_size = 123,
 		effects =
 		{
@@ -3064,7 +3064,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "robotics-teir2",
-		icon = "__Darkstar_utilities__/graphics/research/robotics-2.png",
+		icon = "__Darkstar2.0__/graphics/research/robotics-2.png",
 		icon_size = 256,
 		effects =
 		{
@@ -3107,7 +3107,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "electric-energy-distribution-3",
-		icon = "__Darkstar_utilities__/graphics/research/substation-mk2.png",
+		icon = "__Darkstar2.0__/graphics/research/substation-mk2.png",
 		icon_size = 133,
 		effects =
 		{
@@ -3143,7 +3143,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "electric-energy-distribution-4",
-		icon = "__Darkstar_utilities__/graphics/research/substation-mk2.png",
+		icon = "__Darkstar2.0__/graphics/research/substation-mk2.png",
 		icon_size = 133,
 		effects =
 		{
@@ -3172,7 +3172,7 @@ data:extend(
     {
 		type = "technology",
 		name = "energy-liquid",
-		icon = "__Darkstar_utilities__/graphics/research/energy-liquid-1-research.png",
+		icon = "__Darkstar2.0__/graphics/research/energy-liquid-1-research.png",
 		icon_size = 500,
 		effects =
 		{
@@ -3216,7 +3216,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "energy-liquid-2",
-		icon = "__Darkstar_utilities__/graphics/research/silo-1-research.png",
+		icon = "__Darkstar2.0__/graphics/research/silo-1-research.png",
 		icon_size = 500,
 		effects =
 		{
@@ -3245,7 +3245,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "energy-liquid-3",
-		icon = "__Darkstar_utilities__/graphics/research/silo-2-1-research.png",
+		icon = "__Darkstar2.0__/graphics/research/silo-2-1-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -3274,7 +3274,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "energy-liquid-U",
-		icon = "__Darkstar_utilities__/graphics/research/energy-liquid-2-research.png",
+		icon = "__Darkstar2.0__/graphics/research/energy-liquid-2-research.png",
 		icon_size = 500,
 		effects =
 		{
@@ -3302,7 +3302,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "energy-liquid-2-U",
-		icon = "__Darkstar_utilities__/graphics/research/silo-2-research.png",
+		icon = "__Darkstar2.0__/graphics/research/silo-2-research.png",
 		icon_size = 500,
 		effects =
 		{
@@ -3331,7 +3331,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "energy-liquid-3-U",
-		icon = "__Darkstar_utilities__/graphics/research/silo-2-2-research.png",
+		icon = "__Darkstar2.0__/graphics/research/silo-2-2-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -3360,7 +3360,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "energy-liquid-D",
-		icon = "__Darkstar_utilities__/graphics/research/energy-liquid-3-research.png",
+		icon = "__Darkstar2.0__/graphics/research/energy-liquid-3-research.png",
 		icon_size = 500,
 		effects =
 		{
@@ -3388,7 +3388,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "energy-liquid-2-D",
-		icon = "__Darkstar_utilities__/graphics/research/silo-3-research.png",
+		icon = "__Darkstar2.0__/graphics/research/silo-3-research.png",
 		icon_size = 500,
 		effects =
 		{
@@ -3417,7 +3417,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "energy-liquid-3-D",
-		icon = "__Darkstar_utilities__/graphics/research/silo-2-3-research.png",
+		icon = "__Darkstar2.0__/graphics/research/silo-2-3-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -3446,7 +3446,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "dark-matter-reactor",
-		icon = "__Darkstar_utilities__/graphics/research/dark-matter-2.png",
+		icon = "__Darkstar2.0__/graphics/research/dark-matter-2.png",
 		icon_size = 206,
 		effects =
 		{
@@ -3474,7 +3474,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "s-reg-1",
-		icon = "__Darkstar_utilities__/graphics/research/dark-matter-reactor-research.png",
+		icon = "__Darkstar2.0__/graphics/research/dark-matter-reactor-research.png",
 		icon_size= 256,
 		effects =
 		{
@@ -3502,7 +3502,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "s-reg-2",
-		icon = "__Darkstar_utilities__/graphics/research/dark-matter-reactor-2-research.png",
+		icon = "__Darkstar2.0__/graphics/research/dark-matter-reactor-2-research.png",
 		icon_size= 256,
 		effects =
 		{
@@ -3530,7 +3530,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "s-reg-3",
-		icon = "__Darkstar_utilities__/graphics/research/dark-matter-reactor-3-research.png",
+		icon = "__Darkstar2.0__/graphics/research/dark-matter-reactor-3-research.png",
 		icon_size= 256,
 		effects =
 		{
@@ -3558,7 +3558,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "dark-matter-reactor-mk2",
-		icon = "__Darkstar_utilities__/graphics/research/4D-power-research.png",
+		icon = "__Darkstar2.0__/graphics/research/4D-power-research.png",
 		icon_size = 363,
 		effects =
 		{
@@ -3587,7 +3587,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "roboport-mk2",
-		icon = "__Darkstar_utilities__/graphics/research/roboport-mk2.png",
+		icon = "__Darkstar2.0__/graphics/research/roboport-mk2.png",
 		icon_size = 135,
 		effects =
 		{
@@ -3615,7 +3615,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "roboport-mk3",
-		icon = "__Darkstar_utilities__/graphics/research/roboport-mk3.png",
+		icon = "__Darkstar2.0__/graphics/research/roboport-mk3.png",
 		icon_size = 135,
 		effects =
 		{
@@ -3644,7 +3644,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "Power-armor-mk3",
-		icon = "__Darkstar_utilities__/graphics/research/power-armor-mk3.png",
+		icon = "__Darkstar2.0__/graphics/research/power-armor-mk3.png",
 		icon_size = 128,
 		effects =
 		{
@@ -3682,7 +3682,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "photovoltaics-mk2",
-		icon = "__Darkstar_utilities__/graphics/research/cells-mk2.png",
+		icon = "__Darkstar2.0__/graphics/research/cells-mk2.png",
 		icon_size = 128,
 		effects =
 		{
@@ -3708,7 +3708,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "speed-module-tier2",
-		icon = "__Darkstar_utilities__/graphics/research/speed-teir-2.png",
+		icon = "__Darkstar2.0__/graphics/research/speed-teir-2.png",
 		icon_size = 56,
 		effects =
 		{
@@ -3753,7 +3753,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "speed-module-tier3",
-		icon = "__Darkstar_utilities__/graphics/research/speed-teir-3.png",
+		icon = "__Darkstar2.0__/graphics/research/speed-teir-3.png",
 		icon_size = 56,
 		effects =
 		{
@@ -3790,7 +3790,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "speed-module-tier4",
-		icon = "__Darkstar_utilities__/graphics/research/speed-teir-4.png",
+		icon = "__Darkstar2.0__/graphics/research/speed-teir-4.png",
 		icon_size = 56,
 		effects =
 		{
@@ -3827,7 +3827,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "speed-module-tier5",
-		icon = "__Darkstar_utilities__/graphics/research/speed-teir-5.png",
+		icon = "__Darkstar2.0__/graphics/research/speed-teir-5.png",
 		icon_size = 56,
 		effects =
 		{
@@ -3864,7 +3864,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "speed-module-tier6",
-		icon = "__Darkstar_utilities__/graphics/research/speed-teir-6.png",
+		icon = "__Darkstar2.0__/graphics/research/speed-teir-6.png",
 		icon_size = 56,
 		effects =
 		{
@@ -3901,7 +3901,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "speed-module-tier7",
-		icon = "__Darkstar_utilities__/graphics/research/speed-teir-7.png",
+		icon = "__Darkstar2.0__/graphics/research/speed-teir-7.png",
 		icon_size = 56,
 		effects =
 		{
@@ -3938,7 +3938,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "speed-module-tier8",
-		icon = "__Darkstar_utilities__/graphics/research/speed-teir-8.png",
+		icon = "__Darkstar2.0__/graphics/research/speed-teir-8.png",
 		icon_size = 56,
 		effects =
 		{
@@ -3975,7 +3975,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "speed-module-tier9",
-		icon = "__Darkstar_utilities__/graphics/research/speed-teir-8.png",
+		icon = "__Darkstar2.0__/graphics/research/speed-teir-8.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4004,7 +4004,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "array-technology",
-		icon = "__Darkstar_utilities__/graphics/research/array.png",
+		icon = "__Darkstar2.0__/graphics/research/array.png",
 		icon_size = 123,
 		effects =
 		{
@@ -4040,7 +4040,7 @@ data:extend(
     {
 		type = "technology",
 		name = "productivity-module-tier2",
-		icon = "__Darkstar_utilities__/graphics/research/productivity-teir-2.png",
+		icon = "__Darkstar2.0__/graphics/research/productivity-teir-2.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4085,7 +4085,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "productivity-module-tier3",
-		icon = "__Darkstar_utilities__/graphics/research/productivity-teir-3.png",
+		icon = "__Darkstar2.0__/graphics/research/productivity-teir-3.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4122,7 +4122,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "productivity-module-tier4",
-		icon = "__Darkstar_utilities__/graphics/research/productivity-teir-4.png",
+		icon = "__Darkstar2.0__/graphics/research/productivity-teir-4.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4159,7 +4159,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "productivity-module-tier5",
-		icon = "__Darkstar_utilities__/graphics/research/productivity-teir-5.png",
+		icon = "__Darkstar2.0__/graphics/research/productivity-teir-5.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4196,7 +4196,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "productivity-module-tier6",
-		icon = "__Darkstar_utilities__/graphics/research/productivity-teir-6.png",
+		icon = "__Darkstar2.0__/graphics/research/productivity-teir-6.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4233,7 +4233,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "productivity-module-tier7",
-		icon = "__Darkstar_utilities__/graphics/research/productivity-teir-7.png",
+		icon = "__Darkstar2.0__/graphics/research/productivity-teir-7.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4270,7 +4270,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "productivity-module-tier8",
-		icon = "__Darkstar_utilities__/graphics/research/productivity-teir-8.png",
+		icon = "__Darkstar2.0__/graphics/research/productivity-teir-8.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4307,7 +4307,7 @@ data:extend(
 		{
 		type = "technology",
 		name = "productivity-module-tier9",
-		icon = "__Darkstar_utilities__/graphics/research/productivity-teir-9.png",
+		icon = "__Darkstar2.0__/graphics/research/productivity-teir-9.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4336,7 +4336,7 @@ data:extend(
     {
 		type = "technology",
 		name = "effectivity-module-tier2",
-		icon = "__Darkstar_utilities__/graphics/research/effectivity-teir-2.png",
+		icon = "__Darkstar2.0__/graphics/research/effectivity-teir-2.png",
 		icon_size = 56,
 		effects =
 		{
@@ -4383,7 +4383,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "high-teir-solar-panels",
-		icon = "__Darkstar_utilities__/graphics/research/solar-research.png",
+		icon = "__Darkstar2.0__/graphics/research/solar-research.png",
 		icon_size = 128,
 		effects =
 		{
@@ -4414,7 +4414,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "top-tier-panels",
-		icon = "__Darkstar_utilities__/graphics/research/cells10.png",
+		icon = "__Darkstar2.0__/graphics/research/cells10.png",
 		icon_size = 128,
 		effects =
 		{
@@ -4477,7 +4477,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "dyson-spheres",
-		icon = "__Darkstar_utilities__/graphics/research/dyson-sphere-research.png",
+		icon = "__Darkstar2.0__/graphics/research/dyson-sphere-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -4517,7 +4517,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "multiverse-tear",
-		icon = "__Darkstar_utilities__/graphics/research/multiverse-tear-research.png",
+		icon = "__Darkstar2.0__/graphics/research/multiverse-tear-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -4550,7 +4550,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "interstellar-dominion",
-		icon = "__Darkstar_utilities__/graphics/research/interstellar-research.png",
+		icon = "__Darkstar2.0__/graphics/research/interstellar-research.png",
 		icon_size = 256,
 		effects =
 		{
@@ -4662,7 +4662,7 @@ data:extend(
   {
 	type = "technology",
 	name = "space-station1",
-	icon = "__Darkstar_utilities__/graphics/research/server-1-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-1-research-icon.png",
 	icon_size = 256,
 	effects =
 	{
@@ -4707,7 +4707,7 @@ data:extend(
 {
 	type = "technology",
 	name = "space-stationm",
-	icon = "__Darkstar_utilities__/graphics/research/server-m-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-m-research-icon.png",
 	icon_size = 256,
 	effects =
 	{
@@ -4773,7 +4773,7 @@ data:extend(
 {
 	type = "technology",
 	name = "space-station2",
-	icon = "__Darkstar_utilities__/graphics/research/server-2-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-2-research-icon.png",
 	icon_size = 256,
 	effects =
 	{
@@ -4819,7 +4819,7 @@ data:extend(
 {
 	type = "technology",
 	name = "space-station3",
-	icon = "__Darkstar_utilities__/graphics/research/server-3-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-3-research-icon.png",
 	icon_size = 256,
 	effects =
 	{
@@ -4865,7 +4865,7 @@ data:extend(
 {
 	type = "technology",
 	name = "space-station4",
-	icon = "__Darkstar_utilities__/graphics/research/server-4-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-4-research-icon.png",
 	icon_size = 256,
 	effects =
 	{
@@ -4911,7 +4911,7 @@ data:extend(
 {
 	type = "technology",
 	name = "space-station5",
-	icon = "__Darkstar_utilities__/graphics/research/server-5-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-5-research-icon.png",
 	icon_size = 256,
 	effects =
 	{
@@ -4957,7 +4957,7 @@ data:extend(
 {
 	type = "technology",
 	name = "space-station6",
-	icon = "__Darkstar_utilities__/graphics/research/server-6-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-6-research-icon.png",
 	icon_size = 256,
 	effects =
 	{
@@ -5003,7 +5003,7 @@ data:extend(
 {
 	type = "technology",
 	name = "space-station7",
-	icon = "__Darkstar_utilities__/graphics/research/server-7-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-7-research-icon.png",
 	icon_size = 256,
 	effects =
 	{
@@ -5049,7 +5049,7 @@ data:extend(
 {
 	type = "technology",
 	name = "space-station8",
-	icon = "__Darkstar_utilities__/graphics/research/server-8-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-8-research-icon.png",
 	icon_size = 256,
 	effects =
 	{
@@ -5095,7 +5095,7 @@ data:extend(
 {
 	type = "technology",
 	name = "space-station9",
-	icon = "__Darkstar_utilities__/graphics/research/server-9-research-icon.png",
+	icon = "__Darkstar2.0__/graphics/research/server-9-research-icon.png",
 	icon_size = 256,
 	effects =
 	{

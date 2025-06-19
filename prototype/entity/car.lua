@@ -6,7 +6,7 @@ data:extend(
         {
             type = "car",
             name = "dark-pulse",
-            icon = "__Darkstar_utilities__/graphics/icons/dark-pulse-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/dark-pulse-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "placeable-off-grid" },
             has_belt_immunity = false,
@@ -92,7 +92,7 @@ data:extend(
             final_render_layer = "air-object",
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/dark-pulse.png",
+                filename = "__Darkstar2.0__/graphics/entity/dark-pulse.png",
                 priority = "high",
                 width = 672,
                 height = 672,
@@ -148,7 +148,7 @@ data:extend(
         {
             type = "car",
             name = "deep-hold",
-            icon = "__Darkstar_utilities__/graphics/icons/deep-hold-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/deep-hold-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "placeable-off-grid" },
             has_belt_immunity = false,
@@ -234,7 +234,7 @@ data:extend(
             final_render_layer = "air-object",
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/deep-hold.png",
+                filename = "__Darkstar2.0__/graphics/entity/deep-hold.png",
                 priority = "high",
                 width = 672,
                 height = 672,
@@ -290,7 +290,7 @@ data:extend(
         {
             type = "car",
             name = "end-game",
-            icon = "__Darkstar_utilities__/graphics/icons/end-game-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/end-game-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "placeable-off-grid" },
             has_belt_immunity = false,
@@ -377,7 +377,7 @@ data:extend(
             final_render_layer = "air-object",
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/end-game.png",
+                filename = "__Darkstar2.0__/graphics/entity/end-game.png",
                 priority = "high",
                 width = 672,
                 height = 672,
@@ -433,7 +433,7 @@ data:extend(
         {
             type = "car",
             name = "nautilus",
-            icon = "__Darkstar_utilities__/graphics/icons/nautilus-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/nautilus-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "placeable-off-grid" },
             has_belt_immunity = false,
@@ -520,7 +520,7 @@ data:extend(
             final_render_layer = "air-object",
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/nautilus.png",
+                filename = "__Darkstar2.0__/graphics/entity/nautilus.png",
                 priority = "high",
                 width = 672,
                 height = 672,

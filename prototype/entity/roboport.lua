@@ -6,7 +6,7 @@ data:extend(
         {
             type = "roboport",
             name = "roboport-mk2",
-            icon = "__Darkstar_utilities__/graphics/entity/roboports/roboport-mk2-icon.png",
+            icon = "__Darkstar2.0__/graphics/entity/roboports/roboport-mk2-icon.png",
             icon_size = 32,
             flags = { "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "roboport-mk2" },
@@ -47,7 +47,7 @@ data:extend(
                         shift = { 0.5, 0.25 },
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/roboports/roboport-mk2-base.png",
+                            filename = "__Darkstar2.0__/graphics/entity/roboports/roboport-mk2-base.png",
                             width = 228,
                             height = 277,
                             shift = util.by_pixel(2, 7.75),
@@ -203,7 +203,7 @@ data:extend(
         {
             type = "roboport",
             name = "roboport-mk3",
-            icon = "__Darkstar_utilities__/graphics/entity/roboports/roboport-mk3-icon.png",
+            icon = "__Darkstar2.0__/graphics/entity/roboports/roboport-mk3-icon.png",
             icon_size = 32,
             flags = { "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "roboport-mk3" },
@@ -244,7 +244,7 @@ data:extend(
                         shift = { 0.5, 0.25 },
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/roboports/roboport-mk3-base.png",
+                            filename = "__Darkstar2.0__/graphics/entity/roboports/roboport-mk3-base.png",
                             width = 228,
                             height = 277,
                             shift = util.by_pixel(2, 7.75),
@@ -400,7 +400,7 @@ data:extend(
         {
             type = "roboport",
             name = "roboport-charger",
-            icon = "__Darkstar_utilities__/graphics/entity/roboports/roboport-mk2-icon.png",
+            icon = "__Darkstar2.0__/graphics/entity/roboports/roboport-mk2-icon.png",
             icon_size = 32,
             flags = { "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "roboport-charger" },
@@ -443,7 +443,7 @@ data:extend(
                         shift = { 0.5, 0.25 },
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/roboports/charger.png",
+                            filename = "__Darkstar2.0__/graphics/entity/roboports/charger.png",
                             width = 228,
                             height = 277,
                             shift = util.by_pixel(2, 7.75),
@@ -599,7 +599,7 @@ data:extend(
         {
             type = "roboport",
             name = "roboport-mk4",
-            icon = "__Darkstar_utilities__/graphics/entity/roboports/roboport-mk3-icon.png",
+            icon = "__Darkstar2.0__/graphics/entity/roboports/roboport-mk3-icon.png",
             icon_size = 32,
             flags = { "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "roboport-mk4" },
@@ -645,7 +645,7 @@ data:extend(
                         shift = { 0.5, 0.25 },
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/roboports/roboport-mk4-base.png",
+                            filename = "__Darkstar2.0__/graphics/entity/roboports/roboport-mk4-base.png",
                             width = 228,
                             height = 277,
                             shift = util.by_pixel(2, 7.75),

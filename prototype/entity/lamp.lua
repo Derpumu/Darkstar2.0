@@ -118,7 +118,7 @@ data:extend(
         {
             type = "lamp",
             name = "red-lamp",
-            icon = "__Darkstar_utilities__/graphics/entity/lights/red-on.png",
+            icon = "__Darkstar2.0__/graphics/entity/lights/red-on.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "red-lamp" },
@@ -139,7 +139,7 @@ data:extend(
             glow_color_intensity = 0.9,
             picture_off =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/light-off.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/light-off.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -150,7 +150,7 @@ data:extend(
             },
             picture_on =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/red-on.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/red-on.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -172,7 +172,7 @@ data:extend(
         {
             type = "lamp",
             name = "blue-lamp",
-            icon = "__Darkstar_utilities__/graphics/entity/lights/blue-on.png",
+            icon = "__Darkstar2.0__/graphics/entity/lights/blue-on.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "blue-lamp" },
@@ -193,7 +193,7 @@ data:extend(
             glow_color_intensity = 0.9,
             picture_off =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/light-off.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/light-off.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -204,7 +204,7 @@ data:extend(
             },
             picture_on =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/blue-on.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/blue-on.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -227,7 +227,7 @@ data:extend(
         {
             type = "lamp",
             name = "yellow-lamp",
-            icon = "__Darkstar_utilities__/graphics/entity/lights/yellow-on.png",
+            icon = "__Darkstar2.0__/graphics/entity/lights/yellow-on.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "yellow-lamp" },
@@ -248,7 +248,7 @@ data:extend(
             glow_color_intensity = 0.9,
             picture_off =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/light-off.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/light-off.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -259,7 +259,7 @@ data:extend(
             },
             picture_on =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/yellow-on.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/yellow-on.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -281,7 +281,7 @@ data:extend(
         {
             type = "lamp",
             name = "green-lamp",
-            icon = "__Darkstar_utilities__/graphics/entity/lights/green-on.png",
+            icon = "__Darkstar2.0__/graphics/entity/lights/green-on.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "green-lamp" },
@@ -302,7 +302,7 @@ data:extend(
             glow_color_intensity = 0.9,
             picture_off =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/light-off.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/light-off.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -313,7 +313,7 @@ data:extend(
             },
             picture_on =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/green-on.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/green-on.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -335,7 +335,7 @@ data:extend(
         {
             type = "lamp",
             name = "purple-lamp",
-            icon = "__Darkstar_utilities__/graphics/entity/lights/purple-on.png",
+            icon = "__Darkstar2.0__/graphics/entity/lights/purple-on.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "purple-lamp" },
@@ -356,7 +356,7 @@ data:extend(
             glow_color_intensity = 0.9,
             picture_off =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/light-off.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/light-off.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -367,7 +367,7 @@ data:extend(
             },
             picture_on =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/purple-on.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/purple-on.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -389,7 +389,7 @@ data:extend(
         {
             type = "lamp",
             name = "cyan-lamp",
-            icon = "__Darkstar_utilities__/graphics/entity/lights/purple-on.png",
+            icon = "__Darkstar2.0__/graphics/entity/lights/purple-on.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "cyan-lamp" },
@@ -410,7 +410,7 @@ data:extend(
             glow_color_intensity = 0.9,
             picture_off =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/light-off.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/light-off.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -421,7 +421,7 @@ data:extend(
             },
             picture_on =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/cyan-on.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/cyan-on.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -443,7 +443,7 @@ data:extend(
         {
             type = "lamp",
             name = "white-lamp",
-            icon = "__Darkstar_utilities__/graphics/entity/lights/purple-on.png",
+            icon = "__Darkstar2.0__/graphics/entity/lights/purple-on.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "white-lamp" },
@@ -464,7 +464,7 @@ data:extend(
             glow_color_intensity = 0.9,
             picture_off =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/light-off.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/light-off.png",
                 priority = "high",
                 width = 32,
                 height = 32,
@@ -475,7 +475,7 @@ data:extend(
             },
             picture_on =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/lights/white-on.png",
+                filename = "__Darkstar2.0__/graphics/entity/lights/white-on.png",
                 priority = "high",
                 width = 32,
                 height = 32,

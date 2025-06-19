@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "gpu",
-            icon = "__Darkstar_utilities__/graphics/icons/gpu.png",
+            icon = "__Darkstar2.0__/graphics/icons/gpu.png",
             icon_size = 32,
 
             subgroup = "computer",
@@ -17,7 +17,7 @@ data:extend(
         {
             type = "item",
             name = "cpu",
-            icon = "__Darkstar_utilities__/graphics/icons/cpu.png",
+            icon = "__Darkstar2.0__/graphics/icons/cpu.png",
             icon_size = 32,
 
             subgroup = "computer",
@@ -28,7 +28,7 @@ data:extend(
         {
             type = "item",
             name = "fan",
-            icon = "__Darkstar_utilities__/graphics/icons/fan.png",
+            icon = "__Darkstar2.0__/graphics/icons/fan.png",
             icon_size = 32,
 
             subgroup = "computer",
@@ -39,7 +39,7 @@ data:extend(
         {
             type = "item",
             name = "ram",
-            icon = "__Darkstar_utilities__/graphics/icons/ram.png",
+            icon = "__Darkstar2.0__/graphics/icons/ram.png",
             icon_size = 32,
 
             subgroup = "computer",
@@ -50,7 +50,7 @@ data:extend(
         {
             type = "item",
             name = "diode",
-            icon = "__Darkstar_utilities__/graphics/icons/diode.png",
+            icon = "__Darkstar2.0__/graphics/icons/diode.png",
             icon_size = 32,
 
             subgroup = "computer",
@@ -61,7 +61,7 @@ data:extend(
         {
             type = "item",
             name = "mother-board",
-            icon = "__Darkstar_utilities__/graphics/icons/board.png",
+            icon = "__Darkstar2.0__/graphics/icons/board.png",
             icon_size = 32,
 
             subgroup = "computer",
@@ -71,7 +71,7 @@ data:extend(
         {
             type = "item",
             name = "computer",
-            icon = "__Darkstar_utilities__/graphics/icons/computer-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/computer-icon.png",
             icon_size = 32,
 
             subgroup = "computer",

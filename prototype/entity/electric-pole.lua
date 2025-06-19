@@ -27,7 +27,7 @@ data:extend(
             supply_area_distance = 14,
             pictures =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/substation-mk2/substation.png",
+                filename = "__Darkstar2.0__/graphics/entity/substation-mk2/substation.png",
                 priority = "high",
                 width = 132,
                 height = 144,
@@ -134,7 +134,7 @@ data:extend(
             supply_area_distance = 64,
             pictures =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/tesla-coil/tesla-coil.png",
+                filename = "__Darkstar2.0__/graphics/entity/tesla-coil/tesla-coil.png",
                 priority = "high",
                 width = 158,
                 height = 158,
@@ -199,7 +199,7 @@ data:extend(
             supply_area_distance = 64,
             pictures =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/tesla-coil/tesla-coil-2.png",
+                filename = "__Darkstar2.0__/graphics/entity/tesla-coil/tesla-coil-2.png",
                 priority = "high",
                 width = 132,
                 height = 144,
@@ -208,7 +208,7 @@ data:extend(
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/tesla-coil/tesla-coil-animation.png",
+                filename = "__Darkstar2.0__/graphics/entity/tesla-coil/tesla-coil-animation.png",
                 priority = "high",
                 width = 1056,
                 height = 158,

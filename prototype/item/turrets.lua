@@ -7,7 +7,7 @@ data:extend(
   {
     type = "item",
     name = "assult-turret",
-    icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk5-g2.png",
+    icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk5-g2.png",
 	icon_size = 32,
 
     subgroup = "solar-panel-mk6",
@@ -19,7 +19,7 @@ data:extend(
   {
     type = "item",
     name = "sniper-turret",
-    icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk5-g2.png",
+    icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk5-g2.png",
 	icon_size = 32,
 
     subgroup = "solar-panel-mk6",
@@ -31,7 +31,7 @@ data:extend(
   {
     type = "item",
     name = "sniper-turret-mk2",
-    icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk5-g2.png",
+    icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk5-g2.png",
 	icon_size = 32,
 
     subgroup = "solar-panel-mk6",
@@ -43,7 +43,7 @@ data:extend(
   {
     type = "item",
     name = "laser-turret-mk2",
-    icon = "__Darkstar_utilities__/graphics/icons/advanced-solar-panel-mk5-g2.png",
+    icon = "__Darkstar2.0__/graphics/icons/advanced-solar-panel-mk5-g2.png",
 	icon_size = 32,
 
     subgroup = "solar-panel-mk6",

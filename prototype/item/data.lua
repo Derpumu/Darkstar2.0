@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "fuel-can",
-            icon = "__Darkstar_utilities__/graphics/icons/fuel-can.png",
+            icon = "__Darkstar2.0__/graphics/icons/fuel-can.png",
             icon_size = 32,
             rocket_launch_product = { "fuel-register", 1 },
             subgroup = "data",
@@ -17,7 +17,7 @@ data:extend(
         {
             type = "item",
             name = "large-fuel-can",
-            icon = "__Darkstar_utilities__/graphics/icons/large-fuel-can.png",
+            icon = "__Darkstar2.0__/graphics/icons/large-fuel-can.png",
             icon_size = 32,
             rocket_launch_product = { "large-fuel-register", 1 },
             subgroup = "data",
@@ -28,7 +28,7 @@ data:extend(
         {
             type = "item",
             name = "fuel-register",
-            icon = "__Darkstar_utilities__/graphics/icons/fuel-register.png",
+            icon = "__Darkstar2.0__/graphics/icons/fuel-register.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -39,7 +39,7 @@ data:extend(
         {
             type = "item",
             name = "large-fuel-register",
-            icon = "__Darkstar_utilities__/graphics/icons/large-fuel-register.png",
+            icon = "__Darkstar2.0__/graphics/icons/large-fuel-register.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -50,7 +50,7 @@ data:extend(
         {
             type = "item",
             name = "xenon-thruster",
-            icon = "__Darkstar_utilities__/graphics/icons/xenon-thruster.png",
+            icon = "__Darkstar2.0__/graphics/icons/xenon-thruster.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -61,7 +61,7 @@ data:extend(
         {
             type = "item",
             name = "xenon-tank",
-            icon = "__Darkstar_utilities__/graphics/icons/xenon-tank.png",
+            icon = "__Darkstar2.0__/graphics/icons/xenon-tank.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -72,7 +72,7 @@ data:extend(
         {
             type = "item",
             name = "xenon-thruster-tank",
-            icon = "__Darkstar_utilities__/graphics/icons/xenon-thruster-tank.png",
+            icon = "__Darkstar2.0__/graphics/icons/xenon-thruster-tank.png",
             icon_size = 32,
             rocket_launch_product = { "xenon-thruster-tank-register", 1 },
             subgroup = "data",
@@ -83,7 +83,7 @@ data:extend(
         {
             type = "item",
             name = "xenon-thruster-tank-register",
-            icon = "__Darkstar_utilities__/graphics/icons/xenon-tank-thruster-register.png",
+            icon = "__Darkstar2.0__/graphics/icons/xenon-tank-thruster-register.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -94,7 +94,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-1",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-1.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-1.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -106,7 +106,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-2",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-2.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -118,7 +118,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-3",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-3.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-3.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -130,7 +130,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-4",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-4.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -142,7 +142,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-5",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-5.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-5.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -154,7 +154,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-6",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-6.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-6.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -166,7 +166,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-7",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-7.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-7.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -178,7 +178,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-8",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-8.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-8.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -190,7 +190,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-9",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-9.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-9.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -202,7 +202,7 @@ data:extend(
         {
             type = "item",
             name = "ssd-m",
-            icon = "__Darkstar_utilities__/graphics/icons/ssd-m.png",
+            icon = "__Darkstar2.0__/graphics/icons/ssd-m.png",
             icon_size = 32,
 
             subgroup = "data",
@@ -214,7 +214,7 @@ data:extend(
         {
             type = "item",
             name = "receiver-1",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-1.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-1.png",
           icon_size = 32,
           
             subgroup = "data",
@@ -226,7 +226,7 @@ data:extend(
           {
             type = "item",
             name = "receiver-2",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-2.png",
           icon_size = 32,
           
             subgroup = "data",
@@ -238,7 +238,7 @@ data:extend(
           {
             type = "item",
             name = "receiver-3",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-3.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-3.png",
           icon_size = 32,
           
             subgroup = "data",
@@ -250,7 +250,7 @@ data:extend(
           {
             type = "item",
             name = "receiver-4",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-4.png",
           icon_size = 32,
           
             subgroup = "data",
@@ -262,7 +262,7 @@ data:extend(
           {
             type = "item",
             name = "receiver-5",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-5.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-5.png",
           icon_size = 32,
           
             subgroup = "data",
@@ -274,7 +274,7 @@ data:extend(
           {
             type = "item",
             name = "receiver-6",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-6.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-6.png",
           icon_size = 32,
           
             subgroup = "data",
@@ -286,7 +286,7 @@ data:extend(
           {
             type = "item",
             name = "receiver-7",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-7.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-7.png",
           icon_size = 32,
           
             subgroup = "data",
@@ -298,7 +298,7 @@ data:extend(
           {
             type = "item",
             name = "receiver-8",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-8.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-8.png",
           icon_size = 32,
           
             subgroup = "data",
@@ -310,7 +310,7 @@ data:extend(
           {
             type = "item",
             name = "receiver-9",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-9.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-9.png",
           icon_size = 32,
           
             subgroup = "data",
@@ -322,7 +322,7 @@ data:extend(
           {
             type = "item",
             name = "receiver-m",
-            icon = "__Darkstar_utilities__/graphics/icons/receiver-m.png",
+            icon = "__Darkstar2.0__/graphics/icons/receiver-m.png",
           icon_size = 32,
           
             subgroup = "data",

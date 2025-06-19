@@ -9,13 +9,13 @@ logistic_robot_mk2.speed = 25
 logistic_robot_mk2.max_energy = "5MJ"
 logistic_robot_mk2.energy_per_tick = "0.01kJ"
 logistic_robot_mk2.energy_per_move = "0.5kJ"
-logistic_robot_mk2.idle.filename = "__Darkstar_utilities__/graphics/entity/robots/logistic-robot-mk2.png"
+logistic_robot_mk2.idle.filename = "__Darkstar2.0__/graphics/entity/robots/logistic-robot-mk2.png"
 logistic_robot_mk2.idle.shift = util.by_pixel(0.5, -3)
-logistic_robot_mk2.idle_with_cargo.filename = "__Darkstar_utilities__/graphics/entity/robots/logistic-robot-mk2.png"
+logistic_robot_mk2.idle_with_cargo.filename = "__Darkstar2.0__/graphics/entity/robots/logistic-robot-mk2.png"
 logistic_robot_mk2.idle_with_cargo.shift = util.by_pixel(0.5, -3)
-logistic_robot_mk2.in_motion.filename = "__Darkstar_utilities__/graphics/entity/robots/logistic-robot-mk2.png"
+logistic_robot_mk2.in_motion.filename = "__Darkstar2.0__/graphics/entity/robots/logistic-robot-mk2.png"
 logistic_robot_mk2.in_motion.shift = util.by_pixel(0.5, -3)
-logistic_robot_mk2.in_motion_with_cargo.filename = "__Darkstar_utilities__/graphics/entity/robots/logistic-robot-mk2.png"
+logistic_robot_mk2.in_motion_with_cargo.filename = "__Darkstar2.0__/graphics/entity/robots/logistic-robot-mk2.png"
 logistic_robot_mk2.in_motion_with_cargo.shift = util.by_pixel(0.5, -3)
 
 local construction_robot_mk2 = table.deepcopy(data.raw["construction-robot"]["construction-robot"])
@@ -27,10 +27,10 @@ construction_robot_mk2.max_energy = "3000kJ"
 construction_robot_mk2.energy_per_tick = "0.01kJ"
 construction_robot_mk2.energy_per_move = "1kJ"
 construction_robot_mk2.working_light = { intensity = 1.8, size = 16 }
-construction_robot_mk2.idle.filename = "__Darkstar_utilities__/graphics/entity/robots/construction-robot-mk2.png"
-construction_robot_mk2.in_motion.filename = "__Darkstar_utilities__/graphics/entity/robots/construction-robot-mk2.png"
+construction_robot_mk2.idle.filename = "__Darkstar2.0__/graphics/entity/robots/construction-robot-mk2.png"
+construction_robot_mk2.in_motion.filename = "__Darkstar2.0__/graphics/entity/robots/construction-robot-mk2.png"
 construction_robot_mk2.working.filename =
-"__Darkstar_utilities__/graphics/entity/robots/construction-robot-mk2-working.png"
+"__Darkstar2.0__/graphics/entity/robots/construction-robot-mk2-working.png"
 construction_robot_mk2.working.shift = util.by_pixel(0, -5)
 construction_robot_mk2.shadow_idle.shift = util.by_pixel(35, 19)
 construction_robot_mk2.shadow_in_motion.shift = util.by_pixel(35, 19)

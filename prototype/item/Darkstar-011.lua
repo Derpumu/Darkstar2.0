@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "stone-path-red",
-            icon = "__Darkstar_utilities__/graphics/items/red-brick.png",
+            icon = "__Darkstar2.0__/graphics/items/red-brick.png",
             icon_size = 32,
 
             subgroup = "Darkstar-011",
@@ -22,7 +22,7 @@ data:extend(
         {
             type = "item",
             name = "stone-path-yellow",
-            icon = "__Darkstar_utilities__/graphics/items/yellow-brick.png",
+            icon = "__Darkstar2.0__/graphics/items/yellow-brick.png",
             icon_size = 32,
 
             subgroup = "Darkstar-011",
@@ -38,7 +38,7 @@ data:extend(
         {
             type = "item",
             name = "stone-path-blue",
-            icon = "__Darkstar_utilities__/graphics/items/blue-brick.png",
+            icon = "__Darkstar2.0__/graphics/items/blue-brick.png",
             icon_size = 32,
 
             subgroup = "Darkstar-011",
@@ -55,7 +55,7 @@ data:extend(
         {
             type = "item",
             name = "stone-path-green",
-            icon = "__Darkstar_utilities__/graphics/items/green-brick.png",
+            icon = "__Darkstar2.0__/graphics/items/green-brick.png",
             icon_size = 32,
 
             subgroup = "Darkstar-011",
@@ -72,7 +72,7 @@ data:extend(
         {
             type = "item",
             name = "stone-path-purple",
-            icon = "__Darkstar_utilities__/graphics/items/purple-brick.png",
+            icon = "__Darkstar2.0__/graphics/items/purple-brick.png",
             icon_size = 32,
 
             subgroup = "Darkstar-011",
@@ -89,7 +89,7 @@ data:extend(
         {
             type = "item",
             name = "stone-path-black",
-            icon = "__Darkstar_utilities__/graphics/items/black-brick.png",
+            icon = "__Darkstar2.0__/graphics/items/black-brick.png",
             icon_size = 32,
 
             subgroup = "Darkstar-011",
@@ -106,7 +106,7 @@ data:extend(
         {
             type = "item",
             name = "glass-tile",
-            icon = "__Darkstar_utilities__/graphics/items/glass-tile.png",
+            icon = "__Darkstar2.0__/graphics/items/glass-tile.png",
             icon_size = 32,
 
             subgroup = "Darkstar-011",
@@ -124,7 +124,7 @@ data:extend(
         {
             type = "item",
             name = "express-tile",
-            icon = "__Darkstar_utilities__/graphics/items/glass-tile.png",
+            icon = "__Darkstar2.0__/graphics/items/glass-tile.png",
             icon_size = 32,
 
             subgroup = "Darkstar-011",

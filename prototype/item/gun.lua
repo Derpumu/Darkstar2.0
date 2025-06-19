@@ -6,7 +6,7 @@ data:extend(
         {
             type = "gun",
             name = "rocket-launcher-mk2", --railgun
-            icon = "__Darkstar_utilities__/graphics/ammo/railgun3.png",
+            icon = "__Darkstar2.0__/graphics/ammo/railgun3.png",
             icon_size = 32,
 
             subgroup = "railguns",
@@ -23,7 +23,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/railgun.ogg",
+                        filename = "__Darkstar2.0__/sounds/railgun.ogg",
                         volume = 0.7
                     }
                 }
@@ -34,7 +34,7 @@ data:extend(
         {
             type = "gun",
             name = "railgun-mk2", --railgun mk2
-            icon = "__Darkstar_utilities__/graphics/ammo/railgun2.png",
+            icon = "__Darkstar2.0__/graphics/ammo/railgun2.png",
             icon_size = 32,
 
             subgroup = "railguns",
@@ -51,7 +51,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/railgun-mk2.ogg",
+                        filename = "__Darkstar2.0__/sounds/railgun-mk2.ogg",
                         volume = 1.0
                     }
                 }
@@ -63,7 +63,7 @@ data:extend(
         {
             type = "gun",
             name = "shotgun-pellet-mk2",
-            icon = "__Darkstar_utilities__/graphics/ammo/railgun1.png",
+            icon = "__Darkstar2.0__/graphics/ammo/railgun1.png",
             icon_size = 32,
             icon_mipmaps = 1,
 
@@ -81,7 +81,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/railgun.ogg",
+                        filename = "__Darkstar2.0__/sounds/railgun.ogg",
                         volume = 0.7
                     }
                 }
@@ -157,7 +157,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/nuclear-explosion.ogg",
+                        filename = "__Darkstar2.0__/sounds/nuclear-explosion.ogg",
                         volume = 0.7
                     }
                 }
@@ -167,7 +167,7 @@ data:extend(
         {
             type = "gun",
             name = "assult-rifle",
-            icon = "__Darkstar_utilities__/graphics/icons/assult-rifle-1.png",
+            icon = "__Darkstar2.0__/graphics/icons/assult-rifle-1.png",
             icon_size = 32,
 
             subgroup = "assult-rifles",
@@ -194,7 +194,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/assult-rifle.ogg",
+                        filename = "__Darkstar2.0__/sounds/assult-rifle.ogg",
                         volume = 1.0
                     }
                 }
@@ -205,7 +205,7 @@ data:extend(
         {
             type = "gun",
             name = "assult-rifle-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/assult-rifle-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/assult-rifle-2.png",
             icon_size = 32,
 
             subgroup = "assult-rifles",
@@ -232,7 +232,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/assult-rifle.ogg",
+                        filename = "__Darkstar2.0__/sounds/assult-rifle.ogg",
                         volume = 1.0
                     }
                 }
@@ -271,7 +271,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/assult-rifle.ogg",
+                        filename = "__Darkstar2.0__/sounds/assult-rifle.ogg",
                         volume = 1.0
                     }
                 }
@@ -309,7 +309,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/assult-rifle.ogg",
+                        filename = "__Darkstar2.0__/sounds/assult-rifle.ogg",
                         volume = 1.0
                     }
                 }
@@ -347,7 +347,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/assult-rifle.ogg",
+                        filename = "__Darkstar2.0__/sounds/assult-rifle.ogg",
                         volume = 1.0
                     }
                 }
@@ -357,7 +357,7 @@ data:extend(
         {
             type = "gun",
             name = "sniper-rifle",
-            icon = "__Darkstar_utilities__/graphics/icons/sniper-rifle-1.png",
+            icon = "__Darkstar2.0__/graphics/icons/sniper-rifle-1.png",
             icon_size = 32,
 
             subgroup = "sniper-rifles",
@@ -384,7 +384,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/sniper.ogg",
+                        filename = "__Darkstar2.0__/sounds/sniper.ogg",
                         volume = 1.0
                     }
                 }
@@ -396,7 +396,7 @@ data:extend(
         {
             type = "gun",
             name = "sniper-rifle-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/sniper-rifle-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/sniper-rifle-2.png",
             icon_size = 32,
 
             subgroup = "sniper-rifles",
@@ -422,7 +422,7 @@ data:extend(
                 range = 1468,
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/sniper.ogg",
+                        filename = "__Darkstar2.0__/sounds/sniper.ogg",
                         volume = 1.0
                     }
                 }
@@ -451,7 +451,7 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/railgun.ogg",
+                        filename = "__Darkstar2.0__/sounds/railgun.ogg",
                         volume = 0.5
                     }
                 }

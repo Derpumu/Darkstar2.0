@@ -7,7 +7,7 @@ data:extend(
         {
             type = "item",
             name = "asteroid-quarry",
-            icon = "__Darkstar_utilities__/graphics/icons/space-quarry-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/space-quarry-icon.png",
             icon_size = 32,
 
             subgroup = "misc",
@@ -19,7 +19,7 @@ data:extend(
         {
             type = "item",
             name = "planet-quarry",
-            icon = "__Darkstar_utilities__/graphics/icons/space-quarry-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/space-quarry-icon2.png",
             icon_size = 32,
 
             subgroup = "misc",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item",
             name = "laser-quarry",
-            icon = "__Darkstar_utilities__/graphics/icons/quarry-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/quarry-icon.png",
             icon_size = 32,
 
             subgroup = "misc",
@@ -42,7 +42,7 @@ data:extend(
         {
             type = "item",
             name = "laser-quarry2",
-            icon = "__Darkstar_utilities__/graphics/icons/quarry2-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/quarry2-icon.png",
             icon_size = 32,
 
             subgroup = "misc",
@@ -54,7 +54,7 @@ data:extend(
         {
             type = "item",
             name = "laser-quarry3",
-            icon = "__Darkstar_utilities__/graphics/icons/space-quarry-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/space-quarry-icon.png",
             icon_size = 32,
 
             subgroup = "misc",
@@ -66,7 +66,7 @@ data:extend(
         {
             type = "item",
             name = "laser-quarry4",
-            icon = "__Darkstar_utilities__/graphics/icons/space-quarry-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/space-quarry-icon.png",
             icon_size = 32,
 
             subgroup = "misc",
@@ -77,7 +77,7 @@ data:extend(
         {
             type = "item",
             name = "storage-house",
-            icon = "__Darkstar_utilities__/graphics/icons/warehouse.png",
+            icon = "__Darkstar2.0__/graphics/icons/warehouse.png",
             icon_size = 32,
 
             subgroup = "misc",
@@ -88,7 +88,7 @@ data:extend(
         {
             type = "item",
             name = "hacked-biter",
-            icon = "__Darkstar_utilities__/graphics/icons/biter2.png",
+            icon = "__Darkstar2.0__/graphics/icons/biter2.png",
             icon_size = 32,
         
             subgroup = "bio",

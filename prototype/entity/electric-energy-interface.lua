@@ -6,7 +6,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "geothermal-generator",
-            icon = "__Darkstar_utilities__/graphics/icons/geothermal-generator2.png",
+            icon = "__Darkstar2.0__/graphics/icons/geothermal-generator2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "geothermal-generator" },
@@ -28,7 +28,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/geothermal-generator.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/geothermal-generator.png",
                 priority = "high",
                 width = 131,
                 height = 144,
@@ -54,7 +54,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "geothermal-generator-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/geothermal-generator-mk2.png",
+            icon = "__Darkstar2.0__/graphics/icons/geothermal-generator-mk2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "geothermal-generator-mk2" },
@@ -76,7 +76,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/geothermal-generator-mk2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/geothermal-generator-mk2.png",
                 priority = "high",
                 width = 131,
                 height = 144,
@@ -102,7 +102,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "geothermal-generator-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/geothermal-generator-mk3.png",
+            icon = "__Darkstar2.0__/graphics/icons/geothermal-generator-mk3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "geothermal-generator-mk3" },
@@ -124,7 +124,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/geothermal-generator-mk3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/geothermal-generator-mk3.png",
                 priority = "high",
                 width = 131,
                 height = 144,
@@ -150,7 +150,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "rtg",
-            icon = "__Darkstar_utilities__/graphics/icons/rtg-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/rtg-icon.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "rtg" },
@@ -172,7 +172,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/rtg.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/rtg.png",
                 priority = "high",
                 width = 300,
                 height = 256,
@@ -199,7 +199,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "rtg-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/rtg-mk2-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/rtg-mk2-icon.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "rtg-mk2" },
@@ -221,7 +221,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/rtg-mk2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/rtg-mk2.png",
                 priority = "high",
                 width = 300,
                 height = 256,
@@ -248,7 +248,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "rtg-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/rtg-mk3-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/rtg-mk3-icon.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "rtg-mk3" },
@@ -270,7 +270,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/rtg-mk3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/rtg-mk3.png",
                 priority = "high",
                 width = 300,
                 height = 256,
@@ -297,7 +297,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "s-reg",
-            icon = "__Darkstar_utilities__/graphics/icons/s-reg-icon-3.png",
+            icon = "__Darkstar2.0__/graphics/icons/s-reg-icon-3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "s-reg" },
@@ -319,7 +319,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/dark-matter-reactor-3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/dark-matter-reactor-3.png",
                 priority = "high",
                 width = 987,
                 height = 520,
@@ -346,7 +346,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "s-reg-2",
-            icon = "__Darkstar_utilities__/graphics/icons/s-reg-icon-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/s-reg-icon-2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "s-reg-2" },
@@ -368,7 +368,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/dark-matter-reactor-2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/dark-matter-reactor-2.png",
                 priority = "high",
                 width = 987,
                 height = 520,
@@ -395,7 +395,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "s-reg-3",
-            icon = "__Darkstar_utilities__/graphics/icons/s-reg-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/s-reg-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "s-reg-3" },
@@ -417,7 +417,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/dark-matter-reactor.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/dark-matter-reactor.png",
                 priority = "high",
                 width = 987,
                 height = 520,
@@ -444,7 +444,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "prototype-anct",
-            icon = "__Darkstar_utilities__/graphics/icons/cage-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/cage-icon.png",
             icon_size = 64,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "prototype-anct" },
@@ -466,7 +466,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/prototype-anct.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/prototype-anct.png",
                 priority = "high",
                 width = 300,
                 height = 300,
@@ -493,7 +493,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "think-tank",
-            icon = "__Darkstar_utilities__/graphics/icons/think-tank.png",
+            icon = "__Darkstar2.0__/graphics/icons/think-tank.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "think-tank" },
@@ -514,7 +514,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/think-tank2.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/think-tank2.png",
                 priority = "high",
                 width = 600,
                 height = 600,
@@ -526,12 +526,12 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/think-tank.ogg",
+                    filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                     volume = 0.6
                 },
                 idle_sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/think-tank.ogg",
+                    filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                     volume = 0.0
                 },
                 light = { intensity = 0.4, size = 6, shift = { 0.0, 1.0 } },
@@ -542,7 +542,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "think-tank-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/think-tank2.png",
+            icon = "__Darkstar2.0__/graphics/icons/think-tank2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "think-tank-mk2" },
@@ -563,7 +563,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/think-tank.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/think-tank.png",
                 priority = "high",
                 width = 600,
                 height = 600,
@@ -575,12 +575,12 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/think-tank.ogg",
+                    filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                     volume = 1
                 },
                 idle_sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/think-tank.ogg",
+                    filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                     volume = 0.1
                 },
                 light = { intensity = 0.4, size = 24, shift = { 0.0, 1.0 } },
@@ -591,7 +591,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "think-tank-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/think-tank3.png",
+            icon = "__Darkstar2.0__/graphics/icons/think-tank3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "think-tank-mk3" },
@@ -612,7 +612,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/solar-panel/think-tank3.png",
+                filename = "__Darkstar2.0__/graphics/entity/solar-panel/think-tank3.png",
                 priority = "high",
                 width = 600,
                 height = 600,
@@ -624,12 +624,12 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/think-tank.ogg",
+                    filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                     volume = 1
                 },
                 idle_sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/think-tank.ogg",
+                    filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                     volume = 0.1
                 },
                 light = { intensity = 0.4, size = 24, shift = { 0.0, 1.0 } },
@@ -640,7 +640,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "dyson",
-            icon = "__Darkstar_utilities__/graphics/icons/dyson-sphere-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/dyson-sphere-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "dyson" },
@@ -661,7 +661,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/dyson-sphere.png",
+                filename = "__Darkstar2.0__/graphics/entity/dyson-sphere.png",
                 priority = "high",
                 width = 508,
                 height = 304,
@@ -687,7 +687,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "multiverse-tear",
-            icon = "__Darkstar_utilities__/graphics/icons/multiverse-tear-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/multiverse-tear-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "multiverse-tear" },
@@ -708,7 +708,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/multiverse-tear.png",
+                filename = "__Darkstar2.0__/graphics/entity/multiverse-tear.png",
                 priority = "high",
                 width = 508,
                 height = 304,
@@ -734,7 +734,7 @@ data:extend(
         {
             type = "electric-energy-interface",
             name = "interstellar-dominion",
-            icon = "__Darkstar_utilities__/graphics/icons/interstellar-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/interstellar-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "interstellar-dominion" },
@@ -755,7 +755,7 @@ data:extend(
             energy_usage = "0kW",
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/interstellar.png",
+                filename = "__Darkstar2.0__/graphics/entity/interstellar.png",
                 priority = "high",
                 width = 508,
                 height = 304,

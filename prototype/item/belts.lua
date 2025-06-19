@@ -17,7 +17,7 @@ data:extend(
         {
             type = "item",
             name = "terra-splitter",
-            icon = "__Darkstar_utilities__/graphics/icons/terra-splitter.png",
+            icon = "__Darkstar2.0__/graphics/icons/terra-splitter.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -28,7 +28,7 @@ data:extend(
         {
             type = "item",
             name = "underground-belt-2",
-            icon = "__Darkstar_utilities__/graphics/icons/underground-belt-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/underground-belt-2.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -40,7 +40,7 @@ data:extend(
         {
             type = "item",
             name = "fast-underground-belt-2",
-            icon = "__Darkstar_utilities__/graphics/icons/fast-underground-belt-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/fast-underground-belt-2.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -52,7 +52,7 @@ data:extend(
         {
             type = "item",
             name = "express-underground-belt-2",
-            icon = "__Darkstar_utilities__/graphics/icons/express-underground-belt-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/express-underground-belt-2.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -64,7 +64,7 @@ data:extend(
         {
             type = "item",
             name = "terra-underground-belt",
-            icon = "__Darkstar_utilities__/graphics/icons/terra2-underground.png",
+            icon = "__Darkstar2.0__/graphics/icons/terra2-underground.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -76,7 +76,7 @@ data:extend(
         {
             type = "item",
             name = "terra-underground-belt2",
-            icon = "__Darkstar_utilities__/graphics/icons/terra-underground.png",
+            icon = "__Darkstar2.0__/graphics/icons/terra-underground.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -88,7 +88,7 @@ data:extend(
         {
             type = "item",
             name = "terra-underground-belt-long",
-            icon = "__Darkstar_utilities__/graphics/icons/terra2-underground-long.png",
+            icon = "__Darkstar2.0__/graphics/icons/terra2-underground-long.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -100,7 +100,7 @@ data:extend(
         {
             type = "item",
             name = "terra-underground-belt2-long",
-            icon = "__Darkstar_utilities__/graphics/icons/terra-underground-long.png",
+            icon = "__Darkstar2.0__/graphics/icons/terra-underground-long.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -111,7 +111,7 @@ data:extend(
         {
             type = "item",
             name = "terra-transport-belt",
-            icon = "__Darkstar_utilities__/graphics/icons/terra-belt.png",
+            icon = "__Darkstar2.0__/graphics/icons/terra-belt.png",
             icon_size = 32,
 
             subgroup = "logic",
@@ -123,7 +123,7 @@ data:extend(
         {
             type = "item",
             name = "terra-transport-belt-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/terra-belt-mk2.png",
+            icon = "__Darkstar2.0__/graphics/icons/terra-belt-mk2.png",
             icon_size = 32,
 
             subgroup = "logic",

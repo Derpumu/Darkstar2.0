@@ -9,7 +9,7 @@ data:extend(
             animations =
             {
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/health-explosion.png",
+                    filename = "__Darkstar2.0__/graphics/entity/health-explosion.png",
                     priority = "high",
                     width = 64,
                     height = 59,
@@ -17,7 +17,7 @@ data:extend(
                     animation_speed = 0.9
                 },
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/health-explosion.png",
+                    filename = "__Darkstar2.0__/graphics/entity/health-explosion.png",
                     priority = "high",
                     width = 64,
                     height = 57,
@@ -25,7 +25,7 @@ data:extend(
                     animation_speed = 0.5
                 },
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/health-explosion.png",
+                    filename = "__Darkstar2.0__/graphics/entity/health-explosion.png",
                     priority = "high",
                     width = 64,
                     height = 49,
@@ -33,7 +33,7 @@ data:extend(
                     animation_speed = 0.2
                 },
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/health-explosion.png",
+                    filename = "__Darkstar2.0__/graphics/entity/health-explosion.png",
                     priority = "high",
                     width = 64,
                     height = 51,
@@ -72,7 +72,7 @@ data:extend(
             animations =
             {
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/railgun-explosion.png",
+                    filename = "__Darkstar2.0__/graphics/entity/railgun-explosion.png",
                     priority = "extra-high",
                     width = 197,
                     height = 245,
@@ -127,7 +127,7 @@ data:extend(
             animations =
             {
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/antithetical-explosion.png",
+                    filename = "__Darkstar2.0__/graphics/entity/antithetical-explosion.png",
                     priority = "extra-high",
                     width = 197,
                     height = 245,
@@ -182,7 +182,7 @@ data:extend(
             animations =
             {
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/railgun-explosion.png",
+                    filename = "__Darkstar2.0__/graphics/entity/railgun-explosion.png",
                     priority = "extra-high",
                     width = 197,
                     height = 245,

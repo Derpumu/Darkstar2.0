@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "large-lamp",
-            icon = "__Darkstar_utilities__/graphics/icons/small-lamp2.png",
+            icon = "__Darkstar2.0__/graphics/icons/small-lamp2.png",
             icon_size = 32,
 
             subgroup = "Lights",
@@ -19,7 +19,7 @@ data:extend(
         {
             type = "item",
             name = "red-lamp",
-            icon = "__Darkstar_utilities__/graphics/icons/red-light.png",
+            icon = "__Darkstar2.0__/graphics/icons/red-light.png",
             icon_size = 32,
 
             subgroup = "Lights",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item",
             name = "blue-lamp",
-            icon = "__Darkstar_utilities__/graphics/icons/blue-light.png",
+            icon = "__Darkstar2.0__/graphics/icons/blue-light.png",
             icon_size = 32,
 
             subgroup = "Lights",
@@ -41,7 +41,7 @@ data:extend(
         {
             type = "item",
             name = "yellow-lamp",
-            icon = "__Darkstar_utilities__/graphics/icons/yellow-light.png",
+            icon = "__Darkstar2.0__/graphics/icons/yellow-light.png",
             icon_size = 32,
 
             subgroup = "Lights",
@@ -52,7 +52,7 @@ data:extend(
         {
             type = "item",
             name = "green-lamp",
-            icon = "__Darkstar_utilities__/graphics/icons/green-light.png",
+            icon = "__Darkstar2.0__/graphics/icons/green-light.png",
             icon_size = 32,
 
             subgroup = "Lights",
@@ -63,7 +63,7 @@ data:extend(
         {
             type = "item",
             name = "purple-lamp",
-            icon = "__Darkstar_utilities__/graphics/icons/purple-light.png",
+            icon = "__Darkstar2.0__/graphics/icons/purple-light.png",
             icon_size = 32,
 
             subgroup = "Lights",
@@ -74,7 +74,7 @@ data:extend(
         {
             type = "item",
             name = "cyan-lamp",
-            icon = "__Darkstar_utilities__/graphics/icons/cyan-light.png",
+            icon = "__Darkstar2.0__/graphics/icons/cyan-light.png",
             icon_size = 32,
 
             subgroup = "Lights",
@@ -85,7 +85,7 @@ data:extend(
         {
             type = "item",
             name = "white-lamp",
-            icon = "__Darkstar_utilities__/graphics/icons/white-light.png",
+            icon = "__Darkstar2.0__/graphics/icons/white-light.png",
             icon_size = 32,
 
             subgroup = "Lights",

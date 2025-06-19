@@ -6,7 +6,7 @@ data:extend(
         {
             type = "capsule",
             name = "destroyer-capsule-2",
-            icon = "__Darkstar_utilities__/graphics/icons/biter.png",
+            icon = "__Darkstar2.0__/graphics/icons/biter.png",
             icon_size = 32,
 
             capsule_action =
@@ -118,7 +118,7 @@ data:extend(
         {
             type = "capsule",
             name = "cooked-fish",
-            icon = "__Darkstar_utilities__/graphics/icons/cooked-fish.png",
+            icon = "__Darkstar2.0__/graphics/icons/cooked-fish.png",
             icon_size = 32,
 
             subgroup = "raw-resource",

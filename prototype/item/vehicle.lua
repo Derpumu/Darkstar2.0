@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item-with-entity-data",
             name = "dark-pulse",
-            icon = "__Darkstar_utilities__/graphics/icons/dark-pulse-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/dark-pulse-icon.png",
             icon_size = 32,
 
             subgroup = "vehicle",
@@ -18,7 +18,7 @@ data:extend(
         {
             type = "item-with-entity-data",
             name = "deep-hold",
-            icon = "__Darkstar_utilities__/graphics/icons/deep-hold-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/deep-hold-icon.png",
             icon_size = 32,
 
             subgroup = "vehicle",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item-with-entity-data",
             name = "end-game",
-            icon = "__Darkstar_utilities__/graphics/icons/end-game-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/end-game-icon.png",
             icon_size = 32,
 
             subgroup = "vehicle",
@@ -42,7 +42,7 @@ data:extend(
         {
             type = "item-with-entity-data",
             name = "nautilus",
-            icon = "__Darkstar_utilities__/graphics/icons/nautilus-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/nautilus-icon.png",
             icon_size = 32,
 
             subgroup = "vehicle",
@@ -54,7 +54,7 @@ data:extend(
             type = "item",
             name = "ship-cannon",
             placed_as_equipment_result = "ship-cannon",
-            icon = "__Darkstar_utilities__/graphics/icons/ship-cannon-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/ship-cannon-icon.png",
             icon_size = 32,
 
             subgroup = "vehicle",
@@ -64,7 +64,7 @@ data:extend(
         {
             type = "item",
             name = "vehicle-shield",
-            icon = "__Darkstar_utilities__/graphics/items/vehicle-shield-icon.png",
+            icon = "__Darkstar2.0__/graphics/items/vehicle-shield-icon.png",
             icon_size = 32,
             placed_as_equipment_result = "vehicle-shield",
 
@@ -75,7 +75,7 @@ data:extend(
         {
             type = "item",
             name = "thruster-upgrade",
-            icon = "__Darkstar_utilities__/graphics/icons/thruster-upgrade-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/thruster-upgrade-icon.png",
             icon_size = 32,
             placed_as_equipment_result = "thruster-upgrade",
 
@@ -86,7 +86,7 @@ data:extend(
         {
             type = "item",
             name = "vehicle-roboport",
-            icon = "__Darkstar_utilities__/graphics/equipment/personal-roboport-equipment-mk2-icon.png",
+            icon = "__Darkstar2.0__/graphics/equipment/personal-roboport-equipment-mk2-icon.png",
             icon_size = 32,
             placed_as_equipment_result = "vehicle-roboport",
 
@@ -97,7 +97,7 @@ data:extend(
         {
             type = "item",
             name = "vehicle-reactor",
-            icon = "__Darkstar_utilities__/graphics/icons/engine-room-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/engine-room-icon.png",
             icon_size = 32,
             placed_as_equipment_result = "vehicle-reactor",
 

@@ -5,7 +5,7 @@ data:extend(
     {
       type = "item-group",
       name = "Darkstar",
-      icon = "__Darkstar_utilities__/graphics/icons/darkstar.png",
+      icon = "__Darkstar2.0__/graphics/icons/darkstar.png",
       icon_size = 256,
       inventory_order = "p",
       order = "p"
@@ -204,7 +204,7 @@ data:extend(
     {
       type = "item-group",
       name = "Darkstar2",
-      icon = "__Darkstar_utilities__/graphics/icons/darkstar2.png",
+      icon = "__Darkstar2.0__/graphics/icons/darkstar2.png",
       icon_size = 256,
       inventory_order = "q",
       order = "q"
@@ -283,7 +283,7 @@ data:extend(
     {
       type = "item-group",
       name = "Darkstar3",
-      icon = "__Darkstar_utilities__/graphics/icons/darkstar3.png",
+      icon = "__Darkstar2.0__/graphics/icons/darkstar3.png",
       icon_size = 256,
       inventory_order = "r",
       order = "r"

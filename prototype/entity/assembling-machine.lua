@@ -6,7 +6,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "advanced-chemical-plant",
-            icon = "__Darkstar_utilities__/graphics/entity/advanced-chemical-plant/chemical-plant2-icon.png",
+            icon = "__Darkstar2.0__/graphics/entity/advanced-chemical-plant/chemical-plant2-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "advanced-chemical-plant" },
@@ -33,7 +33,7 @@ data:extend(
                         hr_version =
                         {
                             filename =
-                            "__Darkstar_utilities__/graphics/entity/advanced-chemical-plant/hr-chemical-plant2.png",
+                            "__Darkstar2.0__/graphics/entity/advanced-chemical-plant/hr-chemical-plant2.png",
                             width = 220,
                             height = 292,
                             frame_count = 24,
@@ -312,7 +312,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "assembling-machine-4",
-            icon = "__Darkstar_utilities__/graphics/icons/assembling-machine-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/assembling-machine-4.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "assembling-machine-4" },
@@ -366,7 +366,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/hr-assembling-machine-4.png",
+                            filename = "__Darkstar2.0__/graphics/entity/hr-assembling-machine-4.png",
                             priority = "high",
                             width = 214,
                             height = 237,
@@ -421,7 +421,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "ore-extractor",
-            icon = "__Darkstar_utilities__/graphics/icons/assembling-machine-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/assembling-machine-4.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "ore-extractor" },
@@ -473,7 +473,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/ore-extractor.png",
+                            filename = "__Darkstar2.0__/graphics/entity/ore-extractor.png",
                             priority = "high",
                             width = 214,
                             height = 237,
@@ -528,7 +528,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "vacuum-chamber",
-            icon = "__Darkstar_utilities__/graphics/icons/vacuum-chamber-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/vacuum-chamber-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "vacuum-chamber" },
@@ -580,7 +580,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/vacuum-chamber.png",
+                            filename = "__Darkstar2.0__/graphics/entity/vacuum-chamber.png",
                             priority = "high",
                             width = 214,
                             height = 214,
@@ -601,7 +601,7 @@ data:extend(
                         shift = util.by_pixel(28, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/vacuum-chamber-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/vacuum-chamber-shadow.png",
                             priority = "high",
                             width = 214,
                             height = 214,
@@ -634,7 +634,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "planck-ripper",
-            icon = "__Darkstar_utilities__/graphics/icons/planck-ripper-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/planck-ripper-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "planck-ripper" },
@@ -685,7 +685,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/planck-ripper.png",
+                            filename = "__Darkstar2.0__/graphics/entity/planck-ripper.png",
                             priority = "high",
                             width = 770,
                             height = 520,
@@ -705,7 +705,7 @@ data:extend(
                         shift = util.by_pixel(28, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/vacuum-chamber-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/vacuum-chamber-shadow.png",
                             priority = "high",
                             width = 214,
                             height = 214,
@@ -739,7 +739,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "fish-farm",
-            icon = "__Darkstar_utilities__/graphics/icons/fish-farm-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/fish-farm-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "fish-farm" },
@@ -762,15 +762,15 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/fish-farm-sound.ogg",
+                        filename = "__Darkstar2.0__/sounds/fish-farm-sound.ogg",
                         volume = 0.8
                     },
                     {
-                        filename = "__Darkstar_utilities__/sounds/fish-farm-sound.ogg",
+                        filename = "__Darkstar2.0__/sounds/fish-farm-sound.ogg",
                         volume = 0.8
                     }
                 },
-                idle_sound = { filename = "__Darkstar_utilities__/sounds/fish-farm-sound.ogg", volume = 0.6 },
+                idle_sound = { filename = "__Darkstar2.0__/sounds/fish-farm-sound.ogg", volume = 0.6 },
                 apparent_volume = 1.5
             },
             collision_box = { { -1.2, -1.2 }, { 1.2, 1.2 } },
@@ -782,7 +782,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/fish-farm.png",
+                        filename = "__Darkstar2.0__/graphics/entity/fish-farm.png",
                         priority = "high",
                         width = 255,
                         height = 266,
@@ -791,7 +791,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/fish-farm.png",
+                            filename = "__Darkstar2.0__/graphics/entity/fish-farm.png",
                             priority = "high",
                             width = 255,
                             height = 266,
@@ -802,7 +802,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/fish-farm.png",
+                        filename = "__Darkstar2.0__/graphics/entity/fish-farm.png",
                         priority = "high",
                         width = 255,
                         height = 266,
@@ -812,7 +812,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/fish-farm.png",
+                            filename = "__Darkstar2.0__/graphics/entity/fish-farm.png",
                             priority = "high",
                             width = 255,
                             height = 266,
@@ -842,7 +842,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-1",
-            icon = "__Darkstar_utilities__/graphics/icons/server-1.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-1.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-1" },
@@ -885,7 +885,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/linari-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/linari-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -894,7 +894,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/linari-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/linari-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -923,7 +923,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-2",
-            icon = "__Darkstar_utilities__/graphics/icons/server-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-2" },
@@ -966,7 +966,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/vesili-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/vesili-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -975,7 +975,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/vesili-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/vesili-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -1004,7 +1004,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-3",
-            icon = "__Darkstar_utilities__/graphics/icons/server-3.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-3.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-3" },
@@ -1047,7 +1047,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/messii-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/messii-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -1056,7 +1056,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/messii-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/messii-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -1085,7 +1085,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-4",
-            icon = "__Darkstar_utilities__/graphics/icons/server-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-4.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-4" },
@@ -1128,7 +1128,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/gindralyr-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/gindralyr-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -1137,7 +1137,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/gindralyr-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/gindralyr-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -1166,7 +1166,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-5",
-            icon = "__Darkstar_utilities__/graphics/icons/server-5.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-5.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-5" },
@@ -1209,7 +1209,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/sonelia-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/sonelia-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -1218,7 +1218,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/sonelia-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/sonelia-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -1247,7 +1247,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-6",
-            icon = "__Darkstar_utilities__/graphics/icons/server-6.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-6.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-6" },
@@ -1290,7 +1290,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/yosleon-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/yosleon-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -1299,7 +1299,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/yosleon-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/yosleon-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -1328,7 +1328,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-7",
-            icon = "__Darkstar_utilities__/graphics/icons/server-7.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-7.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-7" },
@@ -1371,7 +1371,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/lurith-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/lurith-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -1380,7 +1380,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/lurith-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/lurith-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -1409,7 +1409,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-8",
-            icon = "__Darkstar_utilities__/graphics/icons/server-8.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-8.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-8" },
@@ -1452,7 +1452,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/ita-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/ita-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -1461,7 +1461,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/ita-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/ita-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -1490,7 +1490,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-9",
-            icon = "__Darkstar_utilities__/graphics/icons/server-9.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-9.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-9" },
@@ -1533,7 +1533,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/lyheia-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/lyheia-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -1542,7 +1542,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/lyheia-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/lyheia-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -1571,7 +1571,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "server-m",
-            icon = "__Darkstar_utilities__/graphics/icons/server-m.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-m.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "server-m" },
@@ -1614,7 +1614,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/servers/moon-server.png",
+                        filename = "__Darkstar2.0__/graphics/entity/servers/moon-server.png",
                         priority = "high",
                         width = 960,
                         height = 540,
@@ -1623,7 +1623,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/servers/moon-server.png",
+                            filename = "__Darkstar2.0__/graphics/entity/servers/moon-server.png",
                             priority = "high",
                             width = 960,
                             height = 540,
@@ -1652,7 +1652,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "iron-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/iron-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/iron-probe-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "iron-probe" },
@@ -1695,7 +1695,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/iron-probe.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/iron-probe.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -1704,7 +1704,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/iron-probe.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/iron-probe.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -1715,7 +1715,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -1725,7 +1725,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -1761,7 +1761,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "copper-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/copper-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/copper-probe-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "copper-probe" },
@@ -1804,7 +1804,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/copper-probe.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/copper-probe.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -1813,7 +1813,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/copper-probe.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/copper-probe.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -1824,7 +1824,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -1834,7 +1834,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -1870,7 +1870,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "gold-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/gold-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/gold-probe-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "gold-probe" },
@@ -1913,7 +1913,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/gold-probe.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/gold-probe.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -1922,7 +1922,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/gold-probe.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/gold-probe.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -1933,7 +1933,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -1943,7 +1943,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -1979,7 +1979,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "uranium-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/uranium-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/uranium-probe-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "uranium-probe" },
@@ -2022,7 +2022,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/uranium-probe.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/uranium-probe.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -2031,7 +2031,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/uranium-probe.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/uranium-probe.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -2042,7 +2042,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -2052,7 +2052,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -2087,7 +2087,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "stone-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/stone-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/stone-probe-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "stone-probe" },
@@ -2130,7 +2130,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/stone-probe.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/stone-probe.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -2139,7 +2139,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/stone-probe.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/stone-probe.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -2150,7 +2150,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -2160,7 +2160,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -2195,7 +2195,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "lead-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/lead-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/lead-probe-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "lead-probe" },
@@ -2238,7 +2238,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/lead-probe.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/lead-probe.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -2247,7 +2247,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/lead-probe.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/lead-probe.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -2258,7 +2258,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -2268,7 +2268,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -2304,7 +2304,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "iron-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/iron-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/iron-probe-icon2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "iron-probe2" },
@@ -2347,7 +2347,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/iron-probe2.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/iron-probe2.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -2356,7 +2356,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/iron-probe2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/iron-probe2.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -2367,7 +2367,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -2377,7 +2377,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -2413,7 +2413,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "copper-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/copper-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/copper-probe-icon2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "copper-probe2" },
@@ -2456,7 +2456,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/copper-probe2.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/copper-probe2.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -2465,7 +2465,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/copper-probe2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/copper-probe2.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -2476,7 +2476,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -2486,7 +2486,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -2522,7 +2522,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "gold-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/gold-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/gold-probe-icon2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "gold-probe2" },
@@ -2565,7 +2565,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/gold-probe.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/gold-probe.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -2574,7 +2574,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/gold-probe.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/gold-probe.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -2585,7 +2585,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -2595,7 +2595,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -2631,7 +2631,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "uranium-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/uranium-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/uranium-probe-icon2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "uranium-probe2" },
@@ -2674,7 +2674,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/uranium-probe2.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/uranium-probe2.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -2683,7 +2683,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/uranium-probe2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/uranium-probe2.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -2694,7 +2694,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -2704,7 +2704,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -2739,7 +2739,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "stone-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/stone-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/stone-probe-icon2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "stone-probe2" },
@@ -2782,7 +2782,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/stone-probe2.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/stone-probe2.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -2791,7 +2791,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/stone-probe2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/stone-probe2.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -2802,7 +2802,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -2812,7 +2812,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -2847,7 +2847,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "lead-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/lead-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/lead-probe-icon2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "lead-probe2" },
@@ -2890,7 +2890,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/lead-probe2.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/lead-probe2.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -2899,7 +2899,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/lead-probe2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/lead-probe2.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -2910,7 +2910,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -2920,7 +2920,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -2956,7 +2956,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "diamond-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/diamond-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/diamond-probe-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "diamond-probe" },
@@ -2999,7 +2999,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/diamond-probe.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/diamond-probe.png",
                         priority = "high",
                         width = 500,
                         height = 500,
@@ -3008,7 +3008,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/diamond-probe.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/diamond-probe.png",
                             priority = "high",
                             width = 500,
                             height = 500,
@@ -3019,7 +3019,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                         priority = "high",
                         width = 845,
                         height = 500,
@@ -3029,7 +3029,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/probe/probe-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/probe/probe-shadow.png",
                             priority = "high",
                             width = 845,
                             height = 500,
@@ -3065,7 +3065,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "brain-grower",
-            icon = "__Darkstar_utilities__/graphics/icons/brain-grower-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/brain-grower-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "brain-grower" },
@@ -3088,15 +3088,15 @@ data:extend(
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/think-tank.ogg",
+                        filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                         volume = 0.8
                     },
                     {
-                        filename = "__Darkstar_utilities__/sounds/think-tank.ogg",
+                        filename = "__Darkstar2.0__/sounds/think-tank.ogg",
                         volume = 0.8
                     }
                 },
-                idle_sound = { filename = "__Darkstar_utilities__/sounds/think-tank.ogg", volume = 0.6 },
+                idle_sound = { filename = "__Darkstar2.0__/sounds/think-tank.ogg", volume = 0.6 },
                 apparent_volume = 1.5
             },
             collision_box = { { -1.2, -1.2 }, { 1.2, 1.2 } },
@@ -3108,7 +3108,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/solar-panel/brain-grower.png",
+                        filename = "__Darkstar2.0__/graphics/entity/solar-panel/brain-grower.png",
                         priority = "high",
                         width = 519,
                         height = 463,
@@ -3117,7 +3117,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/solar-panel/brain-grower.png",
+                            filename = "__Darkstar2.0__/graphics/entity/solar-panel/brain-grower.png",
                             priority = "high",
                             width = 519,
                             height = 463,
@@ -3128,7 +3128,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/solar-panel/brain-grower.png",
+                        filename = "__Darkstar2.0__/graphics/entity/solar-panel/brain-grower.png",
                         priority = "high",
                         width = 519,
                         height = 463,
@@ -3138,7 +3138,7 @@ data:extend(
                         shift = util.by_pixel(16, 4),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/solar-panel/brain-grower.png",
+                            filename = "__Darkstar2.0__/graphics/entity/solar-panel/brain-grower.png",
                             priority = "high",
                             width = 519,
                             height = 463,
@@ -3173,7 +3173,7 @@ data:extend(
         {
             type = "assembling-machine",
             name = "biodome",
-            icon = "__Darkstar_utilities__/graphics/icons/biodome-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/biodome-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation", "not-rotatable" },
             minable = { hardness = 0.2, mining_time = 2.5, result = "biodome" },
@@ -3188,23 +3188,23 @@ data:extend(
                     percent = 70
                 }
             },
-            open_sound = { filename = "__Darkstar_utilities__/sounds/biodome-open.ogg", volume = 0.85 },
-            close_sound = { filename = "__Darkstar_utilities__/sounds/biodome-close.ogg", volume = 0.75 },
+            open_sound = { filename = "__Darkstar2.0__/sounds/biodome-open.ogg", volume = 0.85 },
+            close_sound = { filename = "__Darkstar2.0__/sounds/biodome-close.ogg", volume = 0.75 },
             vehicle_impact_sound = { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
             working_sound =
             {
                 sound =
                 {
                     {
-                        filename = "__Darkstar_utilities__/sounds/biodome.ogg",
+                        filename = "__Darkstar2.0__/sounds/biodome.ogg",
                         volume = 0.8
                     },
                     {
-                        filename = "__Darkstar_utilities__/sounds/biodome.ogg",
+                        filename = "__Darkstar2.0__/sounds/biodome.ogg",
                         volume = 0.8
                     }
                 },
-                idle_sound = { filename = "__Darkstar_utilities__/sounds/biodome.ogg", volume = 0.6 },
+                idle_sound = { filename = "__Darkstar2.0__/sounds/biodome.ogg", volume = 0.6 },
                 apparent_volume = 1.5
             },
             collision_box = { { -18.9, -15.8 }, { 18.2, 16.6 } },
@@ -3216,7 +3216,7 @@ data:extend(
                 layers =
                 {
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/biodome/biodome-on.png",
+                        filename = "__Darkstar2.0__/graphics/entity/biodome/biodome-on.png",
                         priority = "high",
                         width = 1200,
                         height = 1200,
@@ -3225,7 +3225,7 @@ data:extend(
                         shift = util.by_pixel(0, -0.5),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/biodome/biodome-on.png",
+                            filename = "__Darkstar2.0__/graphics/entity/biodome/biodome-on.png",
                             priority = "high",
                             width = 1200,
                             height = 1200,
@@ -3236,7 +3236,7 @@ data:extend(
                         }
                     },
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/biodome/biodome-shadow.png",
+                        filename = "__Darkstar2.0__/graphics/entity/biodome/biodome-shadow.png",
                         priority = "high",
                         width = 225,
                         height = 1200,
@@ -3246,7 +3246,7 @@ data:extend(
                         shift = util.by_pixel(690, 10),
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/biodome/biodome-shadow.png",
+                            filename = "__Darkstar2.0__/graphics/entity/biodome/biodome-shadow.png",
                             priority = "high",
                             width = 225,
                             height = 1200,
@@ -3306,7 +3306,7 @@ data:extend(
             {
                 north =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/oil-refinery-mk2/oil-refinery.png",
+                    filename = "__Darkstar2.0__/graphics/entity/oil-refinery-mk2/oil-refinery.png",
                     width = 337,
                     height = 255,
                     frame_count = 1,
@@ -3314,7 +3314,7 @@ data:extend(
                 },
                 east =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/oil-refinery-mk2/oil-refinery.png",
+                    filename = "__Darkstar2.0__/graphics/entity/oil-refinery-mk2/oil-refinery.png",
                     x = 337,
                     width = 337,
                     height = 255,
@@ -3323,7 +3323,7 @@ data:extend(
                 },
                 south =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/oil-refinery-mk2/oil-refinery.png",
+                    filename = "__Darkstar2.0__/graphics/entity/oil-refinery-mk2/oil-refinery.png",
                     x = 674,
                     width = 337,
                     height = 255,
@@ -3332,7 +3332,7 @@ data:extend(
                 },
                 west =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/oil-refinery-mk2/oil-refinery.png",
+                    filename = "__Darkstar2.0__/graphics/entity/oil-refinery-mk2/oil-refinery.png",
                     x = 1011,
                     width = 337,
                     height = 255,

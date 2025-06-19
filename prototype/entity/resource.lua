@@ -86,7 +86,7 @@ data:extend(
             {
                 sheet =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/gold-ore.png",
+                    filename = "__Darkstar2.0__/graphics/entity/gold-ore.png",
                     priority = "extra-high",
                     width = 64,
                     height = 64,
@@ -180,7 +180,7 @@ data:extend(
             {
                 sheet =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/lithium-ore.png",
+                    filename = "__Darkstar2.0__/graphics/entity/lithium-ore.png",
                     priority = "extra-high",
                     width = 64,
                     height = 64,
@@ -274,7 +274,7 @@ data:extend(
             {
                 sheet =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/lead-ore.png",
+                    filename = "__Darkstar2.0__/graphics/entity/lead-ore.png",
                     priority = "extra-high",
                     width = 64,
                     height = 64,

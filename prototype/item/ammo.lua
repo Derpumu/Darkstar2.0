@@ -6,7 +6,7 @@ data:extend(
         {
             type = "ammo",
             name = "explosive-rocket-mk2",
-            icon = "__Darkstar_utilities__/graphics/ammo/railgun-ammo1.png",
+            icon = "__Darkstar2.0__/graphics/ammo/railgun-ammo1.png",
             icon_size = 32,
             icon_mipmaps = 1,
 
@@ -48,7 +48,7 @@ data:extend(
         {
             type = "ammo",
             name = "railgun-mk2-round",
-            icon = "__Darkstar_utilities__/graphics/ammo/railgun-ammo2.png",
+            icon = "__Darkstar2.0__/graphics/ammo/railgun-ammo2.png",
             icon_size = 32,
 
             ammo_type =
@@ -87,7 +87,7 @@ data:extend(
         {
             type = "ammo",
             name = "railgun-mk2-round2",
-            icon = "__Darkstar_utilities__/graphics/ammo/railgun-ammo2.png",
+            icon = "__Darkstar2.0__/graphics/ammo/railgun-ammo2.png",
             icon_size = 32,
 
             ammo_type =
@@ -126,7 +126,7 @@ data:extend(
         {
             type = "ammo",
             name = "railgun-mk2-round2",
-            icon = "__Darkstar_utilities__/graphics/ammo/railgun-ammo3.png",
+            icon = "__Darkstar2.0__/graphics/ammo/railgun-ammo3.png",
             icon_size = 32,
 
             ammo_type =
@@ -256,7 +256,7 @@ data:extend(
         {
             type = "ammo",
             name = "bullet-mk2",
-            icon = "__Darkstar_utilities__/graphics/ammo/explosive-bullet-magazine.png",
+            icon = "__Darkstar2.0__/graphics/ammo/explosive-bullet-magazine.png",
             icon_size = 32,
 
             ammo_type =
@@ -302,7 +302,7 @@ data:extend(
         {
             type = "ammo",
             name = "bullet-mk3",
-            icon = "__Darkstar_utilities__/graphics/ammo/explosive-bullet-magazine2.png",
+            icon = "__Darkstar2.0__/graphics/ammo/explosive-bullet-magazine2.png",
             icon_size = 32,
 
             ammo_type =
@@ -348,7 +348,7 @@ data:extend(
         {
             type = "ammo",
             name = "bullet-mk4",
-            icon = "__Darkstar_utilities__/graphics/ammo/explosive-bullet-magazine3.png",
+            icon = "__Darkstar2.0__/graphics/ammo/explosive-bullet-magazine3.png",
             icon_size = 32,
 
             ammo_type =
@@ -394,7 +394,7 @@ data:extend(
         {
             type = "ammo",
             name = "healing-bullet",
-            icon = "__Darkstar_utilities__/graphics/ammo/explosive-bullet-magazine.png",
+            icon = "__Darkstar2.0__/graphics/ammo/explosive-bullet-magazine.png",
             icon_size = 32,
 
             ammo_type =
@@ -441,7 +441,7 @@ data:extend(
         {
             type = "ammo",
             name = "end-game-bullet",
-            icon = "__Darkstar_utilities__/graphics/ammo/quantum-shell.png",
+            icon = "__Darkstar2.0__/graphics/ammo/quantum-shell.png",
             icon_size = 32,
 
             ammo_type =
@@ -488,7 +488,7 @@ data:extend(
         {
             type = "ammo",
             name = "end-game-bullet-2",
-            icon = "__Darkstar_utilities__/graphics/ammo/quantum-shell-2.png",
+            icon = "__Darkstar2.0__/graphics/ammo/quantum-shell-2.png",
             icon_size = 32,
 
             ammo_type =
@@ -535,7 +535,7 @@ data:extend(
         {
             type = "ammo",
             name = "sniper-round",
-            icon = "__Darkstar_utilities__/graphics/ammo/sniper-bullet.png",
+            icon = "__Darkstar2.0__/graphics/ammo/sniper-bullet.png",
             icon_size = 32,
 
             ammo_type =
@@ -581,7 +581,7 @@ data:extend(
         {
             type = "ammo",
             name = "sniper-round-mk2",
-            icon = "__Darkstar_utilities__/graphics/ammo/sniper-bullet2.png",
+            icon = "__Darkstar2.0__/graphics/ammo/sniper-bullet2.png",
             icon_size = 32,
 
             ammo_type =
@@ -627,7 +627,7 @@ data:extend(
         {
             type = "ammo",
             name = "sniper-round-mk3",
-            icon = "__Darkstar_utilities__/graphics/ammo/sniper-bullet2.png",
+            icon = "__Darkstar2.0__/graphics/ammo/sniper-bullet2.png",
             icon_size = 32,
 
             ammo_type =

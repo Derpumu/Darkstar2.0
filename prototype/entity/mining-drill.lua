@@ -6,7 +6,7 @@ data:extend(
         {
             type = "mining-drill",
             name = "laser-miner",
-            icon = "__Darkstar_utilities__/graphics/icons/laser-drill-icon1.png",
+            icon = "__Darkstar2.0__/graphics/icons/laser-drill-icon1.png",
             fast_replaceable_group = "mining-drill",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
@@ -20,7 +20,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/laser-drill.ogg",
+                    filename = "__Darkstar2.0__/sounds/laser-drill.ogg",
                     volume = 0.75
                 },
                 apparent_volume = 1.5,
@@ -36,7 +36,7 @@ data:extend(
                     line_height = 7,
                     shift = { 0.2, -0.4 },
                     scale = 0.55,
-                    filename = "__Darkstar_utilities__/graphics/entity/laser-miner/laser-miner.png",
+                    filename = "__Darkstar2.0__/graphics/entity/laser-miner/laser-miner.png",
                     frame_count = 56,
                     animation_speed = 0.325,
                     run_mode = "forward-then-backward",
@@ -68,7 +68,7 @@ data:extend(
         {
             type = "mining-drill",
             name = "neural-miner",
-            icon = "__Darkstar_utilities__/graphics/icons/laser-drill-icon1.png",
+            icon = "__Darkstar2.0__/graphics/icons/laser-drill-icon1.png",
             fast_replaceable_group = "mining-drill",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
@@ -82,7 +82,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/neural-miner.ogg",
+                    filename = "__Darkstar2.0__/sounds/neural-miner.ogg",
                     volume = 0.75
                 },
                 apparent_volume = 1.5,
@@ -96,7 +96,7 @@ data:extend(
                     height = 600,
                     line_length = 5,
                     shift = { 0.2, -0.2 },
-                    filename = "__Darkstar_utilities__/graphics/entity/laser-miner/neural-miner.png",
+                    filename = "__Darkstar2.0__/graphics/entity/laser-miner/neural-miner.png",
                     frame_count = 30,
                     animation_speed = 0.325,
                     run_mode = "forward",
@@ -129,7 +129,7 @@ data:extend(
         {
             type = "mining-drill",
             name = "laser-miner2",
-            icon = "__Darkstar_utilities__/graphics/icons/laser-drill-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/laser-drill-icon2.png",
             fast_replaceable_group = "mining-drill",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
@@ -143,7 +143,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/laser-drill.ogg",
+                    filename = "__Darkstar2.0__/sounds/laser-drill.ogg",
                     volume = 0.75
                 },
                 apparent_volume = 1.5,
@@ -159,7 +159,7 @@ data:extend(
                     line_height = 7,
                     shift = { 0.2, -0.4 },
                     scale = 0.55,
-                    filename = "__Darkstar_utilities__/graphics/entity/laser-miner/laser-miner2.png",
+                    filename = "__Darkstar2.0__/graphics/entity/laser-miner/laser-miner2.png",
                     frame_count = 56,
                     animation_speed = 0.325,
                     run_mode = "forward-then-backward",
@@ -191,7 +191,7 @@ data:extend(
         {
             type = "mining-drill",
             name = "neural-miner-2",
-            icon = "__Darkstar_utilities__/graphics/icons/laser-drill-icon1.png",
+            icon = "__Darkstar2.0__/graphics/icons/laser-drill-icon1.png",
             fast_replaceable_group = "mining-drill",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
@@ -205,7 +205,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/neural-miner.ogg",
+                    filename = "__Darkstar2.0__/sounds/neural-miner.ogg",
                     volume = 0.75
                 },
                 apparent_volume = 1.5,
@@ -219,7 +219,7 @@ data:extend(
                     height = 600,
                     line_length = 5,
                     shift = { 0.2, -0.2 },
-                    filename = "__Darkstar_utilities__/graphics/entity/laser-miner/neural-miner-2.png",
+                    filename = "__Darkstar2.0__/graphics/entity/laser-miner/neural-miner-2.png",
                     frame_count = 30,
                     animation_speed = 0.325,
                     run_mode = "forward",
@@ -252,7 +252,7 @@ data:extend(
         {
             type = "mining-drill",
             name = "laser-miner3",
-            icon = "__Darkstar_utilities__/graphics/icons/laser-drill-icon3.png",
+            icon = "__Darkstar2.0__/graphics/icons/laser-drill-icon3.png",
             fast_replaceable_group = "mining-drill",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
@@ -266,7 +266,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/laser-drill.ogg",
+                    filename = "__Darkstar2.0__/sounds/laser-drill.ogg",
                     volume = 0.75
                 },
                 apparent_volume = 1.5,
@@ -282,7 +282,7 @@ data:extend(
                     line_height = 7,
                     shift = { 0.2, -0.4 },
                     scale = 0.55,
-                    filename = "__Darkstar_utilities__/graphics/entity/laser-miner/laser-miner3.png",
+                    filename = "__Darkstar2.0__/graphics/entity/laser-miner/laser-miner3.png",
                     frame_count = 56,
                     animation_speed = 0.325,
                     run_mode = "forward-then-backward",
@@ -314,7 +314,7 @@ data:extend(
         {
             type = "mining-drill",
             name = "neural-miner-3",
-            icon = "__Darkstar_utilities__/graphics/icons/laser-drill-icon1.png",
+            icon = "__Darkstar2.0__/graphics/icons/laser-drill-icon1.png",
             fast_replaceable_group = "mining-drill",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
@@ -328,7 +328,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/neural-miner.ogg",
+                    filename = "__Darkstar2.0__/sounds/neural-miner.ogg",
                     volume = 0.75
                 },
                 apparent_volume = 1.5,
@@ -342,7 +342,7 @@ data:extend(
                     height = 600,
                     line_length = 5,
                     shift = { 0.2, -0.2 },
-                    filename = "__Darkstar_utilities__/graphics/entity/laser-miner/neural-miner-3.png",
+                    filename = "__Darkstar2.0__/graphics/entity/laser-miner/neural-miner-3.png",
                     frame_count = 30,
                     animation_speed = 0.325,
                     run_mode = "forward",
@@ -375,7 +375,7 @@ data:extend(
         {
             type = "mining-drill",
             name = "laser-miner4",
-            icon = "__Darkstar_utilities__/graphics/icons/laser-drill-icon4.png",
+            icon = "__Darkstar2.0__/graphics/icons/laser-drill-icon4.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             fast_replaceable_group = "mining-drill",
@@ -389,7 +389,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/laser-drill.ogg",
+                    filename = "__Darkstar2.0__/sounds/laser-drill.ogg",
                     volume = 0.75
                 },
                 apparent_volume = 1.5,
@@ -405,7 +405,7 @@ data:extend(
                     line_height = 7,
                     shift = { 0.2, -0.4 },
                     scale = 0.55,
-                    filename = "__Darkstar_utilities__/graphics/entity/laser-miner/laser-miner4.png",
+                    filename = "__Darkstar2.0__/graphics/entity/laser-miner/laser-miner4.png",
                     frame_count = 56,
                     animation_speed = 0.325,
                     run_mode = "forward-then-backward",
@@ -437,7 +437,7 @@ data:extend(
         {
             type = "mining-drill",
             name = "neural-miner-4",
-            icon = "__Darkstar_utilities__/graphics/icons/laser-drill-icon1.png",
+            icon = "__Darkstar2.0__/graphics/icons/laser-drill-icon1.png",
             fast_replaceable_group = "mining-drill",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
@@ -451,7 +451,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/neural-miner.ogg",
+                    filename = "__Darkstar2.0__/sounds/neural-miner.ogg",
                     volume = 0.75
                 },
                 apparent_volume = 1.5,
@@ -465,7 +465,7 @@ data:extend(
                     height = 600,
                     line_length = 5,
                     shift = { 0.2, -0.2 },
-                    filename = "__Darkstar_utilities__/graphics/entity/laser-miner/neural-miner-4.png",
+                    filename = "__Darkstar2.0__/graphics/entity/laser-miner/neural-miner-4.png",
                     frame_count = 30,
                     animation_speed = 0.325,
                     run_mode = "forward",
@@ -566,7 +566,7 @@ data:extend(
                     height = 110,
                     line_length = 10,
                     shift = { 0.125, -0.71875 },
-                    filename = "__Darkstar_utilities__/graphics/entity/pumpjack/pumpjack-animation.png",
+                    filename = "__Darkstar2.0__/graphics/entity/pumpjack/pumpjack-animation.png",
                     frame_count = 40,
                     animation_speed = 0.5
                 }

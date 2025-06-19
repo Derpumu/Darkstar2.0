@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "dense-iron-ore",
-            icon = "__Darkstar_utilities__/graphics/icons/dense-iron-ore.png",
+            icon = "__Darkstar2.0__/graphics/icons/dense-iron-ore.png",
             icon_size = 32,
             subgroup = "raw-resource",
             order = "t[dense-iron-ore]",
@@ -16,7 +16,7 @@ data:extend(
         {
             type = "item",
             name = "dense-copper-ore",
-            icon = "__Darkstar_utilities__/graphics/icons/dense-copper-ore.png",
+            icon = "__Darkstar2.0__/graphics/icons/dense-copper-ore.png",
             icon_size = 32,
             subgroup = "raw-resource",
             order = "u[dense-copper-ore]",
@@ -26,7 +26,7 @@ data:extend(
         {
             type = "item",
             name = "dense-lead-ore",
-            icon = "__Darkstar_utilities__/graphics/icons/dense-lead-ore.png",
+            icon = "__Darkstar2.0__/graphics/icons/dense-lead-ore.png",
             icon_size = 32,
             subgroup = "raw-resource",
             order = "v[dense-lead-ore]",
@@ -36,7 +36,7 @@ data:extend(
         {
             type = "item",
             name = "dense-gold-ore",
-            icon = "__Darkstar_utilities__/graphics/icons/dense-gold-ore.png",
+            icon = "__Darkstar2.0__/graphics/icons/dense-gold-ore.png",
             icon_size = 32,
             subgroup = "raw-resource",
             order = "w[dense-gold-ore]",
@@ -46,7 +46,7 @@ data:extend(
         {
             type = "item",
             name = "dense-stone",
-            icon = "__Darkstar_utilities__/graphics/icons/dense-stone-ore.png",
+            icon = "__Darkstar2.0__/graphics/icons/dense-stone-ore.png",
             icon_size = 32,
             subgroup = "raw-resource",
             order = "x[dense-stone-ore]",
@@ -56,7 +56,7 @@ data:extend(
         {
             type = "item",
             name = "dense-uranium-ore",
-            icon = "__Darkstar_utilities__/graphics/icons/dense-uranium.png",
+            icon = "__Darkstar2.0__/graphics/icons/dense-uranium.png",
             icon_size = 64,
             subgroup = "raw-resource",
             order = "y[dense-uranium-ore]",
@@ -66,7 +66,7 @@ data:extend(
         {
             type = "item",
             name = "anode-mud",
-            icon = "__Darkstar_utilities__/graphics/icons/anode-mud.png",
+            icon = "__Darkstar2.0__/graphics/icons/anode-mud.png",
             icon_size = 32,
             subgroup = "raw-resource",
             order = "y-[dense-uranium-ore]",
@@ -75,7 +75,7 @@ data:extend(
         {
             type = "item",
             name = "quantum-particle",
-            icon = "__Darkstar_utilities__/graphics/icons/quantum-particle.png",
+            icon = "__Darkstar2.0__/graphics/icons/quantum-particle.png",
             icon_size = 32,
 
             subgroup = "raw-resource",
@@ -85,7 +85,7 @@ data:extend(
         {
             type = "item",
             name = "gold-ore",
-            icon = "__Darkstar_utilities__/graphics/icons/gold-ore.png",
+            icon = "__Darkstar2.0__/graphics/icons/gold-ore.png",
             icon_size = 32,
 
             subgroup = "raw-resource",
@@ -96,7 +96,7 @@ data:extend(
         {
             type = "item",
             name = "lithium-ore",
-            icon = "__Darkstar_utilities__/graphics/icons/lithium-ore.png",
+            icon = "__Darkstar2.0__/graphics/icons/lithium-ore.png",
             icon_size = 32,
 
             subgroup = "raw-resource",
@@ -107,7 +107,7 @@ data:extend(
         {
             type = "item",
             name = "gold-plate",
-            icon = "__Darkstar_utilities__/graphics/icons/gold-plate.png",
+            icon = "__Darkstar2.0__/graphics/icons/gold-plate.png",
             icon_size = 32,
 
             subgroup = "raw-resource",
@@ -119,7 +119,7 @@ data:extend(
         {
             type = "item",
             name = "lithium-steel-plate",
-            icon = "__Darkstar_utilities__/graphics/icons/lithium-steel-plate.png",
+            icon = "__Darkstar2.0__/graphics/icons/lithium-steel-plate.png",
             icon_size = 32,
 
             subgroup = "raw-resource",
@@ -130,7 +130,7 @@ data:extend(
         {
             type = "item",
             name = "lithusarium-plate",
-            icon = "__Darkstar_utilities__/graphics/icons/lithusarium-plate.png",
+            icon = "__Darkstar2.0__/graphics/icons/lithusarium-plate.png",
             icon_size = 32,
 
             subgroup = "raw-resource",
@@ -141,7 +141,7 @@ data:extend(
         {
             type = "item",
             name = "ciusitral-plate",
-            icon = "__Darkstar_utilities__/graphics/icons/ciusitral-plate.png",
+            icon = "__Darkstar2.0__/graphics/icons/ciusitral-plate.png",
             icon_size = 32,
 
             subgroup = "raw-resource",
@@ -152,7 +152,7 @@ data:extend(
         {
             type = "item",
             name = "rhusanthium-plate",
-            icon = "__Darkstar_utilities__/graphics/icons/rhusanthium-plate.png",
+            icon = "__Darkstar2.0__/graphics/icons/rhusanthium-plate.png",
             icon_size = 32,
 
             subgroup = "raw-resource",
@@ -162,7 +162,7 @@ data:extend(
         {
             type = "item",
             name = "lead-ore",
-            icon = "__Darkstar_utilities__/graphics/icons/lead.png",
+            icon = "__Darkstar2.0__/graphics/icons/lead.png",
             icon_size = 32,
 
             subgroup = "raw-resource",
@@ -172,7 +172,7 @@ data:extend(
         {
             type = "item",
             name = "diamond",
-            icon = "__Darkstar_utilities__/graphics/icons/diamond-ore.png",
+            icon = "__Darkstar2.0__/graphics/icons/diamond-ore.png",
             icon_size = 32,
 
             subgroup = "raw-resource",

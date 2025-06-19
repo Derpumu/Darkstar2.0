@@ -5,7 +5,7 @@ data:extend(
         {
             type = "furnace",
             name = "terra-electric-furnace",
-            icon = "__Darkstar_utilities__/graphics/icons/electric-furnace2.png",
+            icon = "__Darkstar2.0__/graphics/icons/electric-furnace2.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "terra-electric-furnace" },
@@ -51,7 +51,7 @@ data:extend(
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/terra-furnace/electric-furnace-base.png",
+                filename = "__Darkstar2.0__/graphics/entity/terra-furnace/electric-furnace-base.png",
                 priority = "high",
                 width = 129,
                 height = 100,
@@ -63,7 +63,7 @@ data:extend(
                 {
                     animation =
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/terra-furnace/electric-furnace-heater.png",
+                        filename = "__Darkstar2.0__/graphics/entity/terra-furnace/electric-furnace-heater.png",
                         priority = "high",
                         width = 25,
                         height = 15,
@@ -77,7 +77,7 @@ data:extend(
                     animation =
                     {
                         filename =
-                        "__Darkstar_utilities__/graphics/entity/terra-furnace/electric-furnace-propeller-1.png",
+                        "__Darkstar2.0__/graphics/entity/terra-furnace/electric-furnace-propeller-1.png",
                         priority = "high",
                         width = 19,
                         height = 13,
@@ -90,7 +90,7 @@ data:extend(
                     animation =
                     {
                         filename =
-                        "__Darkstar_utilities__/graphics/entity/terra-furnace/electric-furnace-propeller-2.png",
+                        "__Darkstar2.0__/graphics/entity/terra-furnace/electric-furnace-propeller-2.png",
                         priority = "high",
                         width = 12,
                         height = 9,
@@ -106,7 +106,7 @@ data:extend(
         {
             type = "furnace",
             name = "furnace-house",
-            icon = "__Darkstar_utilities__/graphics/icons/smelting-warehouse-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/smelting-warehouse-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation", "not-rotatable" },
             minable = { mining_time = 1, result = "furnace-house" },
@@ -153,7 +153,7 @@ data:extend(
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse-furnace.png",
+                filename = "__Darkstar2.0__/graphics/entity/storage/warehouse-furnace.png",
                 priority = "extra-high",
                 frame_count = 1,
                 width = 550,
@@ -164,7 +164,7 @@ data:extend(
             {
                 animation =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse-furnace.png",
+                    filename = "__Darkstar2.0__/graphics/entity/storage/warehouse-furnace.png",
                     priority = "extra-high",
                     frame_count = 1,
                     animation_speed = 0,
@@ -180,7 +180,7 @@ data:extend(
         {
             type = "furnace",
             name = "furnace-house-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/smelting-warehouse-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/smelting-warehouse-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "furnace-house-mk2" },
@@ -227,7 +227,7 @@ data:extend(
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse-furnace2.png",
+                filename = "__Darkstar2.0__/graphics/entity/storage/warehouse-furnace2.png",
                 priority = "extra-high",
                 frame_count = 1,
                 width = 1100,
@@ -238,7 +238,7 @@ data:extend(
             {
                 animation =
                 {
-                    filename = "__Darkstar_utilities__/graphics/entity/storage/warehouse-furnace2.png",
+                    filename = "__Darkstar2.0__/graphics/entity/storage/warehouse-furnace2.png",
                     priority = "extra-high",
                     frame_count = 1,
                     animation_speed = 0,
@@ -254,7 +254,7 @@ data:extend(
         {
             type = "furnace",
             name = "air-filter",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC1-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC1-i.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "air-filter" },
@@ -293,14 +293,14 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/filter.ogg",
+                    filename = "__Darkstar2.0__/sounds/filter.ogg",
                     volume = 0.7
                 },
                 apparent_volume = 1.5
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/filters/TFAC1.png",
+                filename = "__Darkstar2.0__/graphics/entity/filters/TFAC1.png",
                 priority = "high",
                 width = 770,
                 height = 520,
@@ -313,7 +313,7 @@ data:extend(
                 {
                     animation =
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/filters/filter-grill-1.png",
+                        filename = "__Darkstar2.0__/graphics/entity/filters/filter-grill-1.png",
                         priority = "high",
                         width = 85,
                         height = 260,
@@ -331,7 +331,7 @@ data:extend(
         {
             type = "furnace",
             name = "air-filter-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC2-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC2-i.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "air-filter-mk2" },
@@ -370,14 +370,14 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/filter.ogg",
+                    filename = "__Darkstar2.0__/sounds/filter.ogg",
                     volume = 0.7
                 },
                 apparent_volume = 1.5
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/filters/TFAC2.png",
+                filename = "__Darkstar2.0__/graphics/entity/filters/TFAC2.png",
                 priority = "high",
                 width = 770,
                 height = 520,
@@ -390,7 +390,7 @@ data:extend(
                 {
                     animation =
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/filters/filter-grill-2.png",
+                        filename = "__Darkstar2.0__/graphics/entity/filters/filter-grill-2.png",
                         priority = "high",
                         width = 85,
                         height = 260,
@@ -408,7 +408,7 @@ data:extend(
         {
             type = "furnace",
             name = "air-filter-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC3-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC3-i.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "air-filter-mk3" },
@@ -447,14 +447,14 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/filter.ogg",
+                    filename = "__Darkstar2.0__/sounds/filter.ogg",
                     volume = 0.7
                 },
                 apparent_volume = 1.5
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/filters/TFAC3.png",
+                filename = "__Darkstar2.0__/graphics/entity/filters/TFAC3.png",
                 priority = "high",
                 width = 770,
                 height = 520,
@@ -467,7 +467,7 @@ data:extend(
                 {
                     animation =
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/filters/filter-grill-3.png",
+                        filename = "__Darkstar2.0__/graphics/entity/filters/filter-grill-3.png",
                         priority = "high",
                         width = 85,
                         height = 260,
@@ -485,7 +485,7 @@ data:extend(
         {
             type = "furnace",
             name = "air-filter-mk4",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC4-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC4-i.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "air-filter-mk4" },
@@ -524,14 +524,14 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/filter.ogg",
+                    filename = "__Darkstar2.0__/sounds/filter.ogg",
                     volume = 0.7
                 },
                 apparent_volume = 1.5
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/filters/TFAC4.png",
+                filename = "__Darkstar2.0__/graphics/entity/filters/TFAC4.png",
                 priority = "high",
                 width = 770,
                 height = 520,
@@ -544,7 +544,7 @@ data:extend(
                 {
                     animation =
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/filters/filter-grill-4.png",
+                        filename = "__Darkstar2.0__/graphics/entity/filters/filter-grill-4.png",
                         priority = "high",
                         width = 85,
                         height = 260,
@@ -562,7 +562,7 @@ data:extend(
         {
             type = "furnace",
             name = "air-filter-mk5",
-            icon = "__Darkstar_utilities__/graphics/icons/TFAC5-i.png",
+            icon = "__Darkstar2.0__/graphics/icons/TFAC5-i.png",
             icon_size = 32,
             flags = { "placeable-neutral", "placeable-player", "player-creation" },
             minable = { mining_time = 1, result = "air-filter-mk5" },
@@ -601,14 +601,14 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/filter.ogg",
+                    filename = "__Darkstar2.0__/sounds/filter.ogg",
                     volume = 0.7
                 },
                 apparent_volume = 1.5
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/filters/TFAC5.png",
+                filename = "__Darkstar2.0__/graphics/entity/filters/TFAC5.png",
                 priority = "high",
                 width = 770,
                 height = 520,
@@ -621,7 +621,7 @@ data:extend(
                 {
                     animation =
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/filters/filter-grill-5.png",
+                        filename = "__Darkstar2.0__/graphics/entity/filters/filter-grill-5.png",
                         priority = "high",
                         width = 85,
                         height = 260,
@@ -692,7 +692,7 @@ data:extend(
             },
             animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/brick-furnace/brick-furnace.png",
+                filename = "__Darkstar2.0__/graphics/entity/brick-furnace/brick-furnace.png",
                 priority = "extra-high",
                 width = 81,
                 height = 64,
@@ -708,7 +708,7 @@ data:extend(
                     west_position = { 0.0, 0.0 },
                     animation =
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/brick-furnace/stone-furnace-fire.png",
+                        filename = "__Darkstar2.0__/graphics/entity/brick-furnace/stone-furnace-fire.png",
                         priority = "extra-high",
                         width = 23,
                         height = 27,

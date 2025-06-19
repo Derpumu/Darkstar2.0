@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "server-1",
-            icon = "__Darkstar_utilities__/graphics/icons/server-1.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-1.png",
             icon_size = 32,
             subgroup = "servers",
             order = "1[server][server]",
@@ -17,7 +17,7 @@ data:extend(
         {
             type = "item",
             name = "server-2",
-            icon = "__Darkstar_utilities__/graphics/icons/server-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-2.png",
             icon_size = 32,
             subgroup = "servers",
             order = "2[server][server]",
@@ -28,7 +28,7 @@ data:extend(
         {
             type = "item",
             name = "server-3",
-            icon = "__Darkstar_utilities__/graphics/icons/server-3.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-3.png",
             icon_size = 32,
             subgroup = "servers",
             order = "3[server][server]",
@@ -39,7 +39,7 @@ data:extend(
         {
             type = "item",
             name = "server-4",
-            icon = "__Darkstar_utilities__/graphics/icons/server-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-4.png",
             icon_size = 32,
             subgroup = "servers",
             order = "4[server][server]",
@@ -50,7 +50,7 @@ data:extend(
         {
             type = "item",
             name = "server-5",
-            icon = "__Darkstar_utilities__/graphics/icons/server-5.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-5.png",
             icon_size = 32,
             subgroup = "servers",
             order = "5[server][server]",
@@ -61,7 +61,7 @@ data:extend(
         {
             type = "item",
             name = "server-6",
-            icon = "__Darkstar_utilities__/graphics/icons/server-6.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-6.png",
             icon_size = 32,
             subgroup = "servers",
             order = "6[server][server]",
@@ -72,7 +72,7 @@ data:extend(
         {
             type = "item",
             name = "server-7",
-            icon = "__Darkstar_utilities__/graphics/icons/server-7.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-7.png",
             icon_size = 32,
             subgroup = "servers",
             order = "7[server][server]",
@@ -83,7 +83,7 @@ data:extend(
         {
             type = "item",
             name = "server-8",
-            icon = "__Darkstar_utilities__/graphics/icons/server-8.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-8.png",
             icon_size = 32,
             subgroup = "servers",
             order = "8[server][server]",
@@ -94,7 +94,7 @@ data:extend(
         {
             type = "item",
             name = "server-9",
-            icon = "__Darkstar_utilities__/graphics/icons/server-9.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-9.png",
             icon_size = 32,
             subgroup = "servers",
             order = "9[server][server]",
@@ -105,7 +105,7 @@ data:extend(
         {
             type = "item",
             name = "server-m",
-            icon = "__Darkstar_utilities__/graphics/icons/server-m.png",
+            icon = "__Darkstar2.0__/graphics/icons/server-m.png",
             icon_size = 32,
             subgroup = "servers",
             order = "z[server][server]",

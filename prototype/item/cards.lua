@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "card-1",
-            icon = "__Darkstar_utilities__/graphics/icons/card-1.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-1.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -18,7 +18,7 @@ data:extend(
         {
             type = "item",
             name = "card-2",
-            icon = "__Darkstar_utilities__/graphics/icons/card-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-2.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item",
             name = "card-2",
-            icon = "__Darkstar_utilities__/graphics/icons/card-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-2.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -42,7 +42,7 @@ data:extend(
         {
             type = "item",
             name = "card-3",
-            icon = "__Darkstar_utilities__/graphics/icons/card-3.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-3.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -54,7 +54,7 @@ data:extend(
         {
             type = "item",
             name = "card-4",
-            icon = "__Darkstar_utilities__/graphics/icons/card-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-4.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -66,7 +66,7 @@ data:extend(
         {
             type = "item",
             name = "card-5",
-            icon = "__Darkstar_utilities__/graphics/icons/card-5.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-5.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -78,7 +78,7 @@ data:extend(
         {
             type = "item",
             name = "card-6",
-            icon = "__Darkstar_utilities__/graphics/icons/card-6.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-6.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -90,7 +90,7 @@ data:extend(
         {
             type = "item",
             name = "card-7",
-            icon = "__Darkstar_utilities__/graphics/icons/card-7.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-7.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -102,7 +102,7 @@ data:extend(
         {
             type = "item",
             name = "card-8",
-            icon = "__Darkstar_utilities__/graphics/icons/card-8.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-8.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -114,7 +114,7 @@ data:extend(
         {
             type = "item",
             name = "card-9",
-            icon = "__Darkstar_utilities__/graphics/icons/card-9.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-9.png",
             icon_size = 32,
 
             subgroup = "cards",
@@ -126,7 +126,7 @@ data:extend(
         {
             type = "item",
             name = "card-m",
-            icon = "__Darkstar_utilities__/graphics/icons/card-m.png",
+            icon = "__Darkstar2.0__/graphics/icons/card-m.png",
             icon_size = 32,
 
             subgroup = "cards",

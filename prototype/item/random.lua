@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "laser-core",
-            icon = "__Darkstar_utilities__/graphics/icons/core-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/core-icon.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -16,7 +16,7 @@ data:extend(
         {
             type = "item",
             name = "brain",
-            icon = "__Darkstar_utilities__/graphics/icons/brain.png",
+            icon = "__Darkstar2.0__/graphics/icons/brain.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -27,7 +27,7 @@ data:extend(
         {
             type = "item",
             name = "bio-computer",
-            icon = "__Darkstar_utilities__/graphics/icons/bio-computer.png",
+            icon = "__Darkstar2.0__/graphics/icons/bio-computer.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -38,7 +38,7 @@ data:extend(
         {
             type = "item",
             name = "antithetic-coolant",
-            icon = "__Darkstar_utilities__/graphics/icons/coolant.png",
+            icon = "__Darkstar2.0__/graphics/icons/coolant.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -49,7 +49,7 @@ data:extend(
         {
             type = "item",
             name = "star-miner-drone",
-            icon = "__Darkstar_utilities__/graphics/icons/drone.png",
+            icon = "__Darkstar2.0__/graphics/icons/drone.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -59,7 +59,7 @@ data:extend(
         {
             type = "item",
             name = "antithetic-container",
-            icon = "__Darkstar_utilities__/graphics/icons/antithetic-container.png",
+            icon = "__Darkstar2.0__/graphics/icons/antithetic-container.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -70,7 +70,7 @@ data:extend(
         {
             type = "item",
             name = "star-matter",
-            icon = "__Darkstar_utilities__/graphics/icons/star-matter.png",
+            icon = "__Darkstar2.0__/graphics/icons/star-matter.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -81,7 +81,7 @@ data:extend(
         {
             type = "item",
             name = "dark-matter-capsule",
-            icon = "__Darkstar_utilities__/graphics/icons/dark-matter-capsule.png",
+            icon = "__Darkstar2.0__/graphics/icons/dark-matter-capsule.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -92,7 +92,7 @@ data:extend(
         {
             type = "item",
             name = "antithetical-capsule",
-            icon = "__Darkstar_utilities__/graphics/icons/antithetical-capsule.png",
+            icon = "__Darkstar2.0__/graphics/icons/antithetical-capsule.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -103,7 +103,7 @@ data:extend(
         {
             type = "item",
             name = "norbornadiene-capsule",
-            icon = "__Darkstar_utilities__/graphics/icons/norbornadiene-capsule.png",
+            icon = "__Darkstar2.0__/graphics/icons/norbornadiene-capsule.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -114,7 +114,7 @@ data:extend(
         {
             type = "item",
             name = "star-matter2",
-            icon = "__Darkstar_utilities__/graphics/icons/star-matter2.png",
+            icon = "__Darkstar2.0__/graphics/icons/star-matter2.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -125,7 +125,7 @@ data:extend(
         {
             type = "item",
             name = "dark-matter-capsule2",
-            icon = "__Darkstar_utilities__/graphics/icons/dark-matter-capsule2.png",
+            icon = "__Darkstar2.0__/graphics/icons/dark-matter-capsule2.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -136,7 +136,7 @@ data:extend(
         {
             type = "item",
             name = "antithetical-capsule2",
-            icon = "__Darkstar_utilities__/graphics/icons/antithetical-capsule2.png",
+            icon = "__Darkstar2.0__/graphics/icons/antithetical-capsule2.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -147,7 +147,7 @@ data:extend(
         {
             type = "item",
             name = "norbornadiene-capsule2",
-            icon = "__Darkstar_utilities__/graphics/icons/norbornadiene-capsule2.png",
+            icon = "__Darkstar2.0__/graphics/icons/norbornadiene-capsule2.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -158,7 +158,7 @@ data:extend(
         {
             type = "item",
             name = "swarm-reciever",
-            icon = "__Darkstar_utilities__/graphics/icons/reciever.png",
+            icon = "__Darkstar2.0__/graphics/icons/reciever.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -169,7 +169,7 @@ data:extend(
         {
             type = "item",
             name = "multiverse-swarm-reciever",
-            icon = "__Darkstar_utilities__/graphics/icons/reciever3.png",
+            icon = "__Darkstar2.0__/graphics/icons/reciever3.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -180,7 +180,7 @@ data:extend(
         {
             type = "item",
             name = "interstellar-swarm-reciever",
-            icon = "__Darkstar_utilities__/graphics/icons/reciever4.png",
+            icon = "__Darkstar2.0__/graphics/icons/reciever4.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -191,7 +191,7 @@ data:extend(
         {
             type = "item",
             name = "dyson",
-            icon = "__Darkstar_utilities__/graphics/icons/dyson-sphere-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/dyson-sphere-icon.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -203,7 +203,7 @@ data:extend(
         {
             type = "item",
             name = "multiverse-tear",
-            icon = "__Darkstar_utilities__/graphics/icons/multiverse-tear-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/multiverse-tear-icon.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -215,7 +215,7 @@ data:extend(
         {
             type = "item",
             name = "interstellar-dominion",
-            icon = "__Darkstar_utilities__/graphics/icons/interstellar-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/interstellar-icon.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -227,7 +227,7 @@ data:extend(
         {
             type = "item",
             name = "swarm-storage",
-            icon = "__Darkstar_utilities__/graphics/icons/relay.png",
+            icon = "__Darkstar2.0__/graphics/icons/relay.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -237,7 +237,7 @@ data:extend(
         {
             type = "item",
             name = "module-componant",
-            icon = "__Darkstar_utilities__/graphics/items/module-componant.png",
+            icon = "__Darkstar2.0__/graphics/items/module-componant.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -248,7 +248,7 @@ data:extend(
         {
             type = "item",
             name = "advanced-photovoltaic-cells",
-            icon = "__Darkstar_utilities__/graphics/items/advanced-photovoltaic-cells.png",
+            icon = "__Darkstar2.0__/graphics/items/advanced-photovoltaic-cells.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -260,7 +260,7 @@ data:extend(
         {
             type = "item",
             name = "solar-waffer",
-            icon = "__Darkstar_utilities__/graphics/icons/waffer.png",
+            icon = "__Darkstar2.0__/graphics/icons/waffer.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -271,9 +271,9 @@ data:extend(
         {
             type = "item",
             name = "hydrogen-D",
-            icon = "__Darkstar_utilities__/graphics/icons/hydrogen.png",
+            icon = "__Darkstar2.0__/graphics/icons/hydrogen.png",
             icon_size = 32,
-            dark_background_icon = "__Darkstar_utilities__/graphics/icons/hydrogen.png",
+            dark_background_icon = "__Darkstar2.0__/graphics/icons/hydrogen.png",
             icon_size = 32,
 
             fuel_category = "chemical",
@@ -286,9 +286,9 @@ data:extend(
         {
             type = "item",
             name = "chitin",
-            icon = "__Darkstar_utilities__/graphics/icons/chitin.png",
+            icon = "__Darkstar2.0__/graphics/icons/chitin.png",
             icon_size = 32,
-            dark_background_icon = "__Darkstar_utilities__/graphics/icons/chitin.png",
+            dark_background_icon = "__Darkstar2.0__/graphics/icons/chitin.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -299,9 +299,9 @@ data:extend(
         {
             type = "item",
             name = "sample",
-            icon = "__Darkstar_utilities__/graphics/icons/sample.png",
+            icon = "__Darkstar2.0__/graphics/icons/sample.png",
             icon_size = 32,
-            dark_background_icon = "__Darkstar_utilities__/graphics/icons/sample.png",
+            dark_background_icon = "__Darkstar2.0__/graphics/icons/sample.png",
             icon_size = 32,
 
             subgroup = "random",
@@ -311,7 +311,7 @@ data:extend(
         {
             type = "item",
             name = "micro-cells",
-            icon = "__Darkstar_utilities__/graphics/items/micro-cell.png",
+            icon = "__Darkstar2.0__/graphics/items/micro-cell.png",
             icon_size = 32,
 
             subgroup = "random",

@@ -6,7 +6,7 @@ data:extend(
         {
             type = "accumulator",
             name = "advanced-accumulator",
-            icon = "__Darkstar_utilities__/graphics/icons/advanced-accumulator.png",
+            icon = "__Darkstar2.0__/graphics/icons/advanced-accumulator.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "advanced-accumulator" },
@@ -24,7 +24,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/advanced-accumulator/advanced-accumulator.png",
+                filename = "__Darkstar2.0__/graphics/entity/advanced-accumulator/advanced-accumulator.png",
                 priority = "extra-high",
                 width = 124,
                 height = 103,
@@ -33,7 +33,7 @@ data:extend(
             charge_animation =
             {
                 filename =
-                "__Darkstar_utilities__/graphics/entity/advanced-accumulator/advanced-accumulator-charge-animation.png",
+                "__Darkstar2.0__/graphics/entity/advanced-accumulator/advanced-accumulator-charge-animation.png",
                 width = 138,
                 height = 135,
                 line_length = 8,
@@ -46,7 +46,7 @@ data:extend(
             discharge_animation =
             {
                 filename =
-                "__Darkstar_utilities__/graphics/entity/advanced-accumulator/advanced-accumulator-discharge-animation.png",
+                "__Darkstar2.0__/graphics/entity/advanced-accumulator/advanced-accumulator-discharge-animation.png",
                 width = 147,
                 height = 128,
                 line_length = 8,
@@ -61,7 +61,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/accumulator-working.ogg",
+                    filename = "__Darkstar2.0__/sounds/accumulator-working.ogg",
                     volume = 1
                 },
                 idle_sound = {
@@ -75,7 +75,7 @@ data:extend(
         {
             type = "accumulator",
             name = "flywheel",
-            icon = "__Darkstar_utilities__/graphics/icons/flywheel-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/flywheel-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "flywheel" },
@@ -94,7 +94,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/flywheel.png",
+                filename = "__Darkstar2.0__/graphics/entity/flywheel.png",
                 priority = "extra-high",
                 width = 279,
                 height = 205,
@@ -103,7 +103,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/flywheel-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/flywheel-charge.png",
                 width = 279,
                 height = 205,
                 line_length = 5,
@@ -116,7 +116,7 @@ data:extend(
             charge_light = { intensity = 0.3, size = 7 },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/flywheel-discharge.png",
+                filename = "__Darkstar2.0__/graphics/entity/flywheel-discharge.png",
                 width = 279,
                 height = 205,
                 line_length = 5,
@@ -132,7 +132,7 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/accumulator-working.ogg",
+                    filename = "__Darkstar2.0__/sounds/accumulator-working.ogg",
                     volume = 1
                 },
                 idle_sound = {
@@ -146,7 +146,7 @@ data:extend(
         {
             type = "accumulator",
             name = "energy-liquid",
-            icon = "__Darkstar_utilities__/graphics/icons/energy-liquid-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/energy-liquid-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "energy-liquid" },
@@ -164,7 +164,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/energy-liquid-idle.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/energy-liquid-idle.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -173,7 +173,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/energy-liquid-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/energy-liquid-charge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -187,7 +187,7 @@ data:extend(
             charge_light = { intensity = 1, size = 64, color = { r = 0, g = 0.5, b = 1 } },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/energy-liquid-discharge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/energy-liquid-discharge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -204,11 +204,11 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/water_power.ogg",
+                    filename = "__Darkstar2.0__/sounds/water_power.ogg",
                     volume = 1
                 },
                 idle_sound = {
-                    filename = "__Darkstar_utilities__/sounds/water_power_idle.ogg",
+                    filename = "__Darkstar2.0__/sounds/water_power_idle.ogg",
                     volume = 1
                 },
                 max_sounds_per_type = 5
@@ -222,7 +222,7 @@ data:extend(
         {
             type = "accumulator",
             name = "energy-liquid-2",
-            icon = "__Darkstar_utilities__/graphics/icons/silo-1-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/silo-1-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "energy-liquid-2" },
@@ -240,7 +240,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/silo-1-idle.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/silo-1-idle.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -249,7 +249,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/silo-1-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/silo-1-charge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -263,7 +263,7 @@ data:extend(
             charge_light = { intensity = 1, size = 64, color = { r = 0, g = 0.5, b = 1 } },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/silo-1-discharge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/silo-1-discharge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -280,11 +280,11 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/reactor.ogg",
+                    filename = "__Darkstar2.0__/sounds/reactor.ogg",
                     volume = 2
                 },
                 idle_sound = {
-                    filename = "__Darkstar_utilities__/sounds/reactor.ogg",
+                    filename = "__Darkstar2.0__/sounds/reactor.ogg",
                     volume = 2
                 },
                 max_sounds_per_type = 1
@@ -298,7 +298,7 @@ data:extend(
         {
             type = "accumulator",
             name = "energy-liquid-3",
-            icon = "__Darkstar_utilities__/graphics/icons/large-tank-1-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/large-tank-1-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "energy-liquid-3" },
@@ -316,7 +316,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/large-tank-1-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/large-tank-1-charge.png",
                 priority = "low",
                 width = 500,
                 height = 429,
@@ -328,7 +328,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/large-tank-1-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/large-tank-1-charge.png",
                 priority = "low",
                 width = 500,
                 height = 429,
@@ -342,7 +342,7 @@ data:extend(
             charge_light = { intensity = 1, size = 128, color = { r = 0, g = 0.5, b = 1 } },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/large-tank-1-discharge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/large-tank-1-discharge.png",
                 priority = "low",
                 width = 500,
                 height = 429,
@@ -359,11 +359,11 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/silo3.ogg",
+                    filename = "__Darkstar2.0__/sounds/silo3.ogg",
                     volume = 1
                 },
                 idle_sound = {
-                    filename = "__Darkstar_utilities__/sounds/silo3.ogg",
+                    filename = "__Darkstar2.0__/sounds/silo3.ogg",
                     volume = 1
                 },
                 max_sounds_per_type = 5
@@ -377,7 +377,7 @@ data:extend(
         {
             type = "accumulator",
             name = "energy-liquid-U",
-            icon = "__Darkstar_utilities__/graphics/icons/energy-liquid-2-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/energy-liquid-2-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "energy-liquid-U" },
@@ -395,7 +395,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/energy-liquid-2-idle.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/energy-liquid-2-idle.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -404,7 +404,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/energy-liquid-2-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/energy-liquid-2-charge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -418,7 +418,7 @@ data:extend(
             charge_light = { intensity = 1, size = 64, color = { r = 0, g = 0.5, b = 1 } },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/energy-liquid-2-discharge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/energy-liquid-2-discharge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -435,11 +435,11 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/water_power.ogg",
+                    filename = "__Darkstar2.0__/sounds/water_power.ogg",
                     volume = 1
                 },
                 idle_sound = {
-                    filename = "__Darkstar_utilities__/sounds/water_power_idle.ogg",
+                    filename = "__Darkstar2.0__/sounds/water_power_idle.ogg",
                     volume = 1
                 },
                 max_sounds_per_type = 5
@@ -453,7 +453,7 @@ data:extend(
         {
             type = "accumulator",
             name = "energy-liquid-2-U",
-            icon = "__Darkstar_utilities__/graphics/icons/silo-2-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/silo-2-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "energy-liquid-2-U" },
@@ -471,7 +471,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/silo-2-idle.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/silo-2-idle.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -480,7 +480,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/silo-2-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/silo-2-charge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -494,7 +494,7 @@ data:extend(
             charge_light = { intensity = 1, size = 64, color = { r = 0, g = 0.5, b = 1 } },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/silo-2-discharge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/silo-2-discharge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -511,11 +511,11 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/reactor.ogg",
+                    filename = "__Darkstar2.0__/sounds/reactor.ogg",
                     volume = 2
                 },
                 idle_sound = {
-                    filename = "__Darkstar_utilities__/sounds/reactor.ogg",
+                    filename = "__Darkstar2.0__/sounds/reactor.ogg",
                     volume = 2
                 },
                 max_sounds_per_type = 1
@@ -529,7 +529,7 @@ data:extend(
         {
             type = "accumulator",
             name = "energy-liquid-3-U",
-            icon = "__Darkstar_utilities__/graphics/icons/large-tank-2-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/large-tank-2-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "energy-liquid-3-U" },
@@ -547,7 +547,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/large-tank-2-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/large-tank-2-charge.png",
                 priority = "low",
                 width = 500,
                 height = 429,
@@ -559,7 +559,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/large-tank-2-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/large-tank-2-charge.png",
                 priority = "low",
                 width = 500,
                 height = 429,
@@ -573,7 +573,7 @@ data:extend(
             charge_light = { intensity = 1, size = 128, color = { r = 0, g = 0.5, b = 1 } },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/large-tank-2-discharge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/large-tank-2-discharge.png",
                 priority = "low",
                 width = 500,
                 height = 429,
@@ -590,11 +590,11 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/silo3.ogg",
+                    filename = "__Darkstar2.0__/sounds/silo3.ogg",
                     volume = 1
                 },
                 idle_sound = {
-                    filename = "__Darkstar_utilities__/sounds/silo3.ogg",
+                    filename = "__Darkstar2.0__/sounds/silo3.ogg",
                     volume = 1
                 },
                 max_sounds_per_type = 5
@@ -608,7 +608,7 @@ data:extend(
         {
             type = "accumulator",
             name = "energy-liquid-D",
-            icon = "__Darkstar_utilities__/graphics/icons/energy-liquid-3-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/energy-liquid-3-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "energy-liquid-D" },
@@ -626,7 +626,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/energy-liquid-3-idle.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/energy-liquid-3-idle.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -635,7 +635,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/energy-liquid-3-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/energy-liquid-3-charge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -649,7 +649,7 @@ data:extend(
             charge_light = { intensity = 1, size = 64, color = { r = 0, g = 0.5, b = 1 } },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/energy-liquid-3-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/energy-liquid-3-charge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -666,11 +666,11 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/water_power.ogg",
+                    filename = "__Darkstar2.0__/sounds/water_power.ogg",
                     volume = 1
                 },
                 idle_sound = {
-                    filename = "__Darkstar_utilities__/sounds/water_power_idle.ogg",
+                    filename = "__Darkstar2.0__/sounds/water_power_idle.ogg",
                     volume = 1
                 },
                 max_sounds_per_type = 5
@@ -684,7 +684,7 @@ data:extend(
         {
             type = "accumulator",
             name = "energy-liquid-2-D",
-            icon = "__Darkstar_utilities__/graphics/icons/silo-3-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/silo-3-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "energy-liquid-2-D" },
@@ -702,7 +702,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/silo-3-idle.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/silo-3-idle.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -711,7 +711,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/silo-3-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/silo-3-charge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -725,7 +725,7 @@ data:extend(
             charge_light = { intensity = 1, size = 64, color = { r = 0, g = 0.5, b = 1 } },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/silo-3-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/silo-3-charge.png",
                 priority = "low",
                 width = 480,
                 height = 270,
@@ -742,11 +742,11 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/reactor.ogg",
+                    filename = "__Darkstar2.0__/sounds/reactor.ogg",
                     volume = 2
                 },
                 idle_sound = {
-                    filename = "__Darkstar_utilities__/sounds/reactor.ogg",
+                    filename = "__Darkstar2.0__/sounds/reactor.ogg",
                     volume = 2
                 },
                 max_sounds_per_type = 1
@@ -760,7 +760,7 @@ data:extend(
         {
             type = "accumulator",
             name = "energy-liquid-3-D",
-            icon = "__Darkstar_utilities__/graphics/icons/large-tank-3-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/large-tank-3-icon.png",
             icon_size = 32,
             flags = { "placeable-neutral", "player-creation" },
             minable = { hardness = 0.2, mining_time = 0.5, result = "energy-liquid-3-D" },
@@ -778,7 +778,7 @@ data:extend(
             },
             picture =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/large-tank-3-idle.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/large-tank-3-idle.png",
                 priority = "low",
                 width = 500,
                 height = 429,
@@ -787,7 +787,7 @@ data:extend(
             },
             charge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/large-tank-3-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/large-tank-3-charge.png",
                 priority = "low",
                 width = 500,
                 height = 429,
@@ -801,7 +801,7 @@ data:extend(
             charge_light = { intensity = 1, size = 128, color = { r = 0, g = 0.5, b = 1 } },
             discharge_animation =
             {
-                filename = "__Darkstar_utilities__/graphics/entity/energy-liquid/large-tank-3-charge.png",
+                filename = "__Darkstar2.0__/graphics/entity/energy-liquid/large-tank-3-charge.png",
                 priority = "low",
                 width = 500,
                 height = 429,
@@ -818,11 +818,11 @@ data:extend(
             {
                 sound =
                 {
-                    filename = "__Darkstar_utilities__/sounds/silo3.ogg",
+                    filename = "__Darkstar2.0__/sounds/silo3.ogg",
                     volume = 1
                 },
                 idle_sound = {
-                    filename = "__Darkstar_utilities__/sounds/silo3.ogg",
+                    filename = "__Darkstar2.0__/sounds/silo3.ogg",
                     volume = 1
                 },
                 max_sounds_per_type = 5

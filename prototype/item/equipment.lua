@@ -7,7 +7,7 @@ data:extend(
             type = "item",
             name = "advanced-laser-defense-equipment",
             placed_as_equipment_result = "advanced-laser-defense-equipment",
-            icon = "__Darkstar_utilities__/graphics/icons/smg-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/smg-icon2.png",
             icon_size = 32,
 
             subgroup = "equipment-defense",
@@ -19,7 +19,7 @@ data:extend(
             type = "item",
             name = "advanced-laser-defense-equipment-mk2",
             placed_as_equipment_result = "advanced-laser-defense-equipment-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/sniper-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/sniper-icon2.png",
             icon_size = 32,
 
             subgroup = "equipment-defense",
@@ -31,7 +31,7 @@ data:extend(
             type = "item",
             name = "advanced-laser-defense-equipment-mk3",
             placed_as_equipment_result = "advanced-laser-defense-equipment-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/rifle-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/rifle-icon2.png",
             icon_size = 32,
 
             subgroup = "equipment-defense",
@@ -43,7 +43,7 @@ data:extend(
             type = "item",
             name = "shoulder-tank-cannon",
             placed_as_equipment_result = "shoulder-tank-cannon",
-            icon = "__Darkstar_utilities__/graphics/icons/cannon-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/cannon-icon2.png",
             icon_size = 32,
 
             subgroup = "equipment-defense",
@@ -55,7 +55,7 @@ data:extend(
             type = "item",
             name = "shoulder-railgun",
             placed_as_equipment_result = "shoulder-railgun",
-            icon = "__Darkstar_utilities__/graphics/icons/railgun-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/railgun-icon2.png",
             icon_size = 32,
 
             subgroup = "equipment-defense",
@@ -65,7 +65,7 @@ data:extend(
         {
             type = "item",
             name = "battery-mk3",
-            icon = "__Darkstar_utilities__/graphics/items/battery-mk3.png",
+            icon = "__Darkstar2.0__/graphics/items/battery-mk3.png",
             icon_size = 32,
             placed_as_equipment_result = "battery-mk3",
 
@@ -76,7 +76,7 @@ data:extend(
         {
             type = "item",
             name = "energy-shield-mk3-equipment",
-            icon = "__Darkstar_utilities__/graphics/items/energy-shield-mk3-equipment.png",
+            icon = "__Darkstar2.0__/graphics/items/energy-shield-mk3-equipment.png",
             icon_size = 32,
             placed_as_equipment_result = "energy-shield-mk3-equipment",
 
@@ -88,7 +88,7 @@ data:extend(
         {
             type = "item",
             name = "energy-shield-mk4-equipment",
-            icon = "__Darkstar_utilities__/graphics/items/energy-shield-mk4-equipment.png",
+            icon = "__Darkstar2.0__/graphics/items/energy-shield-mk4-equipment.png",
             icon_size = 32,
             placed_as_equipment_result = "energy-shield-mk4-equipment",
 
@@ -99,7 +99,7 @@ data:extend(
         {
             type = "item",
             name = "advanced-exoskeleton-equipment",
-            icon = "__Darkstar_utilities__/graphics/equipment/advanced-exoskeleton-equipment-icon.png",
+            icon = "__Darkstar2.0__/graphics/equipment/advanced-exoskeleton-equipment-icon.png",
             icon_size = 32,
             placed_as_equipment_result = "advanced-exoskeleton-equipment",
 
@@ -110,7 +110,7 @@ data:extend(
         {
             type = "item",
             name = "personal-roboport-equipment-mk2",
-            icon = "__Darkstar_utilities__/graphics/equipment/personal-roboport-equipment-mk3-icon.png",
+            icon = "__Darkstar2.0__/graphics/equipment/personal-roboport-equipment-mk3-icon.png",
             icon_size = 32,
             placed_as_equipment_result = "personal-roboport-equipment-mk2",
 
@@ -122,7 +122,7 @@ data:extend(
         {
             type = "item",
             name = "large-personal-roboport-equipment",
-            icon = "__Darkstar_utilities__/graphics/equipment/personal-roboport-equipment-mk2-icon.png",
+            icon = "__Darkstar2.0__/graphics/equipment/personal-roboport-equipment-mk2-icon.png",
             icon_size = 32,
             placed_as_equipment_result = "large-personal-roboport-equipment",
 
@@ -133,7 +133,7 @@ data:extend(
         {
             type = "item",
             name = "dark-matter-reactor",
-            icon = "__Darkstar_utilities__/graphics/equipment/dark-matter-icon.png",
+            icon = "__Darkstar2.0__/graphics/equipment/dark-matter-icon.png",
             icon_size = 32,
             placed_as_equipment_result = "dark-matter-reactor",
 
@@ -144,7 +144,7 @@ data:extend(
         {
             type = "item",
             name = "dark-matter-reactor-mk2",
-            icon = "__Darkstar_utilities__/graphics/equipment/4D-power-icon.png",
+            icon = "__Darkstar2.0__/graphics/equipment/4D-power-icon.png",
             icon_size = 32,
             placed_as_equipment_result = "dark-matter-reactor-mk2",
 
@@ -155,7 +155,7 @@ data:extend(
         {
             type = "item",
             name = "battery-mk4",
-            icon = "__Darkstar_utilities__/graphics/items/battery-mk4.png",
+            icon = "__Darkstar2.0__/graphics/items/battery-mk4.png",
             icon_size = 32,
             placed_as_equipment_result = "battery-mk4",
 
@@ -167,7 +167,7 @@ data:extend(
         {
             type = "item",
             name = "battery-mk4",
-            icon = "__Darkstar_utilities__/graphics/items/battery-mk4.png",
+            icon = "__Darkstar2.0__/graphics/items/battery-mk4.png",
             icon_size = 32,
             placed_as_equipment_result = "battery-mk4",
 

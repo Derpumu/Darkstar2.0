@@ -386,7 +386,7 @@ data:extend(
                         y = 96,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra2.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -405,7 +405,7 @@ data:extend(
                         height = 96,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra2.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -426,7 +426,7 @@ data:extend(
                         y = 96 * 3,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra2.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -439,14 +439,14 @@ data:extend(
                 {
                     sheet =
                     {
-                        filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra2.png",
+                        filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra2.png",
                         priority = "extra-high",
                         width = 96,
                         height = 96,
                         y = 96 * 2,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -559,7 +559,7 @@ data:extend(
                         y = 96,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -578,7 +578,7 @@ data:extend(
                         height = 96,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -599,7 +599,7 @@ data:extend(
                         y = 96 * 3,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -619,7 +619,7 @@ data:extend(
                         y = 96 * 2,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -733,7 +733,7 @@ data:extend(
                         y = 96,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra2.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -753,7 +753,7 @@ data:extend(
                         height = 96,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra2.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -773,7 +773,7 @@ data:extend(
                         y = 96 * 3,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra2.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -794,7 +794,7 @@ data:extend(
                         y = 96 * 2,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra2.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra2.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -906,7 +906,7 @@ data:extend(
                         y = 96,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -926,7 +926,7 @@ data:extend(
                         height = 96,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -946,7 +946,7 @@ data:extend(
                         y = 96 * 3,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,
@@ -967,7 +967,7 @@ data:extend(
                         y = 96 * 2,
                         hr_version =
                         {
-                            filename = "__Darkstar_utilities__/graphics/entity/belt/underground-terra.png",
+                            filename = "__Darkstar2.0__/graphics/entity/belt/underground-terra.png",
                             priority = "extra-high",
                             width = 192,
                             height = 192,

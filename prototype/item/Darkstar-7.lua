@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "logistic-robot-mk2",
-            icon = "__Darkstar_utilities__/graphics/entity/robots/logistic-robot-mk2-icon.png",
+            icon = "__Darkstar2.0__/graphics/entity/robots/logistic-robot-mk2-icon.png",
             icon_size = 32,
 
             subgroup = "Darkstar-7",
@@ -18,7 +18,7 @@ data:extend(
         {
             type = "item",
             name = "construction-robot-mk2",
-            icon = "__Darkstar_utilities__/graphics/entity/robots/construction-robot-mk2-icon.png",
+            icon = "__Darkstar2.0__/graphics/entity/robots/construction-robot-mk2-icon.png",
             icon_size = 32,
 
             subgroup = "Darkstar-7",
@@ -30,7 +30,7 @@ data:extend(
         {
             type = "item",
             name = "logistic-robot-mk3",
-            icon = "__Darkstar_utilities__/graphics/items/rift1.png",
+            icon = "__Darkstar2.0__/graphics/items/rift1.png",
             icon_size = 32,
 
             subgroup = "Darkstar-7",
@@ -42,7 +42,7 @@ data:extend(
         {
             type = "item",
             name = "construction-robot-mk3",
-            icon = "__Darkstar_utilities__/graphics/items/rift2.png",
+            icon = "__Darkstar2.0__/graphics/items/rift2.png",
             icon_size = 32,
 
             subgroup = "Darkstar-7",
@@ -53,7 +53,7 @@ data:extend(
         {
             type = "item",
             name = "roboport-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/roboport-2.png",
+            icon = "__Darkstar2.0__/graphics/icons/roboport-2.png",
             icon_size = 32,
 
             subgroup = "Darkstar-7",
@@ -65,7 +65,7 @@ data:extend(
         {
             type = "item",
             name = "roboport-mk3",
-            icon = "__Darkstar_utilities__/graphics/icons/roboport-3.png",
+            icon = "__Darkstar2.0__/graphics/icons/roboport-3.png",
             icon_size = 32,
 
             subgroup = "Darkstar-7",
@@ -77,7 +77,7 @@ data:extend(
         {
             type = "item",
             name = "roboport-mk4",
-            icon = "__Darkstar_utilities__/graphics/icons/roboport-4.png",
+            icon = "__Darkstar2.0__/graphics/icons/roboport-4.png",
             icon_size = 32,
 
             subgroup = "Darkstar-7",
@@ -89,7 +89,7 @@ data:extend(
         {
             type = "item",
             name = "roboport-charger",
-            icon = "__Darkstar_utilities__/graphics/icons/roboport-c.png",
+            icon = "__Darkstar2.0__/graphics/icons/roboport-c.png",
             icon_size = 32,
 
             subgroup = "Darkstar-7",

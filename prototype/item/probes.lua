@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "fish-farm",
-            icon = "__Darkstar_utilities__/graphics/icons/fish-farm-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/fish-farm-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "-a[fish-farm]-a[fish-farm]",
@@ -17,7 +17,7 @@ data:extend(
         {
             type = "item",
             name = "iron-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/iron-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/iron-probe-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "a-[probe]-a[probe]",
@@ -28,7 +28,7 @@ data:extend(
         {
             type = "item",
             name = "copper-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/copper-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/copper-probe-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "b-[probe]-b[probe]",
@@ -39,7 +39,7 @@ data:extend(
         {
             type = "item",
             name = "lead-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/lead-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/lead-probe-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "c-[probe]-c[probe]",
@@ -50,7 +50,7 @@ data:extend(
         {
             type = "item",
             name = "gold-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/gold-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/gold-probe-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "d-[probe]-d[probe]",
@@ -61,7 +61,7 @@ data:extend(
         {
             type = "item",
             name = "stone-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/stone-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/stone-probe-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "e-[probe]-e[probe]",
@@ -72,7 +72,7 @@ data:extend(
         {
             type = "item",
             name = "uranium-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/uranium-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/uranium-probe-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "f-[probe]-f[probe]",
@@ -83,7 +83,7 @@ data:extend(
         {
             type = "item",
             name = "iron-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/iron-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/iron-probe-icon2.png",
             icon_size = 32,
             subgroup = "probes",
             order = "a[probe]-a[probe]",
@@ -94,7 +94,7 @@ data:extend(
         {
             type = "item",
             name = "copper-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/copper-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/copper-probe-icon2.png",
             icon_size = 32,
             subgroup = "probes",
             order = "b[probe]-b[probe]",
@@ -105,7 +105,7 @@ data:extend(
         {
             type = "item",
             name = "lead-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/lead-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/lead-probe-icon2.png",
             icon_size = 32,
             subgroup = "probes",
             order = "c[probe]-c[probe]",
@@ -116,7 +116,7 @@ data:extend(
         {
             type = "item",
             name = "gold-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/gold-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/gold-probe-icon2.png",
             icon_size = 32,
             subgroup = "probes",
             order = "d[probe]-d[probe]",
@@ -127,7 +127,7 @@ data:extend(
         {
             type = "item",
             name = "stone-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/stone-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/stone-probe-icon2.png",
             icon_size = 32,
             subgroup = "probes",
             order = "e[probe]-e[probe]",
@@ -138,7 +138,7 @@ data:extend(
         {
             type = "item",
             name = "uranium-probe2",
-            icon = "__Darkstar_utilities__/graphics/icons/uranium-probe-icon2.png",
+            icon = "__Darkstar2.0__/graphics/icons/uranium-probe-icon2.png",
             icon_size = 32,
             subgroup = "probes",
             order = "f[probe]-f[probe]",
@@ -149,7 +149,7 @@ data:extend(
         {
             type = "item",
             name = "diamond-probe",
-            icon = "__Darkstar_utilities__/graphics/icons/diamond-probe-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/diamond-probe-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "g[probe]-f[probe]",
@@ -160,7 +160,7 @@ data:extend(
         {
             type = "item",
             name = "brain-grower",
-            icon = "__Darkstar_utilities__/graphics/icons/brain-grower-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/brain-grower-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "-c[probe]-f[probe]",
@@ -171,7 +171,7 @@ data:extend(
         {
             type = "item",
             name = "ore-extractor",
-            icon = "__Darkstar_utilities__/graphics/icons/ore-extractor-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/ore-extractor-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "-b[biodome]-a[biodome]",
@@ -182,7 +182,7 @@ data:extend(
         {
             type = "item",
             name = "satelite-radar",
-            icon = "__Darkstar_utilities__/graphics/icons/ore-extractor-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/ore-extractor-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "-b[biodome]-a[biodome]",
@@ -192,7 +192,7 @@ data:extend(
         {
             type = "item",
             name = "vacuum-chamber",
-            icon = "__Darkstar_utilities__/graphics/icons/vacuum-chamber-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/vacuum-chamber-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "-b[biodome]-a[biodome]",
@@ -202,7 +202,7 @@ data:extend(
         {
             type = "item",
             name = "biodome",
-            icon = "__Darkstar_utilities__/graphics/icons/biodome-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/biodome-icon.png",
             icon_size = 32,
             subgroup = "probes",
             order = "-b[biodome]-a[biodome]",

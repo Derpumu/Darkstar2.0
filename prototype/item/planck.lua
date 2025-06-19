@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "almer-transponder",
-            icon = "__Darkstar_utilities__/graphics/icons/almer-transponder.png",
+            icon = "__Darkstar2.0__/graphics/icons/almer-transponder.png",
             icon_size = 32,
             subgroup = "planck",
             order = "-b[regulator]",
@@ -16,7 +16,7 @@ data:extend(
         {
             type = "item",
             name = "ohm-lock",
-            icon = "__Darkstar_utilities__/graphics/icons/ohm-lock.png",
+            icon = "__Darkstar2.0__/graphics/icons/ohm-lock.png",
             icon_size = 32,
             subgroup = "planck",
             order = "-b[regulator]",
@@ -26,7 +26,7 @@ data:extend(
         {
             type = "item",
             name = "field-stabilizer",
-            icon = "__Darkstar_utilities__/graphics/icons/field-stabilizer.png",
+            icon = "__Darkstar2.0__/graphics/icons/field-stabilizer.png",
             icon_size = 32,
             subgroup = "planck",
             order = "-b[regulator]",
@@ -36,7 +36,7 @@ data:extend(
         {
             type = "item",
             name = "planck-ripper",
-            icon = "__Darkstar_utilities__/graphics/icons/planck-ripper-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/planck-ripper-icon.png",
             icon_size = 32,
             subgroup = "planck",
             order = "-a[ripper]",

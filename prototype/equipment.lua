@@ -6,7 +6,7 @@ data:extend(
       categories = { "armor", },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/dark-matter-2.png",
+        filename = "__Darkstar2.0__/graphics/equipment/dark-matter-2.png",
         width = 206,
         height = 207,
         priority = "medium"
@@ -31,7 +31,7 @@ data:extend(
       categories = { "vehicle", },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/engine-room.png",
+        filename = "__Darkstar2.0__/graphics/equipment/engine-room.png",
         width = 256,
         height = 256,
         priority = "medium"
@@ -56,7 +56,7 @@ data:extend(
       categories = { "armor", "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/smg-icon.png",
+        filename = "__Darkstar2.0__/graphics/equipment/smg-icon.png",
         width = 351,
         height = 516,
         priority = "medium"
@@ -84,7 +84,7 @@ data:extend(
         range = 10,
         sound =
         {
-          filename = "__Darkstar_utilities__/sounds/laser-2.ogg",
+          filename = "__Darkstar2.0__/sounds/laser-2.ogg",
           volume = 0.35,
           max_sounds_per_type = 2
         },
@@ -120,7 +120,7 @@ data:extend(
       categories = { "armor", "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/sniper-icon.png",
+        filename = "__Darkstar2.0__/graphics/equipment/sniper-icon.png",
         width = 351,
         height = 516,
         priority = "medium"
@@ -148,7 +148,7 @@ data:extend(
         range = 100,
         sound =
         {
-          filename = "__Darkstar_utilities__/sounds/laser-1.ogg",
+          filename = "__Darkstar2.0__/sounds/laser-1.ogg",
           volume = 1
         },
         ammo_type =
@@ -183,7 +183,7 @@ data:extend(
       categories = { "armor", "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/rifle-icon.png",
+        filename = "__Darkstar2.0__/graphics/equipment/rifle-icon.png",
         width = 351,
         height = 516,
         priority = "medium"
@@ -211,7 +211,7 @@ data:extend(
         range = 25,
         sound =
         {
-          filename = "__Darkstar_utilities__/sounds/laser-3.ogg",
+          filename = "__Darkstar2.0__/sounds/laser-3.ogg",
           volume = 0.35,
           max_sounds_per_type = 2
         },
@@ -247,7 +247,7 @@ data:extend(
       categories = { "armor", "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/cannon-icon.png",
+        filename = "__Darkstar2.0__/graphics/equipment/cannon-icon.png",
         width = 351,
         height = 516,
         priority = "medium"
@@ -275,7 +275,7 @@ data:extend(
         range = 200,
         sound =
         {
-          filename = "__Darkstar_utilities__/sounds/nuclear-explosion.ogg",
+          filename = "__Darkstar2.0__/sounds/nuclear-explosion.ogg",
           volume = 0.35,
           max_sounds_per_type = 2
         },
@@ -311,7 +311,7 @@ data:extend(
       categories = { "armor", "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/railgun-icon.png",
+        filename = "__Darkstar2.0__/graphics/equipment/railgun-icon.png",
         width = 351,
         height = 516,
         priority = "medium"
@@ -339,7 +339,7 @@ data:extend(
         range = 200,
         sound =
         {
-          filename = "__Darkstar_utilities__/sounds/railgun-mk2.ogg",
+          filename = "__Darkstar2.0__/sounds/railgun-mk2.ogg",
           volume = 0.35,
           max_sounds_per_type = 2
         },
@@ -375,7 +375,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/ship-cannon.png",
+        filename = "__Darkstar2.0__/graphics/equipment/ship-cannon.png",
         width = 960,
         height = 960,
         priority = "medium"
@@ -403,7 +403,7 @@ data:extend(
         range = 200,
         sound =
         {
-          filename = "__Darkstar_utilities__/sounds/nuclear-explosion.ogg",
+          filename = "__Darkstar2.0__/sounds/nuclear-explosion.ogg",
           volume = 0.35,
           max_sounds_per_type = 2
         },
@@ -439,7 +439,7 @@ data:extend(
       categories = { "armor", },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/4D-power-3.png",
+        filename = "__Darkstar2.0__/graphics/equipment/4D-power-3.png",
         width = 256,
         height = 256,
         priority = "medium"
@@ -464,7 +464,7 @@ data:extend(
       categories = { "armor" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/advanced-exoskeleton-equipment.png",
+        filename = "__Darkstar2.0__/graphics/equipment/advanced-exoskeleton-equipment.png",
         width = 64,
         height = 128,
         priority = "medium"
@@ -490,7 +490,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/thruster-upgrade.png",
+        filename = "__Darkstar2.0__/graphics/equipment/thruster-upgrade.png",
         width = 672,
         height = 672,
         priority = "medium"
@@ -517,7 +517,7 @@ data:extend(
       take_result = "large-personal-roboport-equipment",
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/large-roboport.png",
+        filename = "__Darkstar2.0__/graphics/equipment/large-roboport.png",
         width = 256,
         height = 256,
         priority = "medium"
@@ -580,7 +580,7 @@ data:extend(
       take_result = "large-personal-roboport-equipment",
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/large-roboport.png",
+        filename = "__Darkstar2.0__/graphics/equipment/large-roboport.png",
         width = 256,
         height = 256,
         priority = "medium"
@@ -642,7 +642,7 @@ data:extend(
       categories = { "armor", },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/energy-shield-mk3-equipment.png",
+        filename = "__Darkstar2.0__/graphics/equipment/energy-shield-mk3-equipment.png",
         width = 64,
         height = 64,
         priority = "medium"
@@ -670,7 +670,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/icons/vehicle-shield.png",
+        filename = "__Darkstar2.0__/graphics/icons/vehicle-shield.png",
         width = 1244,
         height = 1244,
         priority = "medium"
@@ -698,7 +698,7 @@ data:extend(
       categories = { "armor", },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/battery-mk3.png",
+        filename = "__Darkstar2.0__/graphics/equipment/battery-mk3.png",
         width = 32,
         height = 64,
         priority = "medium"
@@ -724,7 +724,7 @@ data:extend(
       categories = { "armor", },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/battery-mk4.png",
+        filename = "__Darkstar2.0__/graphics/equipment/battery-mk4.png",
         width = 32,
         height = 64,
         priority = "medium"
@@ -751,7 +751,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/research/energy-liquid-1-research.png",
+        filename = "__Darkstar2.0__/graphics/research/energy-liquid-1-research.png",
         width = 500,
         height = 500,
         priority = "medium"
@@ -778,7 +778,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/research/silo-1-research.png",
+        filename = "__Darkstar2.0__/graphics/research/silo-1-research.png",
         width = 500,
         height = 500,
         priority = "medium"
@@ -805,7 +805,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/research/silo-2-1-research.png",
+        filename = "__Darkstar2.0__/graphics/research/silo-2-1-research.png",
         width = 256,
         height = 256,
         priority = "medium"
@@ -832,7 +832,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/research/energy-liquid-2-research.png",
+        filename = "__Darkstar2.0__/graphics/research/energy-liquid-2-research.png",
         width = 500,
         height = 500,
         priority = "medium"
@@ -859,7 +859,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/research/silo-2-research.png",
+        filename = "__Darkstar2.0__/graphics/research/silo-2-research.png",
         width = 500,
         height = 500,
         priority = "medium"
@@ -886,7 +886,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/research/silo-2-2-research.png",
+        filename = "__Darkstar2.0__/graphics/research/silo-2-2-research.png",
         width = 256,
         height = 256,
         priority = "medium"
@@ -913,7 +913,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/research/energy-liquid-3-research.png",
+        filename = "__Darkstar2.0__/graphics/research/energy-liquid-3-research.png",
         width = 500,
         height = 500,
         priority = "medium"
@@ -940,7 +940,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/research/silo-3-research.png",
+        filename = "__Darkstar2.0__/graphics/research/silo-3-research.png",
         width = 500,
         height = 500,
         priority = "medium"
@@ -967,7 +967,7 @@ data:extend(
       categories = { "vehicle" },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/research/silo-2-3-research.png",
+        filename = "__Darkstar2.0__/graphics/research/silo-2-3-research.png",
         width = 256,
         height = 256,
         priority = "medium"
@@ -994,7 +994,7 @@ data:extend(
       categories = { "armor", },
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/energy-shield-mk4-equipment.png",
+        filename = "__Darkstar2.0__/graphics/equipment/energy-shield-mk4-equipment.png",
         width = 64,
         height = 64,
         priority = "medium"
@@ -1022,7 +1022,7 @@ data:extend(
       take_result = "personal-roboport-equipment-mk2",
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/equipment/personal-roboport-equipment-mk2.png",
+        filename = "__Darkstar2.0__/graphics/equipment/personal-roboport-equipment-mk2.png",
         width = 64,
         height = 64,
         priority = "medium"
@@ -1083,7 +1083,7 @@ data:extend(
       name = "solar-panel-mk2",
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel.png",
+        filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel.png",
         width = 104,
         height = 96,
         priority = "medium"
@@ -1107,7 +1107,7 @@ data:extend(
       name = "solar-panel-mk3",
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk2.png",
+        filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk2.png",
         width = 104,
         height = 96,
         priority = "medium"
@@ -1131,7 +1131,7 @@ data:extend(
       name = "solar-panel-mk4",
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk3.png",
+        filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk3.png",
         width = 104,
         height = 96,
         priority = "medium"
@@ -1155,7 +1155,7 @@ data:extend(
       name = "solar-panel-mk5",
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk4.png",
+        filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk4.png",
         width = 208,
         height = 192,
         priority = "medium"
@@ -1179,7 +1179,7 @@ data:extend(
       name = "solar-panel-mk6",
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk5.png",
+        filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk5.png",
         width = 208,
         height = 192,
         priority = "medium"
@@ -1203,7 +1203,7 @@ data:extend(
       name = "solar-panel-mk7",
       sprite =
       {
-        filename = "__Darkstar_utilities__/graphics/entity/solar-panel/advanced-solar-panel-mk6.png",
+        filename = "__Darkstar2.0__/graphics/entity/solar-panel/advanced-solar-panel-mk6.png",
         width = 208,
         height = 192,
         priority = "medium"

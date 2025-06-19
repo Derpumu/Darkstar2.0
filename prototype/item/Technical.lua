@@ -6,7 +6,7 @@ data:extend(
         {
             type = "item",
             name = "tesla-coil",
-            icon = "__Darkstar_utilities__/graphics/icons/tesla-coil-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/tesla-coil-icon.png",
             icon_size = 32,
 
             subgroup = "Technical",
@@ -18,7 +18,7 @@ data:extend(
         {
             type = "item",
             name = "terra-coil",
-            icon = "__Darkstar_utilities__/graphics/icons/tesla-coil-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/tesla-coil-icon.png",
             icon_size = 32,
 
             subgroup = "Technical",
@@ -31,7 +31,7 @@ data:extend(
         {
             type = "item",
             name = "substation-mk2",
-            icon = "__Darkstar_utilities__/graphics/entity/substation-mk2/substation-icon.png",
+            icon = "__Darkstar2.0__/graphics/entity/substation-mk2/substation-icon.png",
             icon_size = 32,
 
             subgroup = "Technical",
@@ -42,7 +42,7 @@ data:extend(
         {
             type = "item",
             name = "ultra-beacon",
-            icon = "__Darkstar_utilities__/graphics/icons/ultra-beacon-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/ultra-beacon-icon.png",
             icon_size = 32,
 
             subgroup = "Technical",
@@ -54,7 +54,7 @@ data:extend(
         {
             type = "item",
             name = "efficiency-beacon",
-            icon = "__Darkstar_utilities__/graphics/icons/efficiency-beacon-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/efficiency-beacon-icon.png",
             icon_size = 32,
 
             subgroup = "Technical",
@@ -65,7 +65,7 @@ data:extend(
         {
             type = "item",
             name = "power-boost-beacon",
-            icon = "__Darkstar_utilities__/graphics/icons/power-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/power-icon.png",
             icon_size = 32,
 
             subgroup = "Technical",
@@ -77,7 +77,7 @@ data:extend(
         {
             type = "item",
             name = "basic-beacon-mk2",
-            icon = "__Darkstar_utilities__/graphics/icons/basic-beacon-mk2-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/basic-beacon-mk2-icon.png",
             icon_size = 32,
 
             subgroup = "Technical",
@@ -90,7 +90,7 @@ data:extend(
         {
             type = "item",
             name = "world-array",
-            icon = "__Darkstar_utilities__/graphics/icons/world-array-icon.png",
+            icon = "__Darkstar2.0__/graphics/icons/world-array-icon.png",
             icon_size = 32,
 
             subgroup = "Technical",
