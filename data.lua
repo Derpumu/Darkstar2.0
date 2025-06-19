@@ -9,7 +9,7 @@
 require("prototype.ammo-category")
 -- require("prototype.projectiles")
 -- require("prototype.tiles")
--- require("prototype.autoplace-controls")
+require("prototype.autoplace-controls")
 -- require("prototype.equipment-grid")
 -- require("prototype.noise-layers")
 require("prototype.fluid")
