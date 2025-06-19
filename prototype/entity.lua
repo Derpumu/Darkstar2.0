@@ -7,7 +7,7 @@
 require("entity.electric-energy-interface")
 -- require("entity.electric-pole")
 require("entity.enemies")
--- require("entity.explosion")
+require("entity.explosion")
 -- require("entity.furnace")
 -- require("entity.inserter")
 -- require("entity.lamp")

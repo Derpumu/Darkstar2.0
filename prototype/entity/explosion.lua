@@ -78,8 +78,6 @@ data:extend(
                     height = 245,
                     frame_count = 47,
                     line_length = 6,
-                    axially_symmetrical = false,
-                    direction_count = 1,
                     shift = { 0.1875, -0.75 },
                     animation_speed = 0.25,
 
@@ -133,8 +131,6 @@ data:extend(
                     height = 245,
                     frame_count = 47,
                     line_length = 6,
-                    axially_symmetrical = false,
-                    direction_count = 1,
                     shift = { 0.1875, -0.75 },
                     animation_speed = 0.75,
 
@@ -188,8 +184,6 @@ data:extend(
                     height = 245,
                     frame_count = 47,
                     line_length = 6,
-                    axially_symmetrical = false,
-                    direction_count = 1,
                     shift = { 0.1875, -0.75 },
                     animation_speed = 0.15,
                     scale = 10
