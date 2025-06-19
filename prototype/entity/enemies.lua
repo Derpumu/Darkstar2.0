@@ -16,5 +16,3 @@ data:extend(
      behemoth_biter_2
   }
 )
-
-

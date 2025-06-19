@@ -1,6 +1,4 @@
--- TODO: check what has been copy-pasted from 1.1
--- TODO: check attributes in 2.0
-
+-- TODO: place_results
 data:extend(
     {
         {
@@ -196,7 +194,7 @@ data:extend(
 
             subgroup = "random",
             order = "z[advanced-photovoltaic-cells]",
-            place_result = "dyson",
+            -- TODO:  place_result = "dyson",  
             stack_size = 500
         },
 
@@ -208,7 +206,7 @@ data:extend(
 
             subgroup = "random",
             order = "z[advanced-photovoltaic-cells]",
-            place_result = "multiverse-tear",
+            -- TODO:  place_result = "multiverse-tear",
             stack_size = 500
         },
 
@@ -220,7 +218,7 @@ data:extend(
 
             subgroup = "random",
             order = "z[advanced-photovoltaic-cells]",
-            place_result = "interstellar-dominion",
+            -- TODO:  place_result = "interstellar-dominion",
             stack_size = 500
         },
 
@@ -274,7 +272,7 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/hydrogen.png",
             icon_size = 32,
             dark_background_icon = "__Darkstar2.0__/graphics/icons/hydrogen.png",
-            icon_size = 32,
+            dark_background_icon_size = 32,
 
             fuel_category = "chemical",
             fuel_value = "65MJ",
@@ -289,7 +287,7 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/chitin.png",
             icon_size = 32,
             dark_background_icon = "__Darkstar2.0__/graphics/icons/chitin.png",
-            icon_size = 32,
+            dark_background_icon_size = 32,
 
             subgroup = "random",
             order = "a[fluid]-a[water]",
@@ -302,7 +300,7 @@ data:extend(
             icon = "__Darkstar2.0__/graphics/icons/sample.png",
             icon_size = 32,
             dark_background_icon = "__Darkstar2.0__/graphics/icons/sample.png",
-            icon_size = 32,
+            dark_background_icon_size = 32,
 
             subgroup = "random",
             order = "a[fluid]-a[water]",

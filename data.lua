@@ -1,6 +1,6 @@
 require("prototype.item")  -- TODO
 require("prototype.item-group")
--- require("prototype.entity")
+require("prototype.entity")  -- TODO
 -- require("prototype.recipe")
 -- require("prototype.technology")
 require("prototype.modules")
