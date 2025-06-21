@@ -1,7 +1,7 @@
 require("item.advanced-materials")
 require("item.ammo")
 require("item.base-packs")
--- require("item.belts")
+require("item.belts")
 -- require("item.capsule")
 require("item.cards")
 -- require("item.computer")

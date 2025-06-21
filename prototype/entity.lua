@@ -1,7 +1,7 @@
 -- require("entity.accumulator")
 -- require("entity.assembling-machine")
 -- require("entity.beacon")
--- require("entity.belts")
+require("entity.belts")
 -- require("entity.car")
 -- require("entity.container")
 require("entity.electric-energy-interface")
